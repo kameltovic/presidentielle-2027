@@ -36,6 +36,9 @@ struct CandidateView: View {
         .foregroundStyle(.white)
         .tint(.white)
         .environment(\.colorScheme, .dark) // page immersive : toujours sombre, comme Onde
+        // Les barres (et l'estompage du bas sous la barre d'onglets) suivent sinon le thème clair → bande blanche.
+        .toolbarColorScheme(.dark, for: .navigationBar, .tabBar)
+        .scrollEdgeEffectStyle(.soft, for: .bottom)
         .navigationTitle("")
         .navigationBarTitleDisplayMode(.inline)
         .toolbarBackgroundVisibility(.hidden, for: .navigationBar)

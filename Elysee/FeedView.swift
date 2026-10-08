@@ -29,10 +29,11 @@ struct FeedView: View {
     @Environment(Store.self) private var store
     @State private var kind = Kind.actus
     @State private var only: Candidate?
+    @State private var followedOnly = false
 
     private var items: [Item] {
         var seen = Set<URL>()
-        let pool = only.map { [$0] } ?? store.data.candidats
+        let pool = only.map { [$0] } ?? (followedOnly ? store.favoriteCandidates : store.data.candidats)
         return pool.flatMap { c -> [Item] in
             switch kind {
             case .actus: c.news.map { Item(id: $0.url, candidate: c, title: $0.title, source: $0.source, excerpt: $0.excerpt, date: $0.date, image: $0.image, kind: kind) }
@@ -60,7 +61,7 @@ struct FeedView: View {
 
                 VStack(alignment: .leading, spacing: 12) {
                     Chips(kind: $kind)
-                    People(selected: $only, candidates: store.ranked + store.data.candidats.filter { $0.rank == nil && $0.status != .pressenti }.sorted { $0.sortName < $1.sortName })
+                    People(selected: $only, followedOnly: $followedOnly, hasFavorites: !store.favorites.isEmpty, candidates: store.favoriteCandidates + store.ranked + store.data.candidats.filter { $0.rank == nil && $0.status != .pressenti }.sorted { $0.sortName < $1.sortName })
                 }
 
                 if let feature {
@@ -92,6 +93,7 @@ struct FeedView: View {
         .refreshable { await store.refresh() }
         .animation(.snappy, value: kind)
         .animation(.snappy, value: only)
+        .animation(.snappy, value: followedOnly)
     }
 }
 
@@ -124,13 +126,30 @@ private struct Chips: View {
 /// Filtre par candidat : rangée d'avatars, toucher à nouveau pour tout revoir.
 private struct People: View {
     @Binding var selected: Candidate?
+    @Binding var followedOnly: Bool
+    let hasFavorites: Bool
     let candidates: [Candidate]
 
     var body: some View {
+        var seen = Set<String>()
+        let unique = candidates.filter { seen.insert($0.slug).inserted }
         ScrollView(.horizontal) {
             HStack(spacing: 12) {
-                ForEach(candidates) { c in
-                    Button { selected = selected == c ? nil : c } label: {
+                if hasFavorites {
+                    Button { followedOnly.toggle(); selected = nil } label: {
+                        VStack(spacing: 4) {
+                            Image(systemName: "star.fill").font(.title3).foregroundStyle(followedOnly ? Color.canvas : .yellow)
+                                .frame(width: 52, height: 52)
+                                .background(followedOnly ? AnyShapeStyle(Color.primary) : AnyShapeStyle(Color.primary.opacity(0.1)), in: .circle)
+                                .padding(4)
+                            Text("Suivis").font(.caption2.weight(.semibold)).frame(width: 64)
+                        }
+                    }
+                    .buttonStyle(.plain)
+                    .accessibilityAddTraits(followedOnly ? .isSelected : [])
+                }
+                ForEach(unique) { c in
+                    Button { selected = selected == c ? nil : c; followedOnly = false } label: {
                         VStack(spacing: 4) {
                             Avatar(candidate: c, size: 52)
                                 .overlay(Circle().strokeBorder(c.color, lineWidth: selected == c ? 3 : 0).padding(-4))
@@ -195,8 +214,9 @@ private struct Feature: View {
 }
 
 /// Bandeau : vignette (image de l'article, pochette ou photo du candidat) + texte.
-private struct Strip: View {
+struct Strip: View {
     let item: FeedView.Item
+    var showsCandidate = true
 
     var body: some View {
         let c = item.candidate
@@ -206,10 +226,10 @@ private struct Strip: View {
                     .frame(width: 92, height: 92, alignment: .top)
                     .clipShape(.rect(cornerRadius: 16, style: .continuous))
                     .overlay(alignment: .bottomTrailing) {
-                        if item.image != nil { Avatar(candidate: c, size: 28).overlay(Circle().strokeBorder(Color.canvas, lineWidth: 2)).offset(x: 6, y: 6) }
+                        if showsCandidate, item.image != nil { Avatar(candidate: c, size: 28).overlay(Circle().strokeBorder(Color.canvas, lineWidth: 2)).offset(x: 6, y: 6) }
                     }
                 VStack(alignment: .leading, spacing: 4) {
-                    Text([c.name, item.source].compactMap(\.self).joined(separator: " · ").uppercased())
+                    Text([showsCandidate ? c.name : nil, item.source].compactMap(\.self).joined(separator: " · ").uppercased())
                         .font(.caption2.weight(.bold)).tracking(1).opacity(0.55).lineLimit(1)
                     Text(item.title).font(.subheadline.weight(.semibold)).lineLimit(3).multilineTextAlignment(.leading)
                     Text([item.date.short, item.kind == .podcasts ? item.excerpt : nil].compactMap(\.self).joined(separator: " · "))

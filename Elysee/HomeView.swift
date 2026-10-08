@@ -15,6 +15,11 @@ struct HomeView: View {
             VStack(alignment: .leading, spacing: 30) {
                 header.padding(.horizontal, 20)
 
+                let favorites = store.favoriteCandidates
+                if !favorites.isEmpty {
+                    TileRow(title: "Mes candidats", symbol: "star.fill", count: favorites.count, candidates: favorites)
+                }
+
                 if !heroes.isEmpty {
                     VStack(alignment: .leading, spacing: 14) {
                         SectionHeader(title: "En tête des sondages", symbol: "chart.bar.fill").padding(.horizontal, 20)
@@ -220,20 +225,21 @@ private struct Ranking: View {
 /// Rangée horizontale de vignettes, comme les rangées de pochettes d'Onde.
 private struct TileRow: View {
     let title: String
+    var symbol: String?
     let count: Int
     let candidates: [Candidate]
 
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
             HStack(alignment: .firstTextBaseline) {
-                SectionHeader(title: title)
+                SectionHeader(title: title, symbol: symbol)
                 Text("\(count)").font(.display(.subheadline)).opacity(0.5)
             }
             .padding(.horizontal, 20)
             ScrollView(.horizontal) {
                 LazyHStack(alignment: .top, spacing: 14) {
                     ForEach(candidates) { c in
-                        NavigationLink(value: c) { Tile(candidate: c) }.buttonStyle(.plain)
+                        NavigationLink(value: c) { Tile(candidate: c) }.buttonStyle(.plain).favoriteMenu(c)
                     }
                 }
             }
@@ -247,6 +253,7 @@ private struct TileRow: View {
 struct Tile: View {
     let candidate: Candidate
     var width: CGFloat = 128
+    @Environment(Store.self) private var store
 
     var body: some View {
         let c = candidate
@@ -256,6 +263,12 @@ struct Tile: View {
                 .overlay(alignment: .top) { Remote(url: c.photo?.url) }
                 .overlay { if c.photo == nil { Text(c.initials).font(.display(.title, .black)).opacity(0.4) } }
                 .overlay(alignment: .bottom) { Rectangle().fill(c.color).frame(height: 4) }
+                .overlay(alignment: .topTrailing) {
+                    if store.isFavorite(c) {
+                        Image(systemName: "star.fill").font(.caption2.weight(.bold)).foregroundStyle(.yellow)
+                            .frame(width: 24, height: 24).background(.black.opacity(0.45), in: .circle).padding(7)
+                    }
+                }
                 .overlay(alignment: .bottomTrailing) {
                     if c.partyLogo != nil {
                         PartyMark(candidate: c, size: 15)
@@ -316,7 +329,7 @@ struct SearchView: View {
         ScrollView {
             LazyVGrid(columns: columns, alignment: .leading, spacing: 18) {
                 ForEach(results) { c in
-                    NavigationLink(value: c) { Tile(candidate: c, width: 104) }.buttonStyle(.plain)
+                    NavigationLink(value: c) { Tile(candidate: c, width: 104) }.buttonStyle(.plain).favoriteMenu(c)
                 }
             }
             .padding(20)
@@ -325,5 +338,23 @@ struct SearchView: View {
         .background(Color.canvas.ignoresSafeArea())
         .navigationTitle("Chercher")
         .searchable(text: $query, prompt: "Nom ou parti")
+    }
+}
+
+extension View {
+    /// Appui long : suivre / ne plus suivre.
+    func favoriteMenu(_ c: Candidate) -> some View { modifier(FavoriteMenu(candidate: c)) }
+}
+
+private struct FavoriteMenu: ViewModifier {
+    let candidate: Candidate
+    @Environment(Store.self) private var store
+
+    func body(content: Content) -> some View {
+        content.contextMenu {
+            Button { withAnimation(.snappy) { store.toggleFavorite(candidate) } } label: {
+                store.isFavorite(candidate) ? Label("Ne plus suivre", systemImage: "star.slash") : Label("Suivre", systemImage: "star")
+            }
+        }
     }
 }

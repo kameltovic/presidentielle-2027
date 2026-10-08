@@ -10,6 +10,8 @@ final class Store {
 
     private(set) var data: Dataset
     private(set) var error: String?
+    /// Candidats suivis (slugs), gardés sur l'appareil.
+    private(set) var favorites: Set<String> = Set(UserDefaults.standard.stringArray(forKey: "favorites") ?? [])
 
     init() {
         let local = (try? Data(contentsOf: Self.cache)).flatMap { try? JSONDecoder.dataset.decode(Dataset.self, from: $0) }
@@ -45,6 +47,18 @@ final class Store {
     /// Classés par moyenne des sondages récents.
     var ranked: [Candidate] {
         data.candidats.filter { $0.rank != nil }.sorted { $0.rank! < $1.rank! }
+    }
+
+    func isFavorite(_ c: Candidate) -> Bool { favorites.contains(c.slug) }
+
+    func toggleFavorite(_ c: Candidate) {
+        if favorites.remove(c.slug) == nil { favorites.insert(c.slug) }
+        UserDefaults.standard.set(Array(favorites), forKey: "favorites")
+    }
+
+    /// Favoris encore présents dans les données (un candidat retiré disparaît), dans l'ordre alphabétique.
+    var favoriteCandidates: [Candidate] {
+        data.candidats.filter { favorites.contains($0.slug) }.sorted { $0.sortName.localizedStandardCompare($1.sortName) == .orderedAscending }
     }
 
     func candidate(_ slug: String) -> Candidate? { data.candidats.first { $0.slug == slug } }

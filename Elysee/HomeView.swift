@@ -255,16 +255,19 @@ private struct TileRow: View {
 
 struct Tile: View {
     let candidate: Candidate
-    var width: CGFloat = 128
+    /// nil : remplit la colonne de la grille.
+    var width: CGFloat? = 128
     @Environment(Store.self) private var store
 
     var body: some View {
         let c = candidate
         VStack(alignment: .leading, spacing: 6) {
             Color.primary.opacity(0.06)
-                .frame(width: width, height: width * 1.2)
+                .aspectRatio(1 / 1.2, contentMode: .fit)
+                .frame(width: width)
                 .overlay(alignment: .top) { Remote(url: c.photo?.url) }
                 .overlay { if c.photo == nil { Text(c.initials).font(.display(.title, .black)).opacity(0.4) } }
+                .clipped()
                 .overlay(alignment: .bottom) { Rectangle().fill(c.color).frame(height: 4) }
                 .overlay(alignment: .topTrailing) {
                     if store.isFavorite(c) {
@@ -316,31 +319,6 @@ private struct Footer: View {
         }
         .font(.caption)
         .foregroundStyle(.secondary)
-    }
-}
-
-// MARK: - Recherche
-
-struct SearchView: View {
-    @Environment(Store.self) private var store
-    @State private var query = ""
-
-    private let columns = [GridItem(.adaptive(minimum: 104), spacing: 14, alignment: .top)]
-
-    var body: some View {
-        let results = Status.allCases.flatMap { store.candidates($0, matching: query) }
-        ScrollView {
-            LazyVGrid(columns: columns, alignment: .leading, spacing: 18) {
-                ForEach(results) { c in
-                    NavigationLink(value: c) { Tile(candidate: c, width: 104) }.buttonStyle(.plain).favoriteMenu(c)
-                }
-            }
-            .padding(20)
-            if results.isEmpty { ContentUnavailableView.search(text: query) }
-        }
-        .background(Color.canvas.ignoresSafeArea())
-        .navigationTitle("Chercher")
-        .searchable(text: $query, prompt: "Nom ou parti")
     }
 }
 

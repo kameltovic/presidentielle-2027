@@ -122,6 +122,7 @@ struct Candidate: Codable, Identifiable, Hashable, Sendable {
     let campaignLogo: Media?
     let partyLogo: Media?
     let partyColor: String?
+    let colorCode: String?
     let poll: Poll?
     let slogan: String?
     let birth: String?

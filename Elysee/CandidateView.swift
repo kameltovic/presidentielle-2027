@@ -291,13 +291,15 @@ struct CandidateView: View {
     }
 }
 
-/// Grande photo pleine largeur : parallaxe au défilement, étirement quand on tire, fondu dans la couleur du parti.
+/// Grande photo pleine largeur : parallaxe au défilement, étirement quand on tire.
+/// Le bas de la photo devient transparent (masque) au lieu de se fondre dans un aplat :
+/// un aplat ne correspond jamais exactement au fond animé et se voyait en glissant sous les boutons.
 private struct Hero: View {
     let candidate: Candidate
 
     var body: some View {
         let c = candidate
-        Color.white.opacity(0.05)
+        Color.clear
             .aspectRatio(0.82, contentMode: .fit)
             .overlay(alignment: .top) { Remote(url: c.photo?.url) }
             .overlay { if c.photo == nil { Text(c.initials).font(.system(size: 90, weight: .black).width(.expanded)).opacity(0.4) } }
@@ -305,14 +307,12 @@ private struct Hero: View {
             .overlay(alignment: .top) {
                 LinearGradient(colors: [.black.opacity(0.4), .clear], startPoint: .top, endPoint: .bottom).frame(height: 120)
             }
-            .overlay(alignment: .bottom) {
-                LinearGradient(colors: [.clear, c.deep], startPoint: .top, endPoint: .bottom).frame(height: 220)
-            }
+            .mask(LinearGradient(stops: [.init(color: .black, location: 0.55), .init(color: .clear, location: 1)], startPoint: .top, endPoint: .bottom))
             .visualEffect { content, proxy in
                 let y = proxy.frame(in: .scrollView).minY
                 return content
                     .scaleEffect(y > 0 ? 1 + y / max(proxy.size.height, 1) : 1, anchor: .bottom)
-                    .offset(y: y > 0 ? 0 : -y * 0.35)
+                    .offset(y: y > 0 ? 0 : -y * 0.3)
             }
             .accessibilityHidden(true)
     }

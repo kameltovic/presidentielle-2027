@@ -66,7 +66,10 @@ struct HomeView: View {
             HStack(alignment: .top) {
                 VStack(alignment: .leading, spacing: 2) {
                     Eyebrow(Date.now.formatted(.dateTime.weekday(.wide).day().month(.wide)))
-                    Text("Élysée 2027").font(.display(.largeTitle, .black)).accessibilityAddTraits(.isHeader)
+                    HStack(spacing: 12) {
+                        Tricolore(height: 26)
+                        Text("Élysée 2027").font(.display(.largeTitle, .black)).accessibilityAddTraits(.isHeader)
+                    }
                 }
                 Spacer()
                 Button { showSettings = true } label: {

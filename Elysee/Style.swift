@@ -7,6 +7,24 @@ extension Font {
     }
 }
 
+/// Drapeau tricolore dessiné (couleurs officielles du drapeau) — pas le logo Marianne, réservé aux services de l'État.
+struct Tricolore: View {
+    var height: CGFloat = 24
+
+    var body: some View {
+        HStack(spacing: 0) {
+            Color(red: 0, green: 0, blue: 0.57)      // #000091
+            Color.white
+            Color(red: 0.88, green: 0, blue: 0.06)   // #E1000F
+        }
+        .frame(width: height * 1.5, height: height)
+        .clipShape(.rect(cornerRadius: height * 0.18, style: .continuous))
+        .overlay(RoundedRectangle(cornerRadius: height * 0.18, style: .continuous).strokeBorder(.primary.opacity(0.15)))
+        .shadow(color: .black.opacity(0.2), radius: 4, y: 2)
+        .accessibilityHidden(true)
+    }
+}
+
 /// Surtitre en capitales espacées (« JEUDI 8 OCTOBRE »).
 struct Eyebrow: View {
     let text: String

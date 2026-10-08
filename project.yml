@@ -1,0 +1,35 @@
+name: Elysee
+options:
+  bundleIdPrefix: fr.coffee-beans
+  developmentLanguage: fr
+  deploymentTarget:
+    iOS: "26.1"
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  Elysee:
+    type: application
+    platform: iOS
+    sources:
+      - Elysee
+      - path: data/candidats.json
+        buildPhase: resources
+    info:
+      path: Elysee/Info.plist
+      properties:
+        CFBundleDisplayName: Élysée 2027
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UISupportedInterfaceOrientations~iphone: [UIInterfaceOrientationPortrait]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: fr.coffee-beans.elysee2027
+        DEVELOPMENT_TEAM: 32X4LA355X
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: NO
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon

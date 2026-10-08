@@ -1,0 +1,348 @@
+{{Semi-protection longue}}
+{{scrutin à venir}}{{Confusion|Primaire de la gauche unitaire de 2026}}
+{{Infobox Élection
+ | pays                  = France
+ | date élection         = {{date|9|octobre-|2026-|liens=oui}} au {{date|10|octobre|2026|liens=oui}} <small>({{1er|tour}})</small><br/>{{date|16|octobre-|2027-|liens=oui}} au {{date|17|octobre|2026|liens=oui}} <small>({{2d|tour}})</small>
+ | élection précédente   = Primaire présidentielle socialiste française de 2021
+ | date précédente       = 2021
+ | type                  = [[Élection primaire|Primaire ouverte]]<br/><small>[[Scrutin uninominal majoritaire à deux tours]]</small>
+ | enregistrés           = 140282
+ | enregistrés2          = 
+ | votants               = 
+ | votants2              = 
+ | valables              = 
+ | valables2             = 
+ | blancs                = 
+ | blancs2               = 
+ | nuls                  = 
+ | nuls2                 = 
+ | participation         = 
+ | participation pré     = 
+ | participation2        = 
+ | participation2 pré    = 
+ | débat                 = {{Date|23 septembre 2026|à la télévision}}<br>{{Date|{{1er}} octobre 2026|à la télévision}}<br>{{Date|4 octobre 2026|à la télévision}}
+ | image2                = OF MATIGNON - MAXIME CLAM (cropped).png
+ | couleur2              = {{Infobox Parti politique français/couleurs|-PS}}
+ | candidat2             = [[Olivier Faure]]
+ | sexe2                 = homme
+ | parti2                = [[Parti socialiste (France)|PS]]
+ | votes2                = 
+ | votes2v2              = 
+ | pourcentage2          = 
+ | pourcentage2v2        = 
+ | image3                = 1720448398743 20240708 GLUCKSMANN Raphael FR 006.jpg
+ | couleur3              = {{Infobox Parti politique français/couleurs|-PP}}
+ | candidat3             = [[Raphaël Glucksmann]]
+ | parti3                = [[Place publique (parti politique)|PP]]
+ | votes3                = 
+ | votes2v3              = 
+ | pourcentage3          = 
+ | pourcentage2v3        = 
+ | image4                = Jérôme_Guedj_2010.jpg
+ | couleur4              = {{Infobox Parti politique français/couleurs|-PS}}
+ | candidat4             = [[Jérôme Guedj]]
+ | parti4                = [[Parti socialiste (France)|PS]]
+ | votes4                = 
+ | votes2v4              = 
+ | pourcentage4          = 
+ | pourcentage2v4        = 
+ | image5                = Member of the European Parliament Emmanuel Maurel.jpg
+ | couleur5              = {{Infobox Parti politique français/couleurs|-GRS}}
+ | candidat5             = [[Emmanuel Maurel]]
+ | parti5                = [[Gauche républicaine et socialiste|GRS]]
+ | votes5                = 
+ | votes2v5              = 
+ | pourcentage5          = 
+ | pourcentage2v5        = 
+ | image6                = Royal Toulouse 2012.JPG
+ | couleur6              = {{Infobox Parti politique français/couleurs|-PS}}
+ | candidat6             = [[Ségolène Royal]]
+ | parti6                = [[Parti socialiste (France)|PS]]
+ | votes6                = 
+ | votes2v6              = 
+ | pourcentage6          = 
+ | pourcentage2v6        = 
+ | image7                = 
+ | couleur7              = 
+ | candidat7             = 
+ | parti7                = 
+ | votes7                = 
+ | votes2v7              = 
+ | pourcentage7          = 
+ | pourcentage2v7        = 
+ | carte titre           = 
+ | carte                 = 
+ | taille carte          = 
+ | diagramme titre       = 
+ | diagramme             = 
+ | taille diagramme      = 
+ | poste                 = Candidat à l'élection présidentielle
+ | prédécesseur          = [[Anne Hidalgo]]
+ | titre prédécesseur    = Candidat en [[élection présidentielle française de 2022|2022]]
+ | parti prédécesseur    = ([[Parti socialiste (France)|PS]])
+ | successeur            = ''À déterminer''
+ | titre successeur      = Candidat en [[élection présidentielle française de 2027|2027]]
+ | parti successeur      = ''À déterminer''
+ | site web              = https://choisir2027.fr/
+}}
+
+La '''primaire présidentielle socialiste française de 2026''' (officiellement la ''primaire de la gauche socialiste et démocratique'') est une [[élection primaire en France]] par scrutin électronique uninominal à deux tours qui doit avoir lieu du {{date|9|10-|2026-}} au {{date|10|10|2026-}} pour le premier tour et du {{date|16|10-|2026-}} au {{date|17|10|2026-}} pour le second tour afin de désigner le candidat du [[Parti socialiste (France)|Parti socialiste]], de [[Place publique (parti politique)|Place publique]] et de la [[Gauche républicaine et socialiste]] à l'[[Élection présidentielle française de 2027|élection présidentielle de 2027]].
+
+Il s'agit d'une primaire ouverte aux adhérents des partis participants à jour de cotisation, ainsi qu'aux personnes ayant fait un don au « pôle social-démocrate » jusqu'au {{date|5|10|2026-}} inclus pour le premier tour, et jusqu'au {{date|12|10|2026-}} inclus pour le second tour.
+
+== Contexte ==
+Le 9 juillet 2026, le Parti socialiste organise une consultation auprès de ses adhérents pour déterminer la méthode de désignation de son candidat à l'[[Élection présidentielle française de 2027|élection présidentielle de 2027]]<ref>{{Article|langue=fr|prénom1=Sandrine|nom1=Cassini|titre=Présidentielle 2027 : vote décisif au PS pour sceller le sort de la primaire unitaire|périodique=Le Monde|date=2026-07-09|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/07/09/presidentielle-2027-vote-decisif-pour-olivier-faure-et-le-parti-socialiste-en-vue-de-designer-un-candidat-social-democrate_6722023_823448.html|consulté le=2026-07-10}}</ref>. Deux options sont présentées : un corps électoral ouvert aux sympathisants avec participation à une [[primaire de la gauche unitaire de 2026]] plus tard (proposition de la direction) ou réservé aux adhérents sans participation. Cette deuxième option est choisie par les adhérents avec 55,5 % des suffrages<ref>{{Lien web |langue=fr |titre=Présidentielle 2027: le PS choisit une primaire fermée pour désigner son candidat, Olivier Faure désavoué |url=https://www.bfmtv.com/politique/parti-socialiste/presidentielle-2027-le-ps-choisit-une-primaire-fermee-pour-designer-son-candidat-olivier-faure-desavoue_AD-202607100184.html |site=BFM |date=2026-07-10 |consulté le=2026-07-10}}</ref>{{,}}<ref>{{Lien web |langue=fr-FR |titre=Jeudi, les militant•es socialistes votent sur la stratégie présidentielle - Parti Socialiste |url=https://parti-socialiste.fr/a-la-une/jeudi-les-militantes-socialistes-votent-sur-la-strategie-presidentielle/ |date=2026-07-07 |consulté le=2026-08-24}}</ref>.
+
+== Modalités ==
+Le premier tour se déroulera du {{date|9|10-|2026-}} octobre à 8h jusqu'au {{date|10|10|2026-}} à 20h et le second tour du {{date|16|10-|2026-}} octobre à 8h jusqu'au {{date|17|10|2026-}} à 20h<ref>{{Lien web |langue=fr-FR |titre=Le processus de désignation du ou de la candidat·e socialiste à l'élection présidentielle est lancé - Parti Socialiste |url=https://parti-socialiste.fr/actualites/choisir-2027-le-processus-de-designation-du-ou-de-la-candidat-e-socialiste-a-lelection-presidentielle-est-lance/ |date=2026-08-25 |consulté le=2026-10-08}}</ref>{{,}}<ref>{{Lien web |langue=fr-FR | titre=Le Parti socialiste et Place publique valident l’accord sur la primaire de la gauche socialiste et démocratique  |url=https://www.ouest-france.fr/elections/presidentielle/le-parti-socialiste-et-place-publique-valident-laccord-sur-la-primaire-de-la-gauche-socialiste-et-democratique-53d5a788-a0bd-11f1-bba4-fb5ac80a227f |site=[[Ouest France]] |date=2026-08-25 |consulté le=2026-08-26}}.</ref>.
+
+Les candidats, doivent, pour se présenter, obtenir entre le {{date|1|9-|2026-}} et le {{date|15|9|2026-}} les parrainages de 15 membres du conseil national, ou de dix parlementaires, ou de 50 [[Conseil régional (France)|conseillers régionaux]] ou [[Conseillers départementaux|départementaux]] sur huit départements et trois régions ou de cinquante maires répartis sur trois régions<ref>{{Lien web| titre=Présidentielle 2027 : Parti socialiste et Place publique valident mardi l’accord sur la primaire| url=https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-parti-socialiste-et-place-publique-valident-mardi-laccord-sur-la-primaire-c6b83e90-a050-11f1-bba4-fb5ac80a227f|périodique= [[Ouest-France|Ouest France]]| date= 2026-08-25| consulté le= 2026-08-26}}</ref>.
+
+Ils doivent également s’engager, par une charte, « à proposer le rassemblement à tous les partis de la gauche démocratique, écologique et républicaine afin de construire ensemble un programme commun, un accord législatif et un contrat de gouvernement » <ref>{{Lien web| titre="Le PS et Place publique se mettent d’accord sur les modalités de leur primaire"| url=https://www.lemonde.fr/politique/article/2026/08/26/le-ps-et-place-publique-ratifient-se-mettent-d-accord-sur-les-modalites-de-leur-primaire_6756875_823448.html|périodique= [[Le Monde]] | date= 2026-08-26| consulté le= 2026-08-26}}</ref>.
+
+Ce scrutin est ouvert aux militants du [[Parti socialiste (France)|Parti socialiste]] (PS), de [[Place publique (parti politique)|Place publique]] (PP) et de la [[Gauche républicaine et socialiste]] (GRS)<ref>{{Lien web |langue=fr |titre=Le parti du député Emmanuel Maurel participera à la primaire du PS et de Place publique |url=https://www.lemonde.fr/politique/article/2026/08/26/presidentielle-2027-le-parti-du-depute-emmanuel-maurel-participera-a-la-primaire-du-ps-et-de-place-publique_6757377_823448.html |site=Le Monde |date=2026-08-26 |consulté le=2026-08-26}}</ref>{{,}}<ref name="26août2026_www.huffingtonpost.fr">{{Lien web |langue=fr |titre=Un nouveau parti rejoint la primaire entre le PS et Place publique |url=https://www.huffingtonpost.fr/politique/article/presidentielle-2027-un-nouveau-parti-rejoint-la-primaire-entre-le-ps-et-place-publique_312485.html |site=Le HuffPost |date=2026-08-26 |consulté le=2026-08-27}}</ref> « à jour de cotisation » au 5 octobre 2026.
+
+Par ailleurs, les personnes non adhérentes pourront également voter mais devront pour cela faire un don d'au moins 15 euros (10 euros pour le tarif social, sur simple déclaration)<ref>{{Lien web| titre=Le Parti socialiste et Place Publique valident l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann| url=https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html|périodique= [[Franceinfo]] | date= 2026-08-25| consulté le= 2026-08-26}}</ref> avant le 5 octobre<ref name=":1">{{Lien web |langue=fr-FR |titre=✊ CHOISIR 2027 : En octobre, participe à la primaire socialiste et démocratique ! - Parti Socialiste |url=https://parti-socialiste.fr/actualites/participe-a-la-primaire-socialiste/ |date=2026-08-05 |consulté le=2026-09-26}}</ref>. Les personnes qui n'auraient pas pu voter au premier tour peuvent voter au second tour si elles sont à jour de cotisation au 12 octobre 2026 ou si, pour les non adhérentes, elles font un don de 15 euros avant le 12 octobre<ref name=":1" />.
+
+Cependant, ce tarif de 15 euros ne fait pas l'unanimité au sein du parti et est considéré comme trop élevé pour [[Ségolène Royal]], [[Philippe Brun]] ou [[Olivier Faure]], qui auraient préféré une primaire ouverte avec un tarif de 2 euros.
+
+Après déduction fiscale, ce tarif de 15 euros revient à une dépense de 5 euros, moins élevé donc que le « tarif social » de 10 euros qui s'adresse {{Citation|aux étudiants, sans emploi et personnes à faibles revenus}}<ref>Motifs de recours au tarif social sur le [https://participer.choisir2027.fr/participation/#:~:text=aux%20%C3%A9tudiants%2C%20sans%20emploi%20et%20personnes%20%C3%A0%20faibles%20revenus. site de la primaire]</ref>, fortement susceptibles d'être non imposables et donc non éligibles à cette déduction fiscale. Un « paradoxe » qu'Olivier Faure dit avoir mis en avant vis-à-vis de ses {{Citation|contradicteurs au sein du PS}}<ref>{{Article|auteur1=Lucie Alexandre|titre=Interview Olivier Faure : «Si le budget ressemble aux programmes d’Attal et Philippe, nous n’aurons pas d’autre réponse que la censure»|périodique=Libération|date=27 août 2026|lire en ligne=https://www.liberation.fr/politique/olivier-faure-si-le-budget-ressemble-aux-programmes-dattal-et-philippe-nous-naurons-pas-dautre-reponse-que-la-censure-20260827_RI6RDRG2J5DY3CINWVLLGKG6ZQ/|accès url=payant}}</ref>. Cependant, si la personne qui a recours au tarif social de 10 euros, déclaratif, est imposable, cette somme peut alors elle aussi être déduite fiscalement<ref>[https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053543932#:~:text=Ouvrent%20%C3%A9galement%20droit%20%C3%A0%20la%20r%C3%A9duction%20d%27imp%C3%B4t%20les%20dons%2C%20pr%C3%A9vus%20%C3%A0%20l%27article%20L.%2052%2D8%20du%20code%20%C3%A9lectoral%20vers%C3%A9s%20%C3%A0%20une%20association%20de%20financement%20%C3%A9lectorale 3. de l'article 200 du code général des impôts]</ref>, revenant ainsi à une dépense de 3,33 euros.
+
+À la suite de la candidature d'Olivier Faure, [[Johanna Rolland]] s'occupe de la direction et de l'animation du PS pendant la campagne<ref>{{Lien web |langue=fr-FR |titre=Retraites : "Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée", affirme Ségolène Royal, candidate à la primaire du pôle socialiste |url=https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html |site=franceinfo |date=2026-08-31 |consulté le=2026-08-31}}</ref>.
+
+Alors qu'ils coordonnaient le travail des députés socialistes sur le budget en 2025<ref>{{Lien web |langue=fr-FR |titre=Jérôme Guedj : notre plan de bataille pour le budget |url=https://librejournal.fr/article/jerome-guedj-notre-plan-de-bataille-pour-le-budget/ |site=Libre Journal |consulté le=2026-08-31}}</ref>, [[Jérôme Guedj]] et [[Philippe Brun]] se mettent en retrait et confient leurs missions à [[Sandrine Runel]] et [[Estelle Mercier]], respectivement, jusqu'au 18 octobre<ref>{{Article|auteur1=Sylvain Chazot|titre=Les députés PS Brun et Guedj remplacés pour l’examen des textes budgétaires à l’Assemblée|périodique=Libération|date=31 août 2026|lire en ligne=https://www.liberation.fr/politique/les-deputes-ps-brun-et-guedj-remplaces-pour-lexamen-des-textes-budgetaires-a-lassemblee-20260831_2ZKTWCJIH5GTJELBNWVLR7X664/}}</ref>.
+
+[[Patrick Mennucci]] préside la commission d'organisation de la primaire<ref>{{Lien web |langue=fr |titre=Présidentielle 2027 : Patrick Mennucci, ex-député PS, devient arbitre des primaires PS/Place Publique : un défi de diplomatie pour ce Marseillais au sang chaud |url=https://www.ladepeche.fr/2026/09/09/presidentielle-2027-patrick-mennucci-ex-depute-ps-devient-arbitre-des-primaires-psplace-publique-un-defi-de-diplomatie-pour-ce-marseillais-au-sang-13541258.php |site=ladepeche.fr |consulté le=2026-09-26}}</ref>.
+
+L'organisation de la primaire annonce {{formatnum:140282}} inscrits pour le premier tour<ref name=":2">{{Lien web |langue=fr |titre=Présidentielle 2027: plus de 140.000 inscrits appelés à voter à la primaire sociale-démocrate |url=https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-plus-de-140-000-inscrits-appeles-a-voter-a-la-primaire-sociale-democrate_AD-202610060096.html |site=BFM |date=2026-10-06 |consulté le=2026-10-06}}</ref>.
+
+<gallery>
+Fichier:Logo Choisir 2027.svg|Logo de la primaire.
+</gallery>
+== Candidats ==
+=== Candidats officiels ===
+{| class="wikitable sortable" width="100%" style="text-align:center"
+! colspan="3" scope="col" |Candidat (nom et âge<ref group="alpha" name="age_candidats_octobre2026">Âge à la date du premier tour de l'élection le {{date|9/10/2026}}.</ref>)<br/>Parti politique
+! scope="col" |Fonction(s) politique(s) lors de la campagne
+! scope="col" |Campagne, slogan(s) et consigne de vote
+! scope="col" |Commentaires / Anciens engagements politiques
+! scope=col | Soutiens
+|-
+![[Olivier Faure]]<br>({{Âge|18|8|1968|9|10|2026}})<br>[[Parti socialiste (France)|Parti socialiste]]
+|[[Fichier:OF MATIGNON - MAXIME CLAM (cropped).png|alt=Olivier Faure|120x120px|Olivier Faure]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|
+* [[Conseil municipal|Conseiller municipal]] de [[Lieusaint (Seine-et-Marne)|Lieusaint]] <small>(depuis 2026)</small>
+* [[Premier secrétaire du Parti socialiste]] <small>(depuis 2018)</small>
+* [[Député français|Député]] de la {{Circonscription fr|11|Seine-et-Marne}} <small>(depuis 2012)</small>
+| width="9%" |[[Fichier:Logo-O.Faure+Juste!.png|centré|sans_cadre|171x171px]]''Pour une France + juste''
+|
+* Président du [[Groupe socialiste (Assemblée nationale, France)|groupe socialiste à l'Assemblée nationale]] <small>(2016-2018)</small>
+----
+Il annonce sa candidature dans un message aux députés [[Groupe socialiste (Assemblée nationale, France)|socialistes]] dans la nuit du {{Date|29/08-/2026-}} au {{Date|30/08/2026-}}<ref>{{Article|titre=Présidentielle 2027 : Olivier Faure candidat à la primaire du PS et de Place publique, Glucksmann attend un moment de «clarification»|périodique=[[Libération (journal)|Libération]]|date=2026-08-30|langue=fr-FR|lire en ligne=https://www.liberation.fr/politique/presidentielle-2027-olivier-faure-candidat-a-la-primaire-de-la-gauche-20260830_SIH5N4WSGRCTLFJHDU3HXOJQUU/|accès url=libre|consulté le=2026-08-30}}.</ref>. Il l'officialise le lendemain, {{Date|30/08/2026-}}, dans une [[Interview|entrevue]] au cours du [[Journal de 20 heures (TF1)|Journal de 20 heures]] sur [[TF1]]<ref>{{Lien web |titre="Oui je suis candidat à la présidence de la République", confirme Olivier Faure sur TF1 |url=https://www.tf1info.fr/politique/oui-je-suis-candidat-a-la-presidence-de-la-republique-confirme-olivier-faure-sur-tf1-2461307.html |langue=fr-FR |accès url=libre |site=[[TF1 Info]] |date=2026-08-30 |consulté le=2026-08-30}}.</ref>.
+|{{Boîte déroulante|titre=<small>Détail des soutiens</small>|contenu=[[Marie-José Allemand]]<ref name="Nos Soutiens" />, [[André Atallah]]<ref name="Nos Soutiens" />, [[Laurent Baumel]]<ref>{{Lien web |langue=fr |nom=La-Croix.com |titre=Présidentielle 2027 : Raphaël Glucksmann ou Olivier Faure, la gauche modérée cherche son candidat |url=https://www.la-croix.com/politique/presidentielle-2027-raphael-glucksmann-ou-olivier-faure-la-gauche-moderee-cherche-son-candidat-20260831 |site=La Croix |date=2026-08-31 |consulté le=2026-09-01}}</ref>, [[Ericka Bareigts]]<ref name="Nos Soutiens" />, [[Karim Benbrahim]]<ref name="Nos Soutiens" />, [[Mickaël Bouloux]] <ref name="Nos Soutiens">{{Lien web |langue=fr |nom=avecfaure2027.fr |titre=Nos Soutiens |url=https://avecfaure2027.fr/nos-soutiens |site=Avec Faure 2027 |date=2026-08-31 |consulté le=2026-09-01}}</ref>,  [[Dorine Bregman]]<ref name="Nos Soutiens" />, [[Luc Broussy]]<ref>{{Article|langue=fr|prénom1=Sandrine|nom1=Cassini|titre=Au sein du PS et chez ses alliés, le projet de primaire sociale-démocrate attise les divisions|périodique=Le Monde|date=2026-06-30|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/06/30/au-sein-du-ps-et-chez-ses-allies-le-projet-de-primaire-social-democrate-attise-les-divisions_6717158_823448.html|consulté le=2026-09-07}}</ref>, [[Carole Canette]]<ref name="Nos Soutiens" />, [[Rémi Cardon (homme politique)|Rémi Cardon]]<ref>{{Lien web |langue=fr-FR |prénom=François |nom=Vignal |titre=« Si Raphaël Glucksmann veut jouer la finale de la Ligue des champions, il ne peut pas avoir peur des barrages » : tensions autour de l’organisation des débats de la primaire PS |url=https://www.publicsenat.fr/actualites/politique/si-raphael-glucksmann-veut-jouer-la-finale-de-la-ligue-des-champions-il-ne-peut-pas-avoir-peur-des-barrages-tensions-autour-de-lorganisation-des-debats-de-la-p |site=Public Sénat |date=2026-09-02 |consulté le=2026-09-04}}</ref>, [[Paul Christophle]]<ref name="Nos Soutiens" />, [[Christophe Clergeau]]<ref name="Nos Soutiens" />, [[Pierrick Courbon]]<ref name="Nos Soutiens" />, [[Alain David (homme politique)|Alain David]]<ref name="Nos Soutiens" />, [[Carlos Da Silva (homme politique)|Carlos Da Silva]]<ref name="Nos Soutiens" />, [[Arthur Delaporte]]<ref>{{Lien vidéo|titre=Candidature d'Olivier Faure: "On a enfin un candidat qui peut représenter le PS et rassembler plus largement à gauche", juge le député socialiste Arthur Delaporte|url=https://www.bfmtv.com/politique/parti-socialiste/video-candidature-d-olivier-faure-on-a-enfin-un-candidat-qui-peut-representer-le-ps-et-rassembler-plus-largement-a-gauche-juge-le-depute-socialiste-arthur-delaporte_VN-202608310311.html|langue=fr|date=2026-08-31|consulté le=2026-08-31}}</ref>, [[Stéphane Delautrette]]<ref name="Nos Soutiens" />, [[Nassera Dutour]]<ref name="Nos Soutiens" />, [[Maxime des Gayets]]<ref name="Nos Soutiens" />, [[Arnaud Deslandes]]<ref>{{Lien web |langue=fr |titre=Arnaud Deslandes, maire de Lille, soutient Olivier Faure pour la primaire de la gauche |url=https://actu.fr/hauts-de-france/lille_59350/arnaud-deslandes-maire-de-lille-soutient-olivier-faure-pour-la-primaire-de-la-gauche_64783174.html |site=actu.fr |date=2026-09-13 |consulté le=2026-09-13}}</ref>, [[Dieynaba Diop]]<ref name="30août2026_www.lopinion.fr" />, [[Vincent Éblé]]<ref name="Nos Soutiens" />, [[Iñaki Echaniz]]<ref>{{Lien web |langue=fr |titre=Présidentielle 2027 : le député des Pyrénées-Atlantiques Iñaki Echaniz soutient Olivier Faure pour la primaire |url=https://www.radiofrance.fr/francebleu/podcasts/l-invite-de-la-redaction-de-ici-bearn-bigorre/presidentielle-2027-le-depute-des-pyrenees-atlantiques-inaki-echaniz-soutient-olivier-faure-pour-la-primaire-2992457 |site=ICI |date=2026-08-31 |consulté le=2026-09-03}}</ref>, [[Frédérique Espagnac]]<ref name="Nos Soutiens" />, [[Frédéric Fauvet]]<ref name="Nos Soutiens" />, [[Hervé Gillé]]<ref name="Nos Soutiens" />, [[Karine Gloanec Maurin]]<ref name="Nos Soutiens" />, [[Mathieu Hanotin]]<ref name="Nos Soutiens" />, [[Céline Hervieu]]<ref name="Nos Soutiens" />, [[Olivier Jacquin]]<ref name="Nos Soutiens" />, [[Gisèle Jourda]]<ref name="Nos Soutiens" />, [[Pierre Jouvet]]<ref name="30août2026_www.lopinion.fr">{{Lien web |langue=fr |titre=Primaire : l’heure de vérité pour Olivier Faure, challenger en son propre parti |url=https://www.lopinion.fr/politique/primaire-lheure-de-verite-pour-olivier-faure-challenger-en-son-propre-parti |site=l'Opinion |date=2026-08-30 |consulté le=2026-08-31}}</ref>, [[Régis Juanico]]<ref name="Nos Soutiens" />, [[Fatiha Keloua-Hachi]]<ref name="Nos Soutiens" />, [[Chaynesse Khirouni]]<ref name="Nos Soutiens" />, [[André Laignel]]<ref name="Nos Soutiens" />, [[Audrey Linkenheld]]<ref name="Nos Soutiens" />, [[Victorin Lurel]]<ref name="Nos Soutiens" />, [[Estelle Mercier]]<ref name="Nos Soutiens" />, [[Philippe Naillet]]<ref name="Nos Soutiens" />, [[Corinne Narassiguin]]<ref name="Nos Soutiens" />, [[Anna Pic]]<ref>{{Lien web |langue=fr |titre=Primaire de la gauche : pourquoi la députée de la Manche Anna Pic soutient Olivier Faure |url=https://actu.fr/politique/primaire-de-la-gauche-pourquoi-la-deputee-de-la-manche-anna-pic-soutient-olivier-faure_64816715.html|site=Actu.fr |date=2026-09-22|consulté le=2026-09-22}}</ref>, [[Émilienne Poumirol]]<ref name="Nos Soutiens" />, [[Emma Rafowicz]]<ref name="Nos Soutiens" />, [[Thierry Repentin]]<ref name="Nos Soutiens" />, [[Chloé Ridel]]<ref name="Nos Soutiens" />, [[Johanna Rolland]]<ref name="Nos Soutiens" />, [[Claudia Rouaux]]<ref name="Nos Soutiens" />, [[Lucien Stanzione]]<ref name="Nos Soutiens" />,[[Céline Thiébault-Martinez]]<ref name="Nos Soutiens" />, [[Jean-Claude Tissot]]<ref name="Nos Soutiens" />, [[Stéphane Troussel]]<ref name="Nos Soutiens" />, [[Cédric Van Styvendael]]<ref name="Nos Soutiens" />, [[Roger Vicot]]<ref name="Nos Soutiens" />}}
+|-
+![[Raphaël Glucksmann]]<br>({{Âge|15|10|1979|9|10|2026}})<br>[[Place publique (parti politique)|Place publique]]
+| [[Fichier:1720448398743 20240708 GLUCKSMANN Raphael FR 006.jpg|alt=Raphaël Glucksmann|120x120px|Raphaël Glucksmann]]
+| {{Infobox Parti politique français/couleurs|PP}} |
+|
+* Co-président de [[Place publique (parti politique)|Place publique]] <small>(depuis 2022)</small>
+* [[Député européen]] <small>(depuis 2019)</small>
+|[[Fichier:Logo-Réveiller la France-Glucksmann-2027.svg|centré|sans_cadre|183x183px]]''Refonder la gauche, réveiller la France''
+|
+* Président de la [[Commission spéciale sur l'ingérence étrangère dans l'ensemble des processus démocratiques de l'Union européenne, y compris la désinformation]] <small>(2020-2023)</small>
+* Vice-président de la [[sous-commission des droits de l'homme du Parlement européen]] <small>(2019-2024)</small>
+----
+Fortement pressenti, il confirme sa candidature au cours du [[Journal de 20 heures (TF1)|Journal de 20 heures]] de [[TF1]] du {{Date|23/08/2026}}<ref>{{Lien web |titre="Oui, je suis candidat à l'élection présidentielle", confirme Raphaël Glucksmann sur TF1 |url=https://www.tf1info.fr/politique/oui-je-suis-candidat-a-l-election-presidentielle-2027-confirme-raphael-glucksmann-place-publique-sur-tf1-2459966.html |langue=fr-FR |auteur=Jérôme Vermelin |accès url=libre |site=[[TF1 Info]] |date=2026-08-23 |consulté le=2026-09-16}}.</ref>.
+|{{Boîte déroulante|titre=<small>Détail des soutiens</small>|contenu=[[Christian Assaf]]<ref name="LTD"/>, [[David Assouline]]<ref name="LTD"/>, [[Joël Aviragnet]]<ref name="LTD"/>, [[François Bonneau (homme politique, 1953)|François Bonneau]]<ref name="Présidentielle 2027 : Yannick Jadot, Boris Vallaud, Carole Delga, ces politiques qui soutiennent la candidature de Raphaël Glucksmann">{{Lien web |langue=fr |titre=Présidentielle 2027 : Yannick Jadot, Boris Vallaud, Carole Delga, ces politiques qui soutiennent la candidature de Raphaël Glucksmann |url=https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-yannick-jadot-boris-vallaud-carole-delga-ces-politiques-qui-soutiennent-la-candidature-de-raphael-glucksmann-1787845312 |site=lanouvellerepublique.fr |date=2026-08-27 |consulté le=2026-08-27}}</ref>, [[Colombe Brossel]]<ref name="LTD"/>, [[Laurent Cathala]]<ref name="LTD"/>, [[Christophe Chaillou]]<ref name="LTD"/>, [[Daniel Cohn-Bendit]]<ref>{{Lien web |titre=Présidentielle 2027 : Raphaël Glucksmann soutenu par Daniel Cohn-Bendit, qui vante son « positionnement nouveau »|url=https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-raphael-glucksmann-soutenu-par-daniel-cohn-bendit-qui-vante-son-positionnement-nouveau_6743338_823448.html |accès url=libre |périodique=[[Le Monde]] |date=2026-08-10 |consulté le=2026-08-25}}</ref>, [[Karine Daniel]]<ref name="LTD"/>, [[Marie-Pierre de La Gontrie]]<ref name="LTD"/>, [[Michaël Delafosse]]<ref name="Présidentielle 2027 : Yannick Jadot, Boris Vallaud, Carole Delga, ces politiques qui soutiennent la candidature de Raphaël Glucksmann" />, [[Carole Delga]]<ref name="27août2026_www.bfmtv.com">{{Lien web |langue=fr |titre="Le meilleur candidat à gauche pour gagner": Carole Delga confirme son soutien pour Raphaël Glucksmann 
+ | url=https://www.bfmtv.com/politique/elections/presidentielle/le-meilleur-candidat-a-gauche-pour-gagner-carole-delga-confirme-son-soutien-pour-raphael-glucksmann_AN-202608270244.html
+ |site=BFM |date=2026-08-27 |consulté le=2026-08-27}}</ref>, [[Jérôme Durain]]<ref name="LTD">{{Lien web |langue=fr |titre=Près de 300 élus et responsables socialistes appellent à voter Raphaël Glucksmann pour la primaire |url=https://www.latribune.fr/article/la-tribune-dimanche/opinions/17131657444996/tribune-pres-de-300-elus-et-responsables-socialistes-appellent-a-voter-raphael-glucksmann-pour-la-primaire |accès url=libre |date=16/09/2026 |site=[[La Tribune (France, 1985)|La Tribune]] |consulté le=20 septembre 2026}}.</ref>, [[Lamia El Aaraje]]<ref name="LTD"/>, [[Rémi Féraud]]<ref name="LTD"/>, [[Claire Fita]]<ref name="LTD"/>, [[Guillaume Garot]]<ref name="www.lemonde.fr_10juillet2026">{{Article|langue=fr|prénom1=Sandrine|nom1=Cassini|titre=Au PS, Olivier Faure perd son « référendum » interne sur la désignation du candidat social-démocrate à la présidentielle|périodique=Le Monde|date=2026-07-10|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/07/10/olivier-faure-perd-son-referendum-interne-sur-la-designation-du-candidat-social-democrate-a-la-presidentielle_6722211_823448.html|consulté le=2026-08-27}}</ref>, [[Jean-Marc Germain]]<ref name="LTD"/>, [[Océane Godard]]<ref name="LTD"/>, [[Laurence Harribey]]<ref name="LTD"/>, [[Florence Hérouin-Léautey]]<ref name="LTD"/>, [[Anne Hidalgo]]<ref name="Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche">{{Article|langue=fr|titre=Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche|périodique=Le Monde|date=2026-09-09|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/09/presidentielle-2027-anne-hidalgo-apporte-son-soutien-a-raphael-glucksmann-pour-la-primaire-a-gauche_6768857_823448.html|consulté le=2026-09-09}}</ref>, [[Sacha Houlié]]<ref name="24août2026_www.franceinfo.fr_8153303.html">{{Lien web |langue=fr-FR |titre=Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ? |url=https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html |site=franceinfo |date=2026-08-24 |consulté le=2026-08-27}}</ref>, [[Yannick Jadot]]<ref>{{Lien web |titre=Présidentielle 2027 : Yannick Jadot se range derrière Raphaël Glucksmann et sera chargé de préparer « la mise en place d’un état d’urgence écologique »|url=https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-yannick-jadot-apporte-son-soutien-a-raphael-glucksmann_6755022_823448.html |accès url=libre |périodique=[[Le Monde]] |date=2026-08-24 |consulté le=2026-08-24}}</ref>, [[François Kalfon]]<ref name="LTD"/>, [[Éric Kerrouche]]<ref name="LTD"/>, [[Aurore Lalucq]]<ref name="24août2026_www.franceinfo.fr_8153303.html" />, [[Murielle Laurent]]<ref name="LTD"/>, [[Gérard Leseul]]<ref name="LTD"/>, [[Laurent Lhardit]]<ref name="LTD"/>, [[Monique Lubin]]<ref name="LTD"/>, [[Didier Marie]]<ref name="LTD"/>, [[Nicolas Mayer-Rossignol]]<ref>{{Lien web |langue=fr-FR |nom=JBG |titre=Mayer-Rossignol : "Glucksmann, un candidat capable de gagner" |url=https://www.sudradio.fr/linvite-politique/nicolas-mayer-rossignol-avec-glucksmann-nous-avons-un-candidat-capable-de-gagner-au-second-tour-de-la-presidentielle |site=Sud Radio |date=2026-08-24 |consulté le=2026-08-24}}</ref>, [[Alexandre Ouizille]]<ref name="LTD"/>, [[Dominique Potier]]<ref>{{Lien web |langue=FR-fr |titre=Meurthe-et-Moselle. Primaire au PS, Brun en campagne, Klein observateur, Potier pour Glucksmann : les indiscrétions politiques de la semaine |url=https://www.estrepublicain.fr/elections/2026/07/20/primaire-au-ps-brun-en-campagne-klein-hesitant-potier-pour-glucksmann-les-indiscretions-politiques-de-la-semaine |site=www.estrepublicain.fr |date=2026-07-20 |consulté le=2026-08-27}}</ref>, [[Christophe Proença]]<ref name="LTD"/>, [[Marie Récalde]]<ref name="LTD"/>, [[Pierre-Alain Roiron]]<ref name="LTD"/>, [[David Ros]]<ref name="LTD"/>, [[Marine Rosset]]<ref name="LTD"/>, [[Laurence Rossignol]]<ref name="www.lemonde.fr_10juillet2026" />, [[Aurélien Rousseau]]<ref name="24août2026_www.franceinfo.fr_8153303.html" />, [[Éric Sargiacomo]]<ref name="LTD"/>, [[Hervé Saulignac]]<ref name="LTD"/>, [[Arnaud Simion]]<ref name="LTD"/>, [[Boris Vallaud]]<ref name="27août2026_www.lemonde.fr">{{article |langue=fr |date=2026-08-27 |titre=Présidentielle 2027 : Boris Vallaud, chef du PS à l’Assemblée nationale, annonce son soutien à Raphaël Glucksmann |périodique=[[Le Monde]] |lire en ligne=https://www.lemonde.fr/politique/article/2026/08/27/presidentielle-boris-vallaud-chef-du-ps-a-l-assemblee-nationale-annonce-son-soutien-a-raphael-glucksmann_6758454_823448.html |consulté le=2026-08-27 |accès url=libre}}</ref>, [[Michaël Weber]]<ref name="LTD"/>}}
+|-
+![[Jérôme Guedj]]<br>({{Âge|23|01|1972|9|10|2026}})<br>[[Parti socialiste (France)|Parti socialiste]]
+|[[Fichier:Jérôme_Guedj_2010.jpg|96x96px|Jérôme Guedj]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|
+* [[Député français|Député]] de la {{Circonscription fr|6|Essonne}} <small>(depuis 2022)</small>
+* [[Conseil régional (France)|Conseiller régional]] d’[[Conseil régional d'Île-de-France|Île-de-France]] <small>(depuis 2021)</small>
+|[[Fichier:Logo-jerome-guedj-2027.svg|centré|sans_cadre|157x157px]]''La République, c'est nous !''
+|
+* [[Conseil départemental|Conseiller départemental]] de l'[[Conseil départemental de l'Essonne|Essonne]] <small>(2015-2021)</small>
+* [[Député français|Député]] de la {{Circonscription fr|6|Essonne}} <small>(2012 ; 2012-2014)</small>
+* Président du [[conseil général de l'Essonne]] <small>(2011-2015)</small>
+* [[Conseiller général (France)|Conseiller général]] de l'[[Conseil général de l'Essonne|Essonne]] <small>(1998-2015)</small>
+----
+Le {{date|5 février 2026}}, il déclare sa candidature, sans passer par la primaire, au micro de [[France Inter]]<ref>{{Lien web |titre=Jérôme Guedj : "Je suis aujourd'hui candidat à l'élection présidentielle" |url=https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548 |langue=fr-FR |accès url=libre |site=[[France Inter]] |date=2026-02-05 |consulté le=2026-09-16}}.</ref>. Cependant, il annonce finalement le {{date|23 août 2026}} qu'il rejoint ce cadre de désignation<ref>{{Article|titre=Jérôme Guedj, député PS de l’Essonne et candidat à la présidentielle : « Je prendrai toute ma place dans cette primaire »|périodique=[[La Tribune (France, 1985)|La Tribune]]|date=2026-08-23|langue=fr-FR|auteur1=Florian Reynal|lire en ligne=https://www.latribune.fr/article/la-tribune-dimanche/politique/18147697960524/jerome-guedj-depute-ps-de-l-essonne-et-candidat-a-la-presidentielle-je-prendrai-toute-ma-place-dans-cette-primaire|accès url=payant|consulté le=2026-08-24}}.</ref>.
+|
+|-
+![[Emmanuel Maurel]]<br>({{Âge|10|5|1973|9|10|2026}})<br>[[Gauche républicaine et socialiste]]
+|[[Fichier:Member of the European Parliament Emmanuel Maurel.jpg|119x119px|Emmanuel Maurel]]
+| {{Infobox Parti politique français/couleurs|GRS}} |
+|
+*[[Député français|Député]] de la {{Circonscription fr|3|Val-d'Oise}} <small>(depuis 2024)</small>
+* Animateur national de la [[Gauche républicaine et socialiste]] <small>(depuis 2019)</small>
+|[[Fichier:Logo-Emmanuel-Maurel-2027.png|centré|sans_cadre|152x152px]]''Passionnément républicain, résolument socialiste''
+|
+* [[Député européen]] <small>(2014-2024)</small>
+* [[Conseil régional d'Île-de-France|Conseiller régional]] d'[[Île-de-France]] <small>(2004-2015)</small>
+----
+Il annonce sa candidature le 4 septembre 2026 sur [[France Info (chaîne de télévision)|France Info]]<ref>{{Lien web |titre=Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle |url=https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html |langue=fr-FR |auteur=Daïc Audouit |accès url=libre |site=[[France Info (offre globale)|France Info]] |date=2026-09-04 |consulté le=2026-09-04}}}.</ref>.
+|[[Marie-Noëlle Lienemann]]<ref>{{Lien web |langue=fr |titre=Un nouveau parti rejoint la primaire entre le PS et Place publique |url=https://www.huffingtonpost.fr/politique/article/presidentielle-2027-un-nouveau-parti-rejoint-la-primaire-entre-le-ps-et-place-publique_312485.html |site=Le HuffPost |date=2026-08-26 |consulté le=2026-09-28}}</ref>
+|-
+![[Ségolène Royal]]<br>({{Âge|22|9|1953|9|10|2026}})<br>[[Parti socialiste (France)|Parti socialiste]]
+| [[Fichier:Royal Toulouse 2012.JPG|alt=Ségolène Royal]|110x110px|Ségolène Royal]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|
+* Présidente de l'[[Association France-Algérie]] <small>(depuis 202</small><small>5)</small>
+|[[Fichier:Logo-ordre juste-SG-2027.png|centré|sans_cadre|177x177px]][[Ségolène Royal#Prises de position|Positions]]
+''L'ordre juste - La France tranquille''
+|
+* Ambassadrice chargée de la négociation internationale pour les pôles [[arctique]] et [[antarctique]] <small>(2017-2020)</small>
+* [[Ministère de l'Écologie (France)|Ministre de l'Environnement, de l'Énergie et de la Mer, chargée des Relations internationales sur le climat]] <small>(1992-1993 ; 2014-2017)</small>
+* [[Conseil régional (France)|Présidente]] du [[conseil régional de Poitou-Charentes]] (2004-2014)
+* Candidate à l'[[Élection présidentielle française de 2007|élection présidentielle de 2007]].
+* [[Député français|Députée]] de la {{Circonscription fr|2|Deux-Sèvres}} <small>(1988-1992 ; 1993-1997 ; 2002-2007)</small>
+* [[Liste des ministres français chargés de la Famille|Ministre déléguée à la Famille, à l'Enfance et aux Personnes handicapées]] <small>(2000-2002)</small>
+* [[Ministre de l'Éducation nationale (France)|Ministre déléguée à l'Enseignement scolaire]] <small>(1997-2000)</small>
+* [[Conseil départemental|Conseillère générale]] des [[Conseil départemental des Deux-Sèvres|Deux-Sèvres]] <small>(1992-1998)</small>
+----
+Elle annonce sa candidature le {{Date|10/07/2026}}<ref>{{Lien web |titre=Ségolène Royal annonce qu'elle participera à la primaire socialiste en vue de l'élection présidentielle |url=https://www.franceinfo.fr/elections/presidentielle/segolene-royal-annonce-qu-elle-participera-a-la-primaire-socialiste-en-vue-de-l-election-presidentielle_8102696.html |langue=fr-FR |accès url=libre |site=[[France Info (offre globale)|France Info]] |date=2026-07-10 |consulté le=2026-07-10}}.</ref>.
+|[[Luc Carvounas]]<ref>{{Article|langue=fr|auteur1=Sébastien Tronche|titre=«C’est un coup de force du camp Glucksmann» : au PS, on tient à trois débats télévisés pour la primaire|périodique=Libération|date=2 septembre 2026|lire en ligne=https://www.liberation.fr/politique/elections/cest-un-coup-de-force-du-camp-glucksmann-au-ps-on-tient-a-trois-debats-televises-pour-la-primaire-20260902_QSUOFG7EN5DRNPMHAKADL6C2LU/?redirected=9479}}</ref>{{,}}<ref>{{Article|langue=fr|prénom1=Sandrine|nom1=Cassini|titre=Présidentielle 2027 : Ségolène Royal, trublion de la primaire à gauche|périodique=Le Monde|date=2026-09-22|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-segolene-royal-trublion-de-la-primaire-a-gauche_6779746_823448.html|consulté le=2026-09-24}}</ref>, [[Béatrice Bellay]]<ref>{{Lien web|auteur1=Pierre Maurer|titre=« Ce soir, je m’adresse aux Français » : Ségolène Royal peine à faire le plein pour son premier meeting|date=22 septembre 2026 |site=leparisien.fr |lire en ligne=https://www.leparisien.fr/elections/presidentielle/ce-soir-je-madresse-aux-francais-segolene-royal-peine-a-faire-le-plein-pour-son-premier-meeting-22-09-2026-Z7UCGC6BWFB2TCGJ37XI7UAGTQ.php|accès url=limité}}</ref>
+|}
+
+=== Candidatures n'ayant pas abouti ===
+{| class="wikitable sortable" width="100%" style="text-align:center"
+! colspan="3" scope="col" |Candidat (nom et âge<ref group="alpha" name="age_candidats_octobre2026" />)<br />Parti politique
+! scope="col" |Fonction(s) politique(s) lors de la campagne
+! scope="col" |Campagne, slogan(s) et consigne de vote
+! scope="col" |Commentaires / Anciens engagements politiques
+|-
+![[Philippe Brun]]
+({{Âge|16|10|1991|9|10|2026}})
+[[Parti socialiste (France)|Parti socialiste]]
+|[[Fichier:LOUVIERS_-_4e_circo_Eure_-_Philippe_Brun_nouveau_député_22_juin_2022_(1)_(cropped).jpg|110x110px|Philippe Brun]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|
+* [[Député français|Député]] de la {{Circonscription fr|4|Eure}} <small>(depuis 2022)</small>
+* [[Conseil municipal (France)|Conseiller municipal]] de [[Louviers]] <small>(depuis 2020)</small>
+| width="9%" |[[Philippe Brun#Candidature à la primaire du PS de 2026|Campagne]] • [[Philippe Brun#Prises de position|Positions]]
+''Le'' ''candidat des salaires''
+|Le {{date|30 juin 2026}}, au cours d'une [[interview]] sur [[RMC]], il déclare officiellement sa candidature<ref name="Nous voulons réveiller le PS: Philippe Brun se lance dans la course à la présidentielle 2027">{{Lien web |titre="Nous voulons réveiller le PS": Philippe Brun se lance dans la course à la présidentielle 2027 |url=https://rmc.bfmtv.com/actualites/politique/nous-voulons-reveiller-le-ps-philippe-brun-se-lance-dans-la-course-a-la-presidentielle-2027_AV-202606300216.html |langue=fr-FR |auteur=James Abbott |accès url=libre |site=[[RMC]] |date=30/06/2026 |consulté le=16/09/2026}}.</ref>.
+Après avoir déclaré sa candidature le {{Date|30/06/2026}}<ref name="Nous voulons réveiller le PS: Philippe Brun se lance dans la course à la présidentielle 2027" /> et revendiqué avoir eu les parrainages nécessaires, il est suspendu du parti le {{Date|16/09/2026-}} {{Citation|à titre conservatoire}}, à la suite d’accusations d’une militante, pour {{Citation|de[s] faits susceptibles de relever d’une caractérisation pénale}} selon la direction, et ne participera pas à la primaire<ref>{{Article|titre=Présidentielle 2027 : Philippe Brun, suspendu à titre conservatoire du PS, ne participera pas à la primaire à gauche|périodique=[[Le Monde]]|date=2026-09-16|langue=fr-FR|auteur1=Sandrine Cassini|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-philippe-brun-suspendu-a-titre-conservatoire-du-ps-ne-participera-pas-a-la-primaire-a-gauche_6775146_823448.html|accès url=libre|consulté le=2026-09-16}}.</ref>. Philippe Brun dénonce une « instrumentalisation » de l'affaire par le PS pour l'éliminer de cette primaire<ref>{{Article|titre=Présidentielle 2027 : le PS cherche à éviter que l’affaire Philippe Brun entache la primaire|périodique=[[Le Monde]]|date=2026-09-17|langue=fr-FR|auteur1=Sandrine Cassini|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-le-ps-cherche-a-eviter-que-l-affaire-philippe-brun-entache-sa-primaire_6775900_823448.html|accès url=payant|consulté le=2026-09-18}}.</ref>. Il saisit le [[tribunal judiciaire de Paris]] en [[Référé en droit français|référé]] afin d'obtenir sa réintégration au [[Parti socialiste (France)|Parti socialiste]]<ref>{{Article|langue=français|titre=J’y crois encore» : Philippe Brun annonce avoir déposé un référé au tribunal judiciaire pour obtenir sa réintégration au Parti socialiste|périodique=Le Figaro|date=22/09/2026|lire en ligne=https://www.lefigaro.fr/elections/presidentielles/j-y-crois-encore-philippe-brun-annonce-avoir-depose-un-refere-au-tribunal-judiciaire-pour-obtenir-sa-reintegration-au-parti-socialiste-20260922}}</ref>. Estimant que le PS n'a commis {{Citation|aucune violation flagrante [de ses] statuts}}, le tribunal rejette le référé du député<ref>{{Article|langue=fr|titre=Suspendu du PS pour des accusations de violences, Philippe Brun ne pourra réintégrer ni son parti ni la primaire|périodique=Libération|date=23 septembre 2026|lire en ligne=https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/|accès url=libre}}</ref>. Philippe Brun fait ensuite [[Appel en droit français|appel]] de cette décision<ref>{{Lien web |langue=fr |auteur=Le Monde avec AFP |titre=Présidentielle 2027 : la justice rejette la demande de réintégration de Philippe Brun au PS et à la primaire à gauche ; le député annonce faire appel |url=https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-philippe-brun-sera-ne-sera-pas-reintegre-au-ps-et-a-la-primaire-de-la-gauche-tranche-la-justice_6780868_823448.html |accès url=libre |site=Le Monde |date=23 septembre 2026 |consulté le=23 septembre 2026}}</ref> mais la [[cour d'appel de Paris]] rejette à son tour sa demande de réintégration<ref>{{Article|langue=fr|titre=Présidentielle 2027 : la Cour d’appel rejette à son tour la demande de réintégration de Philippe Brun à la primaire à gauche|périodique=Le Monde|date=2026-09-23|issn=1950-6244|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-la-cour-d-appel-rejette-a-son-tour-la-demande-de-reintegration-de-philippe-brun-a-la-primaire-a-gauche_6780868_823449.html|consulté le=2026-09-24}}</ref>.
+|-
+!Fabien Verdier
+({{Âge|16|4|1981|9|10|2026}})
+
+[[Parti socialiste (France)|Parti socialiste]]<ref name = LM />
+|[[Fichier:Fabien_Verdier_Primaire_socialiste.jpg|alt=Fabien Verdier|110x110px]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|''Aucune''
+|''Nos terroirs au pouvoir''
+|
+* Maire de [[Châteaudun]] <small>(2020-2026)</small>
+* Conseiller régional de la région Centre Val-de-Loire <small>(2015-2021)</small>
+
+----Il annonce sa candidature le {{Date|2|9|2026}} dans une interview à ''[[Libération (journal)|Libération]]''<ref>{{Lien web |titre=Primaire à gauche : Fabien Verdier, l’ancien maire qui se rêve candidat «des sous-préfectures»|périodique=[[Libération (journal)|Libération]]|date=02/09/2026|consulté le=03/09/2026|auteur=Vincent Martins|url=https://www.liberation.fr/politique/elections/primaire-a-gauche-fabien-verdier-lancien-maire-qui-se-reve-candidat-des-sous-prefectures-20260902_5KKOAMRBRVGYTIUGT3EU4UJXHY/}};</ref>, mais il ne recueille finalement pas suffisamment de parrainages<ref name="LM">{{Article|titre=Présidentielle 2027 : cinq candidats sur la ligne de départ de la primaire à gauche|périodique=[[Le Monde]]|date=2026-09-16|langue=fr-FR|auteur1=Sandrine Cassini|lire en ligne=https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-six-candidats-sur-la-ligne-de-depart-de-la-primaire-a-gauche_6774514_823448.html|accès url=payant|auteur2=Robin Richardot|citation=Autre personnalité écartée du processus, l’ancien maire PS de Châteaudun (Eure-et-Loir), Fabien Verdier, qui n’a repris sa carte au PS que très récemment et n’est pas parvenu à réunir les parrainages nécessaires|consulté le=2026-09-16}}.</ref>.
+|}
+
+=== Candidats ayant décliné ===
+==== Refus de participation à l'élection présidentielle ====
+* [[Anne Hidalgo]] ([[Parti socialiste (France)|PS]]), [[Maire (France)|maire]] de [[Paris]] de 2014 à 2026, candidate à la [[Élection présidentielle française de 2022|présidentielle de 2022]] (soutient [[Raphaël Glucksmann]]<ref name="Présidentielle 2027 : Anne Hidalgo apporte son soutien à Raphaël Glucksmann pour la primaire à gauche" />).
+* [[Carole Delga]] ([[Parti socialiste (France)|PS]]), présidente du [[conseil régional d'Occitanie]] depuis 2016 (soutient [[Raphaël Glucksmann]]<ref name="27août2026_www.bfmtv.com" />).
+* [[Boris Vallaud]] ([[Parti socialiste (France)|PS]]), président du [[Groupe socialiste (Assemblée nationale, France)|groupe socialiste à l'Assemblée nationale]] depuis 2022 (soutient [[Raphaël Glucksmann]]<ref name="27août2026_www.lemonde.fr" />).
+
+==== Participation à l'élection présidentielle mais refus de la primaire ====
+* [[Karim Bouamrane]] ([[Parti socialiste (France)|PS]]), [[Maire (France)|maire]] de [[Saint-Ouen-sur-Seine]], candidat à l'élection présidentielle mais sans passer par la primaire<ref>{{Lien web |langue=fr |titre="Se renfermer entre-nous": Karim Bouamrane confirme sa non-participation à la primaire socialiste pour la présidentielle 2027 |url=https://www.bfmtv.com/politique/parti-socialiste/se-renfermer-entre-nous-karim-bouamrane-confirme-sa-non-participation-a-la-primaire-socialiste-pour-la-presidentielle-2027_AN-202608260150.html |site=BFM |date=2026-08-26 |consulté le=2026-08-26}}</ref>.
+* [[François Hollande]] ([[Parti socialiste (France)|PS]]), ancien [[Président de la République française|Président de la République]], envisage de se présenter à l'élection présidentielle mais sans passer par la primaire<ref name="24août2026_www.franceinfo.fr_8159171.html">{{Lien web |langue=fr-FR |titre=Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ? |url=https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html |site=franceinfo |date=2026-08-24 |consulté le=2026-08-29}}</ref>.
+* [[Bernard Cazeneuve]] ([[La Convention]]), ancien [[Premier ministre français|Premier ministre]], candidat à l'élection présidentielle mais sans passer par la primaire<ref name="24août2026_www.franceinfo.fr_8159171.html" />.
+* [[François Ruffin]] ([[Debout (parti politique)|Debout!]]), député de la {{Circonscription fr|1|Somme}}, candidat à l'élection présidentielle mais rejette la primaire, après avoir évoqué sa participation<ref>{{Article|langue=fr-FR|titre=« On ne s’entêtera pas » : à la Fête de l’Huma, Ruffin abandonne la primaire du PS et appelle à l’union|périodique=[[Le Courrier picard]]|date=12 Septembre 2026|lire en ligne=https://www.courrier-picard.fr/id744597/article/2026-09-12/ne-sentetera-pas-la-fete-de-lhuma-ruffin-abandonne-la-primaire-du-ps-et-appelle|archiveurl=http://web.archive.org/web/20260913024943/https://www.courrier-picard.fr/id744597/article/2026-09-12/ne-sentetera-pas-la-fete-de-lhuma-ruffin-abandonne-la-primaire-du-ps-et-appelle|archivedate=2026-09-13|consulté le=2026-09-15}}</ref>.
+
+==== Candidat évoqué dans les médias ====
+* [[Matthieu Pigasse]], président de [[Combat (entreprise)|Combat Media]]<ref>{{Lien web |langue=fr-FR |titre=Primaire du PS: l'homme d'affaires Matthieu Pigasse, bientôt candidat à la présidentielle ? |url=https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-du-ps-l-homme-d-affaires-matthieu-pigasse-bientot-candidat-a-la-presidentielle_VN-202608310462.html |site=[[BFM TV]] |date=2026-08-31 |consulté le=2026-08-31}}.</ref>{{,}}<ref>{{Lien web |titre=Pigasse joue le pote aux roses |url=https://www.politico.eu/newsletter/playbook-paris/pigasse-joue-le-pote-aux-roses/ |auteur=Anthony Lattier |site=[[Politico Europe]] |date=31/08/2026 |consulté le=31/08/2026}}.</ref>{{,}}<ref>{{Lien web |langue=fr |auteur=Philippe Salvador |titre=Présidentielle 2027 : Matthieu Pigasse candidat à la primaire socialiste ? Ce qui attend le banquier d'affaires s'il décide de se présenter |url=https://www.ladepeche.fr/2026/09/01/presidentielle-2027-matthieu-pigasse-candidat-a-la-primaire-socialiste-ce-qui-attend-le-banquier-daffaires-sil-decide-de-se-presenter-13530663.php |périodique=[[La Dépêche du Midi]] |date=01/09/2026 |consulté le=2026-09-02}}</ref>.
+
+== Campagne ==
+Trois débats télévisés entre les candidats officiels sont prévus dans le cadre de la primaire. Le premier débat a lieu le 23 septembre et est diffusé sur [[LCI]] en partenariat avec ''[[Le Parisien|Le Parisien - Aujourd’hui en France]]'' (audiences de {{formatnum:709000}} téléspectateurs, 5,5% du public). Le deuxième a lieu le {{1er}} octobre sur [[France 2]] et [[France Inter]] (audiences de 1,84 million de téléspectateurs, 10,7% du public), et le dernier le 4 octobre sur [[BFM TV]] en partenariat avec ''[[Libération (journal)|Libération]]'' (audiences de {{formatnum:702000}} téléspectateurs, 4,5% du public)<ref>{{Lien web |nom=puremedias |titre=Audiences : Quel score pour l'ultime débat des candidats à la primaire de la gauche diffusé sur BFMTV ? |url=https://www.ozap.com/actu/audiences-quel-score-pour-lultime-debat-des-candidats-a-la-primaire-de-la-gauche-diffuse-sur-bfmtv/657282 |site=www.ozap.com |date=2026-10-05 |consulté le=2026-10-05}}</ref> <ref>{{Lien web |langue=fr |titre=Présidentielle 2027 : dates, prix, vote en ligne et trois débats télévisés... Comment va se dérouler la primaire de la gauche ? |url=https://www.ladepeche.fr/2026/09/22/presidentielle-2027-dates-prix-vote-en-ligne-et-trois-debats-televises-comment-va-se-derouler-la-primaire-de-la-gauche-13561358.php |site=ladepeche.fr |consulté le=2026-09-22}}</ref>.
+
+== Résultats ==
+{| class="wikitable centre" style="text-align: right"
+|+ Résultats définitifs validés par la Haute Autorité
+! rowspan=2 colspan=2 scope=col | Candidat
+! rowspan=2 scope=col | Parti
+! colspan=2 scope=col | Premier tour
+! colspan=2 scope=col | Second tour
+|-
+! scope=col | Voix
+! scope=col | %
+! scope=col | Voix
+! scope=col | %
+|-
+| {{Infobox Parti politique français/couleurs|PS}} |
+| align=left | [[Olivier Faure]]
+| align=center | [[Parti socialiste (France)|PS]]
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|-
+| {{Infobox Parti politique français/couleurs|PP}} |
+| align=left | [[Raphaël Glucksmann]]
+| align=center | [[Place publique (parti politique)|PP]]
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|-
+| {{Infobox Parti politique français/couleurs|PS}} |
+| align=left | [[Jérôme Guedj]]
+| align=center | [[Parti socialiste (France)|PS]]
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|-
+| {{Infobox Parti politique français/couleurs|GRS}} |
+| align=left | [[Emmanuel Maurel]]
+| align=center | [[Gauche républicaine et socialiste|GRS]]
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|-
+| {{Infobox Parti politique français/couleurs|PS}} |
+| align=left | [[Ségolène Royal]]
+| align=center | [[Parti socialiste (France)|PS]]
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|- {{ligne blanche}}
+| colspan=7 |
+|-
+| colspan="3" |Inscrits
+| {{formatnum:140282}}<ref name=":2" />
+|
+|
+|
+|-
+| colspan=3 | Exprimés
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|-
+| colspan=3 | Blancs et nuls
+| {{formatnum:}} || 
+| {{formatnum:}} ||  
+|- style=font-weight:bold
+| colspan=3 | Votants
+| {{formatnum:}} || 100
+| {{formatnum:}} || 100
+|}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=alpha}}
+=== Références ===
+{{Références}}
+
+== Liens externes ==
+* {{Site officiel|url=https://choisir2027.fr/|titre=Site officiel}}
+
+{{Palette
+ |Élection présidentielle française de 2027
+ |Primaires en France
+}}
+{{Portail|politique française|années 2020|socialisme|Cinquième République}}
+
+[[Catégorie:Primaire présidentielle française socialiste|2026]]
+[[Catégorie:Élection présidentielle française de 2027]]
+[[Catégorie:Octobre 2026 en France]]
+[[Catégorie:Élection en France en 2026]]
+[[Catégorie:Politique en octobre 2026]]

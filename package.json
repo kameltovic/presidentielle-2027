@@ -1,0 +1,9 @@
+{
+  "name": "presidentielle-2027",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

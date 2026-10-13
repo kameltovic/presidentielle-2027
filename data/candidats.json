@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T01:13:24.689Z",
+ "updatedAt": "2026-10-13T06:53:31.993Z",
  "polls": {
   "from": "2026-09-08",
   "to": "2026-10-08",
@@ -381,9 +381,9 @@
     },
     {
      "title": "Nathalie Arthaud, porte-parole de Lutte ouvrière, candidate à l'élection présidentielle 2027",
-     "url": "https://la1ere.franceinfo.fr/guyane/programme-audio/face-aux-outre-mer-16007/nathalie-arthaud-porte-parole-de-lutte-ouvrière-candidate-à-l-élection-présidentielle-2027-2801300.html",
+     "url": "https://la1ere.franceinfo.fr/guadeloupe/programme-audio/face-aux-outre-mer-16007/nathalie-arthaud-porte-parole-de-lutte-ouvrière-candidate-à-l-élection-présidentielle-2027-2801300.html",
      "source": "la1ere.franceinfo",
-     "excerpt": "Retrouvez Nathalie Arthaud, porte-parole de Lutte ouvrière, candidate à l'élection présidentielle 2027 et les autres épisodes de ce programme à écouter en streaming sur Guyane La 1ère.",
+     "excerpt": "Retrouvez Nathalie Arthaud, porte-parole de Lutte ouvrière, candidate à l'élection présidentielle 2027 et les autres épisodes de ce programme à écouter en streaming sur Guadeloupe La 1ère.",
      "image": "https://www.bing.com/th?id=ONUT.SpU-HFjUMaD_FtSK2ZGx6w&pid=News&w=800&h=450&c=14",
      "date": "2026-10-05T17:00:00.000Z"
     },
@@ -654,20 +654,20 @@
    },
    "news": [
     {
+     "title": "Valérie Trierweiler revient sur son message à Léa Salamé, envoyé à la suite de la victoire de Raphaël Glucksmann : “Elle doit renoncer à…”",
+     "url": "https://www.gala.fr/politique/valerie-trierweiler-revient-sur-son-message-a-lea-salame-envoye-a-la-suite-de-la-victoire-de-raphael-glucksmann-elle-doit-renoncer-a-20261013",
+     "source": "Gala",
+     "excerpt": "Dès l’annonce de la victoire de Raphaël Glucksmann à la primaire socialiste, Valérie Trierweiler avait adressé un message à Léa Salamé. Ce lundi 12 octobre, l’ex-Première dame a précisé son propos via ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "\"Il n’entrera pas à Matignon” : pour Éric Zemmour, l’avenir de Jordan Bardella est scellé",
      "url": "https://www.gala.fr/politique/il-n-entrera-pas-a-matignon-pour-eric-zemmour-l-avenir-de-jordan-bardella-est-scelle-20261012",
      "source": "Gala",
      "excerpt": "Éric Zemmour a un avis tranché sur Jordan Bardella. Invité au micro de RTL, ce lundi 12 octobre, le président de Reconquête a dévoilé ce qu’il pense de l’avenir de son homologue.",
      "image": "https://www.bing.com/th?id=ONUT.AKyPvK4D2cZwi9T-1Tscuw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T07:39:00.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann remporte la primaire socialiste : Valérie Trierweiler adresse aussitôt un message à Léa Salamé",
-     "url": "https://www.gala.fr/politique/raphael-glucksmann-remporte-la-primaire-socialiste-valerie-trierweiler-adresse-aussitot-un-message-a-lea-salame-20261011",
-     "source": "Gala",
-     "excerpt": "Ce dimanche 11 octobre, Raphaël Glucksmann a remporté le premier tour de la primaire de la gauche sociale-démocrate en vue de la présidentielle de 2027. Dans la foulée, Valérie Trierweiler a posté un ...",
-     "image": "https://www.bing.com/th?id=ONUT.0QUHqgYIrmzBF0auklVQpw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T12:07:00.000Z"
     },
     {
      "title": "François Asselineau, tête de liste de l’UPR aux élections européennes de juin 2024",
@@ -1115,6 +1115,14 @@
    },
    "news": [
     {
+     "title": "Réforme des retraites : la manoeuvre de Gabriel Attal et Edouard Philippe qui gêne Sébastien Lecornu",
+     "url": "https://www.lexpress.fr/politique/gabriel-attal-et-edouard-philippe-vont-remettre-la-reforme-des-retraites-dans-les-pattes-de-7GAPP4NVRZHV5EK3L5IS75F75E/",
+     "source": "L'Express",
+     "excerpt": "Les groupes EPR et Horizons prévoient chacun de défendre des amendements au PLFSS pour abroger la suspension de la réforme des retraites.",
+     "image": "https://www.bing.com/th?id=ONUT.UhiBFybpyz_Q5xB2fHfJqQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T22:59:00.000Z"
+    },
+    {
      "title": "ENTRETIEN. Présidentielle 2027 : \"L'objectif principal de Raphaël Glucksmann est d'aller chercher les électeurs de Gabriel Attal\", décrypte le politologue Rémi Lefebvre",
      "url": "https://www.ladepeche.fr/2026/10/12/entretien-presidentielle-2027-lobjectif-principal-de-raphael-glucksmann-est-daller-chercher-les-electeurs-de-gabriel-attal-decrypte-le-politologue-13597370.php",
      "source": "La Dépêche",
@@ -1163,6 +1171,14 @@
      "date": "2026-10-11T07:07:00.000Z"
     },
     {
+     "title": "Présidentielle 2027 : Gabriel Attal et Édouard Philippe appellent au rassemblement, mais chacun dans son couloir",
+     "url": "https://www.sudouest.fr/elections/presidentielle-2027-gabriel-attal-et-edouard-philippe-appellent-au-rassemblement-mais-chacun-dans-son-couloir-31021962.php",
+     "source": "Sud Ouest",
+     "excerpt": "Réunis à Dijon lors du congrès du Parti radical, les deux anciens Premiers ministres ont plaidé pour l’union du bloc central tout en affichant leurs différences sur la stratégie à adopter ...",
+     "image": "https://www.bing.com/th?id=ONUT.onoX6wFzqhwrzAr-bovxbw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-11T06:45:00.000Z"
+    },
+    {
      "title": "Présidentielle 2027 : réunis à Dijon, Gabriel Attal et Édouard Philippe appellent chacun au rassemblement, sans proposer de solution concrète",
      "url": "https://www.lefigaro.fr/politique/reunis-a-dijon-gabriel-attal-et-edouard-philippe-appellent-chacun-au-rassemblement-sans-proposer-de-solution-concrete-20261011",
      "source": "Le Figaro",
@@ -1193,22 +1209,6 @@
      "excerpt": "Il se démène. Il se déplace. Samedi, il a dévoilé un pacte pour la jeunesse. Mais Gabriel Attal ne parvient pas à réduire l'écart sur Edouard Philippe. Et le temps presse ...",
      "image": "https://www.bing.com/th?id=ONUT.l7lGqx-drxfaJnw8RKPlxQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-11T01:20:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Jean-Luc Mélenchon en meeting ce dimanche à Clermont-Ferrand pour cibler la jeunesse et répliquer à Gabriel Attal",
-     "url": "https://www.sudouest.fr/politique/jean-luc-melenchon/presidentielle-2027-jean-luc-melenchon-en-meeting-ce-dimanche-a-clermont-ferrand-pour-cibler-la-jeunesse-et-repliquer-a-gabriel-attal-31017985.php",
-     "source": "Sud Ouest",
-     "excerpt": "Le candidat de La France insoumise Jean-Luc Mélenchon s’adresse à la jeunesse lors d’un grand meeting en Auvergne, au lendemain d’une offensive de Gabriel Attal depuis Lyon ...",
-     "image": "https://www.bing.com/th?id=ONUT.FHfFJvmcQsY907htMufD7A&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-10T23:30:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : \"Route Nationale\" avec Gabriel Attal",
-     "url": "https://www.tf1info.fr/politique/videos/video-presidentielle-2027-route-nationale-avec-gabriel-attal-63667-2469358.html",
-     "source": "TF1 INFO",
-     "excerpt": "▶️ Gabriel Attal est le deuxième invité de \"Route nationale\", à l'approche de l'élection présidentielle de 2027. Nous l'avons emmené aux côtés de demandeurs d'emploi en réinsertion, d'une patronne de ...",
-     "image": null,
-     "date": "2026-10-10T20:31:00.000Z"
     }
    ],
    "videos": [
@@ -1463,14 +1463,6 @@
      "date": "2026-10-07T11:02:00.000Z"
     },
     {
-     "title": "Drapeaux renversés au Parlement européen : de quoi est accusée l'élue LFI Rima Hassan ?",
-     "url": "https://www.tf1info.fr/politique/drapeaux-renverses-au-parlement-europeen-de-quoi-est-accusee-l-elue-lfi-rima-hassan-2468520.html",
-     "source": "TF1 INFO",
-     "excerpt": "[VIDÉO] Rima Hassan est soupçonnée d'avoir renversé les drapeaux israélien et européen lors d'une exposition consacrée au 7 octobre 2023 au Parlement de Strasbourg. Un geste condamné par la présidente ...",
-     "image": null,
-     "date": "2026-10-07T03:36:00.000Z"
-    },
-    {
      "title": "Trois ans après le 7-Octobre, Jean-Noël Barrot en Israël pour rendre hommage aux victimes",
      "url": "https://fr.news.yahoo.com/trois-ans-apr%C3%A8s-7-octobre-162912463.html",
      "source": "Yahoo Actualités",
@@ -1501,6 +1493,14 @@
      "excerpt": "Le ministre français des Affaires étrangères rendra hommage ce mercredi aux victimes des attaques du Hamas. Une visite surprise sur plusieurs lieux du massacre.",
      "image": null,
      "date": "2026-10-06T23:43:00.000Z"
+    },
+    {
+     "title": "Anniversaire du 7 octobre: Jean-Noël Barrot.",
+     "url": "https://israelvalley.com/2026/10/07/j-n-barrot-le-ministre-francais-des-affaires-etrangeres-est-en-visite-en-israel/",
+     "source": "IsraelValley",
+     "excerpt": "Anniversaire du 7 octobre: Jean-Noël Barrot. Le ministre français des Affaires étrangères est en Israël pour rendre hommage aux victimes du 7 octobre. Le ministre français des Affaires étrangères est ...",
+     "image": null,
+     "date": "2026-10-06T23:18:00.000Z"
     }
    ],
    "videos": [],
@@ -1691,6 +1691,14 @@
    },
    "news": [
     {
+     "title": "Résultats élections législatives 2ème circonscription Deux-Sèvres",
+     "url": "https://www.ouest-france.fr/elections/resultats/deux-sevres/2eme-circonscription/",
+     "source": "Ouest-France",
+     "excerpt": "Suivez en direct les résultats des élections législatives de la 2ème circonscription Deux-Sèvres. Retrouvez, le 30 juin 2024 et le 7 juillet 2024 à partir de 20 heures, les résultats pour toutes les l ...",
+     "image": null,
+     "date": "2026-10-10T17:00:00.000Z"
+    },
+    {
      "title": "Delphine Batho",
      "url": "https://www.ouest-france.fr/politique/delphine-batho/",
      "source": "Ouest-France",
@@ -1699,12 +1707,12 @@
      "date": "2026-10-05T17:00:00.000Z"
     },
     {
-     "title": "La nouvelle sénatrice rejoint des collègues élues aux postes clés de ce département",
-     "url": "https://www.ouest-france.fr/elections/senatoriales/la-nouvelle-senatrice-rejoint-des-collegues-elues-aux-postes-cles-de-ce-departement-7f0df50e-bb0c-11f1-bf2b-20ac402d7e60",
-     "source": "Ouest-France",
-     "excerpt": "[Courrier de l'Ouest] Marie-Pierre Missioux est la première femme élue au poste de sénatrice des Deux-Sèvres. Avant elle, Coralie Dénoues a été choisie pour la présidence du Département, Delphine Bath ...",
+     "title": "Phyteis, le lobby de « la protection des plantes » derrière la loi Duplomb",
+     "url": "https://www.streetpress.com/1791194619-phyteis-lobby-protection-plantes-derriere-loi-duplomb-influence-pesticides-senat-environnement/",
+     "source": "StreetPress",
+     "excerpt": "Peu connu du public, Phyteis rassemble les plus importants fabricants de pesticides. Le lobby manœuvre en coulisses depuis des années pour freiner l’interdiction de ses produits et a influencé la « lo ...",
      "image": null,
-     "date": "2026-09-28T06:12:00.000Z"
+     "date": "2026-10-05T17:00:00.000Z"
     },
     {
      "title": "Un \"front du refus\" inédit mobilisé à Arles contre une ligne aérienne THT",
@@ -1934,20 +1942,20 @@
    },
    "news": [
     {
+     "title": "Résultats élections législatives 5ème circonscription Haut-Rhin",
+     "url": "https://www.ouest-france.fr/elections/resultats/haut-rhin/5eme-circonscription/",
+     "source": "Ouest-France",
+     "excerpt": "Suivez en direct les résultats des élections législatives de la 5ème circonscription Haut-Rhin. Retrouvez, le 30 juin 2024 et le 7 juillet 2024 à partir de 20 heures, les résultats pour toutes les lis ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout ! »",
      "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
      "source": "Sud Radio",
      "excerpt": "INTERVIEW SUD RADIO - Olivier Becht était l'invité politique du Grand Matin Week-End pour défendre sa candidature à l’élection présidentielle ...",
      "image": null,
      "date": "2026-10-11T03:41:00.000Z"
-    },
-    {
-     "title": "Résultats élections législatives 5ème circonscription Haut-Rhin",
-     "url": "https://www.ouest-france.fr/elections/resultats/haut-rhin/5eme-circonscription/",
-     "source": "Ouest-France",
-     "excerpt": "Suivez en direct les résultats des élections législatives de la 5ème circonscription Haut-Rhin. Retrouvez, le 30 juin 2024 et le 7 juillet 2024 à partir de 20 heures, les résultats pour toutes les lis ...",
-     "image": null,
-     "date": "2026-10-08T17:00:00.000Z"
     },
     {
      "title": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à la Présidentielle ?",
@@ -2466,6 +2474,14 @@
    },
    "news": [
     {
+     "title": "Présidentielle : Xavier Bertrand, l’ambition qui ne meurt jamais",
+     "url": "https://www.liberation.fr/politique/presidentielle-xavier-bertrand-lambition-qui-ne-meurt-jamais-20261013_26GT7N4TGBFGFDIDASGOX2R7FM/",
+     "source": "Libération",
+     "excerpt": "Battu à la primaire de la droite en 2021, le président des Hauts-de-France veut toujours croire en ses chances en 2027. Actif sur le terrain, il juge que la rupture avec Emmanuel Macron ne pourra veni ...",
+     "image": "https://www.bing.com/th?id=ONUT.wjP3PTYFwsJnyTS-mgPi7w&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "Le coup de gueule du président des Hauts-de-France au 75ème congrès de l’Union des maire de l’Oise",
      "url": "https://www.oisehebdo.fr/2026/10/11/coup-de-gueule-president-hauts-de-francecongres-maire-oise/",
      "source": "Oise Hebdo",
@@ -2544,14 +2560,6 @@
      "excerpt": "Le président de la région Hauts-de-France, Xavier Bertrand, a indiqué que les données de près de 545.000 personnes ont fuité lors d'une cyberattaque ayant visé deux ...",
      "image": "https://www.bing.com/th?id=ONUT.Wtr9MA6somFFOLeFjgkVSA&pid=News&w=800&h=450&c=14",
      "date": "2026-10-05T07:42:00.000Z"
-    },
-    {
-     "title": "Main d'un lycéen arrachée à Lens: Xavier Bertrand dénonce un «drame absolument terrible»",
-     "url": "https://video.lefigaro.fr/figaro/actualite-france/main-d-un-lyceen-arrachee-a-lens-xavier-bertrand-denonce-un-drame-absolument-terrible-20261005",
-     "source": "Figaro Live",
-     "excerpt": "Publié le 05/10/2026 à 14h46, mis à jour le 05/10/2026 à 14h47 À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer les cookies” en bas de page. Le Figaro Les articles en illimité à ...",
-     "image": "https://www.bing.com/th?id=ONUT.d1nppTm3yEHqh_sRMYgIYQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-05T05:46:00.000Z"
     }
    ],
    "videos": [],
@@ -3476,14 +3484,6 @@
      "date": "2026-10-11T06:16:42.000Z"
     },
     {
-     "title": "«Il faut supprimer Parcoursup», martèle Nicolas Dupont-Aignan",
-     "url": "https://www.cnews.fr/france/2026-10-11/il-faut-supprimer-parcoursup-martele-nicolas-dupont-aignan-1933114",
-     "source": "CNEWS",
-     "excerpt": "«Il faut supprimer Parcoursup», a martelé Nicolas Dupont-Aignan, candidat à l'élection présidentielle 2027, sur CNEWS ce dimanche ...",
-     "image": null,
-     "date": "2026-10-11T04:20:00.000Z"
-    },
-    {
      "title": "«Ce n'est plus un mouvement lycéen, c'est un début de guerre civile», lance Nicolas Dupont-Aignan",
      "url": "https://www.cnews.fr/france/2026-10-11/ce-nest-plus-un-mouvement-lyceen-cest-un-debut-de-guerre-civile-lance-nicolas",
      "source": "CNEWS",
@@ -3546,6 +3546,14 @@
      "excerpt": "Il faut espérer que quelqu'un aura pris soin de sceller au sol le mobilier du Rouge-Gorge, à Avignon, car le casting réuni par Julien Aubert pour animer l'université de rentrée de son mouvement, s'ann ...",
      "image": null,
      "date": "2026-09-30T02:27:00.000Z"
+    },
+    {
+     "title": "Alexis Wagram : Qui se cache derrière ce compte troll, dopé à l’IA, et soutien de Nicolas Dupont-Aignan ?",
+     "url": "https://www.20minutes.fr/societe/4249474-20260930-alexis-wagram-cache-derriere-compte-troll-dope-ia-soutien-nicolas-dupont-aignan",
+     "source": "20 Minutes",
+     "excerpt": "Avec plus de 19.000 posts sur le réseau social X, « Alexis Wagram » multiplie les trolls avec un avatar créé par intelligence artificielle. En 2025, il avait trompé plusieurs médias en se faisant pass ...",
+     "image": "https://www.bing.com/th?id=ONUT.LtyZ_02-WZ0BtTHy9ls3aQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-09-29T23:48:00.000Z"
     }
    ],
    "videos": [
@@ -3741,20 +3749,20 @@
    },
    "news": [
     {
+     "title": "Valérie Trierweiler revient sur son message à Léa Salamé, envoyé à la suite de la victoire de Raphaël Glucksmann : “Elle doit renoncer à…”",
+     "url": "https://www.gala.fr/politique/valerie-trierweiler-revient-sur-son-message-a-lea-salame-envoye-a-la-suite-de-la-victoire-de-raphael-glucksmann-elle-doit-renoncer-a-20261013",
+     "source": "Gala",
+     "excerpt": "Dès l’annonce de la victoire de Raphaël Glucksmann à la primaire socialiste, Valérie Trierweiler avait adressé un message à Léa Salamé. Ce lundi 12 octobre, l’ex-Première dame a précisé son propos via ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "\"Il n’entrera pas à Matignon” : pour Éric Zemmour, l’avenir de Jordan Bardella est scellé",
      "url": "https://www.gala.fr/politique/il-n-entrera-pas-a-matignon-pour-eric-zemmour-l-avenir-de-jordan-bardella-est-scelle-20261012",
      "source": "Gala",
      "excerpt": "Éric Zemmour a un avis tranché sur Jordan Bardella. Invité au micro de RTL, ce lundi 12 octobre, le président de Reconquête a dévoilé ce qu’il pense de l’avenir de son homologue.",
      "image": "https://www.bing.com/th?id=ONUT.AKyPvK4D2cZwi9T-1Tscuw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T07:39:00.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann remporte la primaire socialiste : Valérie Trierweiler adresse aussitôt un message à Léa Salamé",
-     "url": "https://www.gala.fr/politique/raphael-glucksmann-remporte-la-primaire-socialiste-valerie-trierweiler-adresse-aussitot-un-message-a-lea-salame-20261011",
-     "source": "Gala",
-     "excerpt": "Ce dimanche 11 octobre, Raphaël Glucksmann a remporté le premier tour de la primaire de la gauche sociale-démocrate en vue de la présidentielle de 2027. Dans la foulée, Valérie Trierweiler a posté un ...",
-     "image": "https://www.bing.com/th?id=ONUT.0QUHqgYIrmzBF0auklVQpw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T12:07:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : qui sont ces candidats étonnants qui veulent se lancer dans la course à l’Élysée ?",
@@ -4012,6 +4020,14 @@
    },
    "news": [
     {
+     "title": "Sa stratégie, son image… et Olivier Faure : les urgences du candidat Glucksmann pour lancer sa campagne",
+     "url": "https://www.nouvelobs.com/politique/20261013.OBS119159/sa-strategie-son-image-et-olivier-faure-les-urgences-du-candidat-glucksmann-pour-lancer-sa-campagne.html",
+     "source": "L'Obs",
+     "excerpt": "Réunir les socialistes, élargir son socle, enfiler le costume : le vainqueur de la primaire sociale-démocrate doit relever ces trois défis pour transformer l’essai en 2027. Une course contre la montre ...",
+     "image": "https://www.bing.com/th?id=ONUT.xOHHvMzo1vnv2sPQHDrcJw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "\"C'est à lui de dire ce qu'il compte faire\": Olivier Faure fragilisé après sa lourde défaite à la primaire socialiste",
      "url": "https://www.bfmtv.com/politique/parti-socialiste/c-est-a-lui-de-dire-ce-qu-il-compte-faire-olivier-faure-fragilise-apres-sa-lourde-defaite-a-la-primaire-socialiste_AN-202610120550.html",
      "source": "BFMTV",
@@ -4090,14 +4106,6 @@
      "excerpt": "Avant de repartir à Paris, Olivier Faure s’est entretenu de façon plus confidentielle avec le responsable de la gigafactory. Contre la visite guidée, celui-ci s’est offert un moment de lobbying sur ...",
      "image": "https://www.bing.com/th?id=ONUT.6mOg6KsH4_2ia0maj4xrTA&pid=News&w=800&h=450&c=14",
      "date": "2026-10-08T11:12:00.000Z"
-    },
-    {
-     "title": "Primaire de la gauche : la première secrétaire du Parti socialiste des Deux-Sèvres sera fidèle à Olivier Faure",
-     "url": "https://www.lanouvellerepublique.fr/deux-sevres/primaire-de-la-gauche-la-premiere-secretaire-du-parti-socialiste-des-deux-sevres-sera-fidele-a-olivier-faure-1791474157",
-     "source": "La Nouvelle République",
-     "excerpt": "Le scrutin pour désigner le candidat social-démocrate à la présidentielle est lancé. Entre les différents prétendants et un vote très ouvert, comment les fédérations locales se positionnent-elles ? Él ...",
-     "image": "https://www.bing.com/th?id=ONUT.Uncniw85mbfhfe7RJ5E04A&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-08T10:42:00.000Z"
     }
    ],
    "videos": [],
@@ -4537,12 +4545,52 @@
    },
    "news": [
     {
-     "title": "ENTRETIEN. Présidentielle 2027 : \"L'objectif principal de Raphaël Glucksmann est d'aller chercher les électeurs de Gabriel Attal\", décrypte le politologue Rémi Lefebvre",
-     "url": "https://www.ladepeche.fr/2026/10/12/entretien-presidentielle-2027-lobjectif-principal-de-raphael-glucksmann-est-daller-chercher-les-electeurs-de-gabriel-attal-decrypte-le-politologue-13597370.php",
+     "title": "DECRYPTAGE. Présidentielle 2027 : après les tensions de la primaire, Raphaël Glucksmann doit désormais rassembler son camp",
+     "url": "https://www.ladepeche.fr/2026/10/13/decryptage-presidentielle-2027-apres-les-tensions-de-la-primaire-raphael-glucksmann-doit-desormais-rassembler-son-camp-13597462.php",
      "source": "La Dépêche",
-     "excerpt": "Après la victoire de Raphaël Glucksmann à la primaire de la gauche social-démocrate, le politologue Rémi Lefebvre, professeur de sciences politiques à l'Université de Lille, décrypte les atouts et les ...",
-     "image": "https://www.bing.com/th?id=ONUT.dW_9rdfL9pWHsKUZpDKeFg&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T13:31:00.000Z"
+     "excerpt": "Raphaël Glucksmann a remporté la primaire de la gauche avec 66 % des voix, mais il doit maintenant unir un parti divisé. Ségolène Royal et Olivier Faure, respectivement à 7,62 % et 14,46 %, pourraient ...",
+     "image": "https://www.bing.com/th?id=ONUT.M-CWiZfCFkQdkgjCczgJ_Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:41:00.000Z"
+    },
+    {
+     "title": "«C'est notre adversaire idéal» : pourquoi LFI se réjouit-elle de la victoire de Raphaël Glucksmann à la primaire socialiste ?",
+     "url": "https://www.europe1.fr/politique/cest-notre-adversaire-ideal-pourquoi-lfi-se-rejouit-elle-de-la-victoire-de-raphael-glucksmann-a-la-primaire-socialiste-1142960",
+     "source": "Europe 1",
+     "excerpt": "Ce dimanche, Raphaël Glucksmann a été élu dès le premier tour de la primaire socialiste avec 66% des voix. Ainsi, le candidat devrait maintenir son cap et sa ...",
+     "image": "https://www.bing.com/th?id=ONUT.DQGidQJ90p2Tc3UtRd0nrg&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:34:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Raphaël Glucksmann désormais au défi de rallier à sa cause l’ensemble de la gauche hors-LFI",
+     "url": "https://www.midilibre.fr/2026/10/13/presidentielle-2027-raphael-glucksmann-desormais-au-defi-de-rallier-a-sa-cause-lensemble-de-la-gauche-hors-lfi-13597163.php",
+     "source": "Midi Libre",
+     "excerpt": "Raphaël Glucksmann, large vainqueur de la primaire de la gauche sociale-démocrate, doit désormais élargir son audience de candidat. Car dans l’ensemble de la gauche non-mélenchoniste, il ne fait pas e ...",
+     "image": "https://www.bing.com/th?id=ONUT.DbP4FijMdQcJHs2zcdISAg&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:31:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : pourquoi LFI fait de Raphaël Glucksmann sa cible favorite",
+     "url": "https://www.ladepeche.fr/2026/10/13/presidentielle-2027-pourquoi-lfi-fait-de-raphael-glucksmann-sa-cible-favorite-13597432.php",
+     "source": "La Dépêche",
+     "excerpt": "Dimanche soir, Raphaël Glucksmann, le vainqueur de la primaire de la gauche, a été pris pour cible par des militants insoumis. Ces incidents illustrent les tensions persistantes avec Jean-Luc Mélencho ...",
+     "image": "https://www.bing.com/th?id=ONUT.jOOszMz9LK_oFsu9BJEC3g&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:27:00.000Z"
+    },
+    {
+     "title": "La tribune politique : Victoire de Raphaël Glucksmann, déconvenue pour François Hollande - 13/10",
+     "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/la-tribune-politique-victoire-de-raphael-glucksmann-deconvenue-pour-francois-hollande-13-10_EN-202610130218.html",
+     "source": "BFMTV",
+     "excerpt": "Laurent Pietraszewski, ancien secrétaire d'État chargé des retraites et de la santé au travail, était l'invité de Brigitte Boucher dans Good Morning Business, ce mardi 13 octobre. Ils sont revenus sur ...",
+     "image": "https://www.bing.com/th?id=ONUT.pVlSbBoRNK5pVr0n_pW5Ww&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T19:58:00.000Z"
+    },
+    {
+     "title": "Valérie Trierweiler revient sur son message à Léa Salamé, envoyé à la suite de la victoire de Raphaël Glucksmann : “Elle doit renoncer à…”",
+     "url": "https://www.gala.fr/politique/valerie-trierweiler-revient-sur-son-message-a-lea-salame-envoye-a-la-suite-de-la-victoire-de-raphael-glucksmann-elle-doit-renoncer-a-20261013",
+     "source": "Gala",
+     "excerpt": "Dès l’annonce de la victoire de Raphaël Glucksmann à la primaire socialiste, Valérie Trierweiler avait adressé un message à Léa Salamé. Ce lundi 12 octobre, l’ex-Première dame a précisé son propos via ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
     },
     {
      "title": "Raphaël Glucksmann candidat de la gauche sociale-démocrate à la présidentielle 2027 : « Cette clarification politique était nécessaire », selon le PRG 79",
@@ -4561,14 +4609,6 @@
      "date": "2026-10-12T12:20:00.000Z"
     },
     {
-     "title": "Comment Raphaël Glucksmann peut-il transformer sa victoire à la primaire en dynamique de campagne ?",
-     "url": "https://www.liberation.fr/politique/comment-raphael-glucksmann-peut-il-transformer-sa-victoire-a-la-primaire-en-dynamique-de-campagne-20261012_IVZDIXG2ZZBC5MB4TR56TIXI2Q/",
-     "source": "Libération",
-     "excerpt": "Si le leader de Place publique a été adoubé par les électeurs socialistes dimanche 11 octobre, les défis s’amoncellent déjà à l’orée de sa campagne pour 2027. A commencer par l’espace à laisser à ses ...",
-     "image": "https://www.bing.com/th?id=ONUT.3auPnAnBiou_slDO5kiBkw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T12:04:00.000Z"
-    },
-    {
      "title": "L'enfarinage de Raphaël Glucksmann est \"une forme d'empêchement démocratique\"",
      "url": "https://lcp.fr/actualites/l-enfarinage-de-raphael-glucksmann-est-une-forme-d-empechement-democratique-443735",
      "source": "La Chaîne parlementaire",
@@ -4585,12 +4625,12 @@
      "date": "2026-10-12T11:11:00.000Z"
     },
     {
-     "title": "Accueil Politique Raphaël Glucksmann plébiscité : Place publique et les socialistes doubiens « heureux »",
-     "url": "https://www.estrepublicain.fr/politique/2026/10/12/raphael-glucksmann-plebiscite-place-publique-et-les-socialistes-doubiens-heureux",
-     "source": "L'Est Républicain",
-     "excerpt": "Gilles Vieille-Marchiset (PP) et Jean-Sébastien Leuba (PS) se réjouissent du processus démocratique de la primaire de la gauche, tout en estimant ...",
-     "image": "https://www.bing.com/th?id=ONUT.D_yWmfvxXTI3PWAEmdAMKg&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T11:07:00.000Z"
+     "title": "\"Une clarification très nette\" : que change la victoire de Raphaël Glucksmann à la primaire de gauche pour la présidentielle ?",
+     "url": "https://www.tf1info.fr/politique/elections/presidentielle/une-clarification-tres-nette-que-change-la-victoire-de-raphael-glucksmann-a-la-primaire-de-gauche-pour-la-presidentielle-2469522.html",
+     "source": "TF1 INFO",
+     "excerpt": "[VIDÉO] Plébiscité lors de la primaire de gauche, Raphaël Glucksmann a officiellement été désigné candidat à la présidentielle ce dimanche. Comment analyser un tel résultat ? Quelles peuvent être les ...",
+     "image": "https://www.bing.com/th?id=ONUT.zbJtBGk8Q2OY6CMcwrJ3tw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T11:09:00.000Z"
     },
     {
      "title": "Guillaume Tabard : « Jean-Luc Mélenchon, Raphaël Glucksmann et Édouard Philippe, un fauteuil pour trois »",
@@ -4599,38 +4639,6 @@
      "excerpt": "CONTRE-POINT - Pour se qualifier en finale de l’élection présidentielle, Raphaël Glucksmann devrait réussir un « en même temps » : réunir à la fois les électeurs de gauche, et les anciens électeurs ma ...",
      "image": "https://www.bing.com/th?id=ONUT.l-eqtBn-3XLgYjhKnBrzkQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T11:05:00.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann, vainqueur de la primaire socialiste : \"On/Off\", épisode 3",
-     "url": "https://www.franceinfo.fr/politique/raphael-glucksmann-vainqueur-de-la-primaire-socialiste-on-off-episode-3_8233573.html",
-     "source": "France Info",
-     "excerpt": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
-     "image": null,
-     "date": "2026-10-12T11:00:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : après la primaire, Raphaël Glucksmann face au laborieux défi de rassembler",
-     "url": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-apres-la-primaire-raphael-glucksmann-face-au-laborieux-defi-de-rassembler-2256424",
-     "source": "Les Echos",
-     "excerpt": "Largement vainqueur ce dimanche de la désignation sociale-démocrate, le député européen doit rapidement réunir sa famille politique mais aussi réussir à embarquer au-delà.",
-     "image": "https://www.bing.com/th?id=ONUT.mWBtmKWPw48sN2cJ8SD-BA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T10:57:00.000Z"
-    },
-    {
-     "title": "La victoire de Raphaël Glucksmann signe-t-elle la mort du PS ?",
-     "url": "https://www.lopinion.fr/politique/la-victoire-de-raphael-glucksmann-signe-t-elle-la-mort-du-ps",
-     "source": "l'Opinion",
-     "excerpt": "En plébiscitant le leader de Place publique à plus de 66 %, les socialistes confient leur destin présidentiel à un homme qui n’est pas des leurs, comme une SFIO déclinante le fit avec François Mitterr ...",
-     "image": "https://www.bing.com/th?id=ONUT.8Z4g3bI548BPcChQ6-1Zpg&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T10:48:00.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann candidat à la présidentielle : le PS de Calais croit en un nouvel élan à gauche",
-     "url": "https://www.lavoixdunord.fr/1745692/article/2026-10-12/raphael-glucksmann-candidat-la-presidentielle-le-ps-de-calais-croit-en-un-nouvel",
-     "source": "La Voix du Nord",
-     "excerpt": "Avec la victoire de Raphaël Glucksmann dans la primaire de gauche en vue de l’élection présidentielle de mai 2027, la section locale du Parti socialiste a retrouvé un peu de couleurs. D’abord parce qu ...",
-     "image": "https://www.bing.com/th?id=ONUT.aLcWqT1Y8OstibfLJsQnsA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T09:46:00.000Z"
     }
    ],
    "videos": [],
@@ -4647,7 +4655,7 @@
      "text": "Je serai le candidat la justice sociale et fiscale, de la révolution écologique, de la démocratie.\n\nLe candidat de la rupture avec le macronisme.\n\nLe candidat qui pourra battre notre ennemi de toujours, l’extrême droite. https://t.co/2r9NhGWaJl\n\nhttps://x.com/rglucks1/status/2109334923358491023",
      "image": null,
      "date": "2026-10-11T17:31:44.000Z",
-     "likes": 139,
+     "likes": 140,
      "reposts": 49,
      "url": "https://bsky.app/profile/raphaelglucksmann.bsky.social/post/3mxmjucyfhj2s"
     },
@@ -4833,14 +4841,6 @@
    },
    "news": [
     {
-     "title": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, doit désormais mettre la famille sociale-démocrate en ordre de bataille",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
-     "source": "Le Monde",
-     "excerpt": "Le coprésident de Place publique, qui l’a emporté dès le premier tour dimanche, a revendiqué la « rupture avec le macronisme » et la fin de « l’hégémonie de Jean-Luc Mélenchon sur la gauche », tout en ...",
-     "image": "https://www.bing.com/th?id=ONUT.5Nb8SgTs5bVae5OJIFSOLQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T20:32:00.000Z"
-    },
-    {
      "title": "Primaire de la gauche : après la victoire de Raphaël Glucksmann, les mots d’Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel",
      "url": "https://www.midilibre.fr/2026/10/11/primaire-de-la-gauche-apres-la-victoire-de-raphael-glucksmann-les-mots-dolivier-faure-segolene-royal-jerome-guedj-et-emmanuel-maurel-13596000.php",
      "source": "Midi Libre",
@@ -4879,6 +4879,14 @@
      "excerpt": "Le vote de la primaire sociale-démocrate est finalement prolongé jusqu'à dimanche à 18h après une cyberattaque.",
      "image": "https://www.bing.com/th?id=ONUT.fyMuOnE87fz1pHwcr5wYBw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-09T03:45:00.000Z"
+    },
+    {
+     "title": "Primaire à gauche : comparez les propositions des cinq candidats",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/09/primaire-a-gauche-comparez-les-propositions-des-cinq-candidats_6790548_4355770.html",
+     "source": "Le Monde",
+     "excerpt": "Des retraites à l’Ukraine, en passant par la crise des carburants, les cinq prétendants du pôle social-démocrate ne sont pas toujours d’accord entre eux. Les Décodeurs font le point sur leurs converge ...",
+     "image": "https://www.bing.com/th?id=ONUT.cBeridvWNJq6TFkrxmrdtw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-09T02:37:00.000Z"
     },
     {
      "title": "Isère Primaire socialiste : pourquoi Stéphane Gemmani (PS) a soutenu Jérôme Guedj",
@@ -5141,6 +5149,38 @@
    },
    "news": [
     {
+     "title": "Présidentielle 2027 : après la victoire de Raphaël Glucksmann à la primaire de la gauche, quelle sera la stratégie de François Hollande ?",
+     "url": "https://www.ladepeche.fr/2026/10/13/presidentielle-2027-apres-la-victoire-de-raphael-glucksmann-a-la-primaire-de-la-gauche-quelle-sera-la-strategie-de-francois-hollande-13597140.php",
+     "source": "La Dépêche",
+     "excerpt": "Bien qu'il félicite la victoire de Raphaël Glucksmann à la primaire de la gauche, François Hollande garde un œil attentif sur la présidentielle de 2027. Prêt à soutenir la dynamique sociale-démocrate ...",
+     "image": "https://www.bing.com/th?id=ONUT.v2RexnfaebXWDDudY0Sv-w&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:32:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : François Hollande appelle à une « union » qui ne se limite pas aux « seuls socialistes »",
+     "url": "https://www.msn.com/fr-fr/actualite/other/pr%C3%A9sidentielle-2027-fran%C3%A7ois-hollande-appelle-%C3%A0-une-union-qui-ne-se-limite-pas-aux-seuls-socialistes/ar-AA2e7swj",
+     "source": "BFMTV",
+     "excerpt": "L'ex-président de la République a salué la victoire dès le premier tour de Raphaël Glucksmann à la primaire sociale-démocrate. Il l'appelle à \"élargir\" sa base s'il souhaite l'emporter en 2027.",
+     "image": null,
+     "date": "2026-10-12T23:16:18.000Z"
+    },
+    {
+     "title": "La tribune politique : Victoire de Raphaël Glucksmann, déconvenue pour François Hollande - 13/10",
+     "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/la-tribune-politique-victoire-de-raphael-glucksmann-deconvenue-pour-francois-hollande-13-10_EN-202610130218.html",
+     "source": "BFMTV",
+     "excerpt": "Laurent Pietraszewski, ancien secrétaire d'État chargé des retraites et de la santé au travail, était l'invité de Brigitte Boucher dans Good Morning Business, ce mardi 13 octobre. Ils sont revenus sur ...",
+     "image": "https://www.bing.com/th?id=ONUT.pVlSbBoRNK5pVr0n_pW5Ww&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T19:58:00.000Z"
+    },
+    {
+     "title": "L'union ne doit pas se limiter aux \"seuls socialistes\", plaide François Hollande après la primaire sociale-démocrate",
+     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/l-union-ne-doit-pas-se-limiter-aux-seuls-socialistes-plaide-francois-hollande-apres-la-primaire-sociale-democrate_8234887.html",
+     "source": "France Info",
+     "excerpt": "Il a appelé son camp à \"élargir\" sa base pour pouvoir remporter la prochaine élection présidentielle.",
+     "image": "https://www.bing.com/th?id=ONUT.qAbnRaCttIFdtniGd8t2UA&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T10:02:00.000Z"
+    },
+    {
      "title": "François Hollande en dédicace à Montpellier, le 24 octobre, pour les 70 ans de la librairie Gibert",
      "url": "https://www.midilibre.fr/2026/10/12/francois-hollande-en-dedicace-a-montpellier-le-24-octobre-pour-les-70-ans-de-la-librairie-gibert-13597102.php",
      "source": "Midi Libre",
@@ -5165,12 +5205,12 @@
      "date": "2026-10-12T06:12:00.000Z"
     },
     {
-     "title": "Primaire de la gauche : après la victoire de Raphaël Glucksmann, Olivier Faure et François Hollande hors jeu?",
-     "url": "https://www.msn.com/fr-fr/actualite/other/primaire-de-la-gauche-apr%C3%A8s-la-victoire-de-rapha%C3%ABl-glucksmann-olivier-faure-et-fran%C3%A7ois-hollande-hors-jeu/ar-AA2e473u",
+     "title": "Primaire de la gauche : après la victoire de Raphaël Glucksmann, Olivier Faure et François Hollande hors jeu ?",
+     "url": "https://www.ouest-france.fr/elections/presidentielle/primaire-de-la-gauche-apres-la-victoire-de-raphael-glucksmann-olivier-faure-et-francois-hollande-hors-jeu-1011c530-c61b-11f1-92e9-819eb738846b",
      "source": "Ouest-France",
      "excerpt": "La victoire au premier tour du patron de Place Publique, avec une avance inattendue sur ses concurrents, est à la fois un désaveu pour le premier secrétaire du Parti Socialiste et un revers indirect p ...",
-     "image": "https://www.bing.com/th?id=ONUT.2P3ahF04bHkWLeD4H70UpQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T05:06:20.000Z"
+     "image": "https://www.bing.com/th?id=ONUT.7BFLVM1n2jZcSBTIBGdtAw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T05:06:00.000Z"
     },
     {
      "title": "La non-campagne très active de François Hollande",
@@ -5203,38 +5243,6 @@
      "excerpt": "Dans son édito du 12/10/2026, Paul Sugy revient sur la victoire de Raphaël Glucksmann au premier tour de la primaire de la gauche avec 66% des voix ...",
      "image": "https://www.bing.com/th?id=ONUT.C_19AcPbEqHSKh2gj24UzA&pid=News&w=800&h=450&c=14",
      "date": "2026-10-11T17:00:00.000Z"
-    },
-    {
-     "title": "Primaire sociale-démocrate : «François Hollande est le bienvenu» dans la campagne, assure Raphaël Glucksmann",
-     "url": "https://www.leparisien.fr/elections/presidentielle/direct-primaire-de-gauche-pour-la-presidentielle-2027-raphael-glucksmann-egolene-royal-olivier-faure-suivez-les-resultats-du-premier-tour-11-10-2026-F6N5RIHL55FWHDNAC272BRE43E.php",
-     "source": "Le Parisien",
-     "excerpt": "Qui arrivera en tête de la primaire sociale-démocrate ? Quelque 140 000 votants ont voté jusqu’à 18 heures ce dimanche pour choisir parmi le ...",
-     "image": "https://www.bing.com/th?id=ONUT.QMGCDRE6fJaLjNytH5XdBQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T12:54:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : François Hollande «est le bienvenu», affirme Raphaël Glucksmann",
-     "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-francois-hollande-est-le-bienvenue-affirme-raphael-glucksmann-20261011",
-     "source": "Figaro Live",
-     "excerpt": "Selon les informations du Figaro, François Hollande, qui pourrait pourtant être lui aussi candidat, a félicité Raphaël Glucksmann après sa victoire. «Je lui dis qu’il est le bienvenue dans cette dyman ...",
-     "image": "https://www.bing.com/th?id=ONUT.leQHv_jKTLnaPqkJCCpM5Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T12:01:00.000Z"
-    },
-    {
-     "title": "L'oeil de la rédaction L'édito. Primaire de la gauche : François Hollande, une espèce en voie de réapparition",
-     "url": "https://www.estrepublicain.fr/elections/2026/10/11/l-edito-primaire-de-la-gauche-francois-hollande-une-espece-en-voie-de-reapparition",
-     "source": "L'Est Républicain",
-     "excerpt": "Tapi dans l’ombre, François Hollande observe ses rivaux s’agiter. Raphaël Glucksmann a, certes, largement gagné la primaire de la gauche, mais son horizon reste encombré. Patient, rusé et increvable, ...",
-     "image": "https://www.bing.com/th?id=ONUT.5Ma5mouc8mJaktJhBdobZw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T11:31:00.000Z"
-    },
-    {
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: l'ancien président de la République François Hollande a félicité par message le vainqueur",
-     "url": "https://actu.orange.fr/videos/politique/victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-l-ancien-president-de-la-republique-francois-hollande-a-felicite-par-message-le-vainqueur-CNT000002sD0KM.html",
-     "source": "Actualités – Orange",
-     "excerpt": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix ...",
-     "image": null,
-     "date": "2026-10-11T10:54:00.000Z"
     }
    ],
    "videos": [],
@@ -5689,20 +5697,20 @@
    },
    "news": [
     {
+     "title": "Valérie Trierweiler revient sur son message à Léa Salamé, envoyé à la suite de la victoire de Raphaël Glucksmann : “Elle doit renoncer à…”",
+     "url": "https://www.gala.fr/politique/valerie-trierweiler-revient-sur-son-message-a-lea-salame-envoye-a-la-suite-de-la-victoire-de-raphael-glucksmann-elle-doit-renoncer-a-20261013",
+     "source": "Gala",
+     "excerpt": "Dès l’annonce de la victoire de Raphaël Glucksmann à la primaire socialiste, Valérie Trierweiler avait adressé un message à Léa Salamé. Ce lundi 12 octobre, l’ex-Première dame a précisé son propos via ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "\"Il n’entrera pas à Matignon” : pour Éric Zemmour, l’avenir de Jordan Bardella est scellé",
      "url": "https://www.gala.fr/politique/il-n-entrera-pas-a-matignon-pour-eric-zemmour-l-avenir-de-jordan-bardella-est-scelle-20261012",
      "source": "Gala",
      "excerpt": "Éric Zemmour a un avis tranché sur Jordan Bardella. Invité au micro de RTL, ce lundi 12 octobre, le président de Reconquête a dévoilé ce qu’il pense de l’avenir de son homologue.",
      "image": "https://www.bing.com/th?id=ONUT.AKyPvK4D2cZwi9T-1Tscuw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T07:39:00.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann remporte la primaire socialiste : Valérie Trierweiler adresse aussitôt un message à Léa Salamé",
-     "url": "https://www.gala.fr/politique/raphael-glucksmann-remporte-la-primaire-socialiste-valerie-trierweiler-adresse-aussitot-un-message-a-lea-salame-20261011",
-     "source": "Gala",
-     "excerpt": "Ce dimanche 11 octobre, Raphaël Glucksmann a remporté le premier tour de la primaire de la gauche sociale-démocrate en vue de la présidentielle de 2027. Dans la foulée, Valérie Trierweiler a posté un ...",
-     "image": "https://www.bing.com/th?id=ONUT.0QUHqgYIrmzBF0auklVQpw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T12:07:00.000Z"
     },
     {
      "title": "Simon Pegg révèle avoir été diagnostiqué d'un TDAH",
@@ -5727,14 +5735,6 @@
      "excerpt": "((Traduction automatisée par Reuters à l'aide de l'apprentissage automatique et de l'IA générative, veuillez vous référer à l'avertissement suivant: https://bit.ly/rtrsauto)) * T-Mobile et Verizon en ...",
      "image": "https://www.bing.com/th?id=ONUT.LU27Gbt_l16m9P18oX8jEg&pid=News&w=800&h=450&c=14",
      "date": "2026-10-09T06:37:00.000Z"
-    },
-    {
-     "title": "\"On ne cherche pas un accord politique\": sur les routes, le NPA en quête de parrainages",
-     "url": "https://fr.news.yahoo.com/ne-cherche-accord-politique-routes-150039762.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "Dans sa voiture personnelle, Selma Labib, candidate désignée par le NPA-Révolutionnaires, sillonne les routes sur ses jours de congés à la recherche du précieux sésame: les 500 parrainages de maires e ...",
-     "image": "https://www.bing.com/th?id=ONUT.flZiI5ZM4SmCYkcbTzG9vg&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-09T01:00:00.000Z"
     },
     {
      "title": "Candidats à la présidentielle 2027 : qui sont les 30 prétendants déjà déclarés ? La liste complète",
@@ -5783,6 +5783,14 @@
      "excerpt": "Pour son premier meeting à la Mutualité, la candidate de Lutte ouvrière Nathalie Arthaud a rejeté les appels au vote utile à gauche et défendu un programme de combat ...",
      "image": null,
      "date": "2026-09-26T09:07:00.000Z"
+    },
+    {
+     "title": "Qui est candidat à l'élection présidentielle de 2027 ?",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-qui-sont-les-candidats-qui-pourrait-se-lancer-dans-la-course-notre-suivi-en-temps-reel-12-09-2026-KQJ4A7QVERCNJCLGCJGJYY2O74.php",
+     "source": "Le Parisien",
+     "excerpt": "Qui succédera à Emmanuel Macron ? Le président de la République, Constitution oblige, ne peut pas se représenter à un troisième mandat et devra rendre les clés de l’Élysée en mai 2027. À moins d'un an ...",
+     "image": null,
+     "date": "2026-09-12T02:31:00.000Z"
     }
    ],
    "videos": [],
@@ -5939,10 +5947,10 @@
     },
     {
      "title": "Francis Lalanne : le chanteur condamné pour abandon de famille",
-     "url": "https://www.msn.com/fr-be/actualite/other/francis-lalanne-le-chanteur-condamn%C3%A9-pour-abandon-de-famille/ar-AA2dZNbf",
+     "url": "https://www.msn.com/fr-xl/actualite/other/francis-lalanne-le-chanteur-condamn%C3%A9-pour-abandon-de-famille/ar-AA2e07pc",
      "source": "Voici",
      "excerpt": "Alors qu’il est candidat à l’élection présidentielle, Francis Lalanne a été condamné pour non-paiement d’une pension alimentaire et abandon de famille, selon une information de La Provence.",
-     "image": "https://www.bing.com/th?id=ONUT.HC4VlRn8X6K5PiHo57kSaQ&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.oG4GjxW59V8-LY_WWbYhpQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-11T02:00:15.000Z"
     },
     {
@@ -6352,7 +6360,7 @@
    "news": [
     {
      "title": "Le CEG reçoit Bruno Le Maire pour échanger sur l’économie et les entreprises",
-     "url": "https://www.lejournaldesentreprises.com/article/le-ceg-recoit-bruno-le-maire-pour-echanger-sur-leconomie-et-les-entreprises-2147934",
+     "url": "https://www.lejournaldesentreprises.com/article/saint-herblain-bruno-le-maire-aborde-les-defis-economiques-des-tpe-pme-2147934",
      "source": "Le Journal des Entreprises",
      "excerpt": "Le CEG, société de Saint-Herblain qui se présente comme un think tank comptable, a réuni des experts-comptables autour de Bruno Le Maire le 8 octobre. L’ancien ministre de l’Économie y a évoqué la fac ...",
      "image": "https://www.bing.com/th?id=ONUT.rtubCSgasb2qH8f85UqW6A&pid=News&w=800&h=450&c=14",
@@ -6791,12 +6799,28 @@
    },
    "news": [
     {
-     "title": "Marine Le Pen en campagne dans le Tarn-et-Garonne dévoile ses propositions sur la protection de l’enfance",
-     "url": "https://www.ici.fr/occitanie/tarn-et-garonne-82/moissac/marine-le-pen-en-campagne-dans-le-tarn-et-garonne-devoile-ses-propositions-sur-la-protection-de-l-enfance-2825246",
-     "source": "ici",
-     "excerpt": "En déplacement dans le Tarn-et-Garonne lundi 12 octobre, la candidate du Rassemblement national a consacré sa journée aux acteurs de la protection de l’enfance. Elle défend une reprise en main de l’ai ...",
-     "image": "https://www.bing.com/th?id=ONUT.DhyBiEeBJvWuSlbIVod-vQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T13:37:00.000Z"
+     "title": "Présidentielle 2027 : Marine Le Pen domine ses rivaux sur le pouvoir d’achat, selon un sondage",
+     "url": "https://www.msn.com/fr-fr/actualite/other/pr%C3%A9sidentielle-2027-marine-le-pen-domine-ses-rivaux-sur-le-pouvoir-d-achat-selon-un-sondage/ar-AA2e7q9U",
+     "source": "Le Journal du Dimanche",
+     "excerpt": "Un sondage Ifop pour Vae Solis révèle que 90 % des Français feront du pouvoir d’achat un critère déterminant de leur vote en 2027. Les électeurs de LFI et du RN y sont particulièrement sensibles tandi ...",
+     "image": "https://www.bing.com/th?id=ONUT.HVGHv2vaPDI4QS6l89dtRw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:31:31.000Z"
+    },
+    {
+     "title": "Star Academy : Morgan et Ydriss apportent leur soutien à Jordan Bardella et Marine Le Pen",
+     "url": "https://www.msn.com/fr-be/divertissement/c%C3%A9l%C3%A9brit%C3%A9s/star-academy-morgan-et-ydriss-apportent-leur-soutien-%C3%A0-jordan-bardella-et-marine-le-pen/ar-AA2e7l9Q",
+     "source": "Public.fr",
+     "excerpt": "À peine entrés au château de la Star Academy, Morgan et Ydriss font face à une polémique lancé par le TikTokeur amineskkkk. Celui-ci a repéré des \"likes\" sous des publications de Marine Le Pen et Jord ...",
+     "image": "https://www.bing.com/th?id=ONUT.1WSwCzGna19L1gPHM_zIDw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T23:20:00.000Z"
+    },
+    {
+     "title": "Protection de l’enfance : Marine Le Pen privilégie la préservation de la famille",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/13/protection-de-l-enfance-marine-le-pen-privilegie-la-preservation-de-la-famille_6793046_823448.html",
+     "source": "Le Monde",
+     "excerpt": "La candidate du Rassemblement national à l’élection présidentielle a présenté, lundi 12 octobre, un changement complet de doctrine dans la prise en charge des enfants vulnérables.",
+     "image": "https://www.bing.com/th?id=ONUT.0fS-lWrpwHEgICfowbLdbg&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T17:01:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : une majorité de Français estime que Marine Le Pen serait une bonne présidente de la République, selon un sondage",
@@ -6807,28 +6831,12 @@
      "date": "2026-10-12T10:32:00.000Z"
     },
     {
-     "title": "« Ses chiffres rappellent ceux des économies socialistes ! » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
-     "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
-     "source": "Le Parisien",
-     "excerpt": "Malgré la tentative du RN d’apparaître plus crédible sur les finances publiques, le candidat LR, qui présentait sa propre trajectoire budgét ...",
-     "image": "https://www.bing.com/th?id=ONUT.pZVQM0cizeT4XslAi-ZZ6Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T10:23:00.000Z"
-    },
-    {
      "title": "« On lui a fait entendre notre voix et la porte est ouverte à tous les autres candidats » : Marine Le Pen a fait une visite à Agen en toute discrétion à l’association ...",
      "url": "https://www.sudouest.fr/elections/presidentielle/on-lui-a-fait-entendre-notre-voix-et-la-porte-est-ouverte-a-tous-les-autres-candidats-marine-le-pen-a-fait-une-visite-a-agen-en-toute-discretion-a-l-association-la-mouette-31033424.php",
      "source": "Sud Ouest",
      "excerpt": "La candidate à la présidentielle du Rassemblement national est venue à la rencontre des responsables de l’association de protection de l’enfance, présidée par Annie Gourgue ...",
      "image": "https://www.bing.com/th?id=ONUT.akOctJZH8Fsh1a1Cyx70NQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T09:44:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : décidés à voter pour leur pouvoir d’achat, les Français font davantage confiance à Marine Le Pen",
-     "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-decides-a-voter-pour-leur-pouvoir-d-achat-les-francais-font-davantage-confiance-a-marine-le-pen-20261012",
-     "source": "Le Figaro",
-     "excerpt": "SONDAGE EXCLUSIF - La candidate RN devance nettement ses adversaires, notamment Édouard Philippe, Bruno Retailleau ou Jean-Luc Mélenchon, selon une étude Ifop pour l’agence Vae Solis en partenariat av ...",
-     "image": "https://www.bing.com/th?id=ONUT.aFJCMBr0-vAK6jUIBDw6Fg&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T09:00:00.000Z"
     },
     {
      "title": "Jordan Bardella : le boulet de Marine Le Pen ?",
@@ -6855,6 +6863,14 @@
      "date": "2026-10-12T04:05:00.000Z"
     },
     {
+     "title": "Sondage présidentielle 2027 : Marine Le Pen largement en tête, devant Jean-Luc Mélenchon au second tour dans tous les scénarios",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-devant-jean-luc-melenchon-au-second-tour-dans-tous-les-scenarios-12-10-2026-LP7J2RQTVVGWPLPLAYJ3YJMG4E.php",
+     "source": "Le Parisien",
+     "excerpt": "Malgré les révélations de Mediapart visant Jordan Bardella, la présidente du Rassemblement national conserve une large avance. Le pouvoir d’ ...",
+     "image": "https://www.bing.com/th?id=ONUT.FuTkvCApA3gBuadaBPOT_Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T03:06:00.000Z"
+    },
+    {
      "title": "Présidentielle 2027 : un nouveau sondage place Marine Le Pen toujours largement en tête au premier tour, au côté de Jean-Luc Mélenchon, malgré l'affaire Bardella",
      "url": "https://fr.news.yahoo.com/presidentielle-2027-nouveau-sondage-place-083408974.html",
      "source": "Yahoo Actualités",
@@ -6877,14 +6893,6 @@
      "excerpt": "Dans les coulisses du pouvoir et des arcanes françaises : Darmanin tenterait de placer ses proches pour les législatives de 2027 ; Le Pen multiplie les références à Léon XIV et au général de Gaulle ; ...",
      "image": "https://www.bing.com/th?id=ONUT.A_R1PPeUi4DE15p8PwA2tw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-11T02:37:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : les chefs d'entreprise guère convaincus par la copie budgétaire de Marine Le Pen",
-     "url": "https://www.lesechos.fr/elections/programmes-dechiffres/presidentielle-2027-les-chefs-dentreprise-guere-convaincus-par-la-copie-budgetaire-de-marine-le-pen-2256214",
-     "source": "Les Echos",
-     "excerpt": "La candidate du Rassemblement national a présenté le 6 octobre son plan pour réduire le déficit budgétaire si elle est élue. Les patrons jugent l'exercice positif sur la forme mais largement insuffisa ...",
-     "image": null,
-     "date": "2026-10-11T01:30:00.000Z"
     }
    ],
    "videos": [
@@ -7226,6 +7234,14 @@
      "date": "2026-10-12T14:33:00.000Z"
     },
     {
+     "title": "🔊 À vélo vers l’Élysée : le pari fou d'un candidat citoyen",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzhYT01FNnI5WE5RcXpISHM0Vm91bXBiOVhab2NJT0VQUGFnbk1tN1BxN3V2UXQweURnNXRtSFhKZENJSkJmcUZxeWR4cDJuR1RUQXFNSVRPY2NwUVdxQUUtLXUzVGViSkdrZ1dmai0wWi1ocWxnbjR6RlBLOTZXa3lWQkZyY28?oc=5",
+     "source": "Radio Intensité",
+     "excerpt": null,
+     "image": null,
+     "date": "2026-10-13T06:06:53.000Z"
+    },
+    {
      "title": "VIDEO. Benoît Mathieu : 12 000 km à vélo pour devenir président - Stade 2 la quotidienne",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDVZS1BZdWJBMkxHamJhOUF6M2VrWXdpWXJzdjNQUTJQdmpETnZiN09uTUp6eG9MdTEwT2pHOHBpeGZmbzVGaUlBSlozb3RvZnF3akI2am5Kbmp1aUd4SFNkM3RwcGFvNTMtUUhIM0llODRLaktra3JKenIyNTZ6YTFPUlZvOFpxLU1MUzMxYzB1T1I4cTRXQl85dEoydG1Xd3lJcWZuLWsyTFhhT2ZNUzZSeEVBZ2lLZzVrOFVR?oc=5",
      "source": "France TV",
@@ -7312,14 +7328,6 @@
      "excerpt": null,
      "image": null,
      "date": "2026-05-16T07:00:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Benoît Mathieu, le candidat à vélo qui veut redonner le pouvoir aux citoyens",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeWgwdnRpemUtTlVNNU9ucjVJVUIwTkpkc3JGOUQxRDFoUk9SRzFCYjRRbDVjaVgtd3ZVQ2lCRkVUR3Npc2dlX0dGb2MwbXdrbUZGX3pDanRGU3RiT2dCaVZMYzFLeXd0WnBwTzNfVTA5S3NWbXhrMmVKN0h0V3pSQjI3bnNYalA5TnNuQ1RGaWVra3JDMEFraE44UFdoLUdkaE4yamNCM04tX3F2TzBuUTBPUV9qc3NuSU5FcUI1MWEybjFFNlNJQ3VxWXp5VHF6Y1F3WXFDSF8zZkds?oc=5",
-     "source": "Midi Libre",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-07-14T07:00:00.000Z"
     },
     {
      "title": "Qui est Benoît Mathieu en route pour la présidentielle ?",
@@ -7965,6 +7973,22 @@
    },
    "news": [
     {
+     "title": "Sélection à l’université : la promesse antisociale de Jean-Luc Mélenchon",
+     "url": "https://www.lexpress.fr/societe/selection-a-luniversite-la-promesse-antisociale-de-jean-luc-melenchon-735BUBW5RJHZRO7RYAFTQ42GRE/",
+     "source": "L'Express",
+     "excerpt": "Le leader insoumis ne veut pas de sélection à l’université. Bonne nouvelle pour les mieux nés : voilà qui pousse leur avantage.",
+     "image": "https://www.bing.com/th?id=ONUT.2E1dWSZOIgm224CV3cei5w&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T22:45:00.000Z"
+    },
+    {
+     "title": "Jean-Luc Mélenchon, le présidentiable qui veut faire voter les enfants",
+     "url": "https://www.lepoint.fr/debats/jean-luc-melenchon-le-presidentiable-qui-veut-faire-voter-les-enfants-T6FOC2W3KZAVNDAQMHXCW36ZBQ/",
+     "source": "Le Point",
+     "excerpt": "CHRONIQUE. Un jour, il s’indigne que la police s’en prenne à des « gamins », en l’espèce des lycéens. Le dimanche, il plaide pour que le droit de vote s’exerce à partir de 16 ans. Cherchez ...",
+     "image": "https://www.bing.com/th?id=ONUT.5qOJCghe-TZMwYv-E4c2ag&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "Droit de vote à 16 ans : Jean-Luc Mélenchon veut impliquer les jeunes",
      "url": "https://www.ohmymag.com/people/actu-people/art185175-droit-de-vote-16-ans-jean-luc-melenchon-veut-impliquer-les-jeunes.html",
      "source": "Ohmymag",
@@ -8043,22 +8067,6 @@
      "excerpt": "Le candidat de l’extrême gauche à la présidentielle française, Jean-Luc Mélenchon, a rendu hommage dimanche aux lycéens dont le mouvement de protestation a secoué la France, appelant lors d’un rassemb ...",
      "image": "https://www.bing.com/th?id=ONUT.ukRWFb6stiVgCa1iJ1bX-w&pid=News&w=800&h=450&c=14",
      "date": "2026-10-11T20:51:00.000Z"
-    },
-    {
-     "title": "Une proposition pour la France : Jean-Luc Mélenchon propose le droit de vote à 16 ans - 12/10",
-     "url": "https://rmc.bfmtv.com/replay-emissions/5-7-le-morning-rmc/une-proposition-pour-la-france-jean-luc-melenchon-propose-le-droit-de-vote-a-16-ans-12-10_EN-202610120090.html",
-     "source": "RMC",
-     "excerpt": "Chaque jour, une proposition d'un(e) candidat(e) à l'élection présidentielle. Romain Cluzel explique, vérifie, creuse, enquête, compare avec ce qui existe à l'étranger. Du lundi au vendredi à 6h40 dan ...",
-     "image": "https://www.bing.com/th?id=ONUT.YUEfoJ8G4It6diDI44z1nA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T18:43:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : un nouveau sondage place Marine Le Pen toujours largement en tête au premier tour, au côté de Jean-Luc Mélenchon, malgré l'affaire Bardella",
-     "url": "https://fr.news.yahoo.com/presidentielle-2027-nouveau-sondage-place-083408974.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "Pas d'effet ricochet: les récentes révélations de Mediapart ne semblent pas avoir desservi le Rassemblement national. Dans un nouveau sondage Toluna Harris Interactive pour M6 et RTL, Marine Le Pen es ...",
-     "image": "https://www.bing.com/th?id=ONUT.eU_Iubyxwy5pKQm9Lv0M7Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-11T17:57:00.000Z"
     }
    ],
    "videos": [
@@ -8931,7 +8939,7 @@
      "url": "https://www.agoravox.tv/tribune-libre/article/lourdes-florian-philippot-revele-111375",
      "source": "Agoravox TV",
      "excerpt": "Le 28 septembre à 7h, Nicolas Stoquer vous donne rendez-vous en direct pour La Matinale du jour, sur Géopolitique Profonde. À 7h, Claude Janvier (...) ...",
-     "image": "https://www.bing.com/th?id=ONUT.OS4U2SR7SRuTmj9HNJUG6g&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-09-28T16:59:00.000Z"
     },
     {
@@ -9672,6 +9680,14 @@
      "date": "2026-10-06T11:31:00.000Z"
     },
     {
+     "title": "Émissions: les archives de Septembre 2026 - Page 37",
+     "url": "https://www.bfmtv.com/archives/replay-emissions/2026/09/page37/",
+     "source": "BFMTV",
+     "excerpt": "Après avoir annulé fin mai tous ses concerts jusqu'en septembre, l'artiste, mis en examen dans plusieurs dossiers de violences sexuelles, a pris la parole sur ses réseaux sociaux, ce mardi 1er septemb ...",
+     "image": "https://www.bing.com/th?id=ONUT.ugVnoncFvF1ZvsaluAPlzQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-02T15:43:00.000Z"
+    },
+    {
      "title": "Présidentielle 2027 : Natacha Polony bientôt candidate ? L'éditorialiste crée son association de financement électoral",
      "url": "https://www.ladepeche.fr/2026/10/01/presidentielle-2027-natacha-polony-bientot-candidate-leditorialiste-cree-son-association-de-financement-electoral-13578359.php",
      "source": "La Dépêche",
@@ -9710,14 +9726,6 @@
      "excerpt": "En couple depuis près de deux décennies, Natacha Polony a évoqué sa relation passionnelle avec son compagnon Périco Légasse.",
      "image": null,
      "date": "2026-09-25T11:29:00.000Z"
-    },
-    {
-     "title": "L’éditorialiste Natacha Polony, possible candidate à la Présidentielle, va participer à une table ronde à Saint-Nazaire",
-     "url": "https://www.ouest-france.fr/pays-de-la-loire/saint-nazaire-44600/natacha-polony-a-saint-nazaire-mercredi-30-septembre-2026-e3e630ee-b7f2-11f1-b8f7-5b3ca074ea4b",
-     "source": "Ouest-France",
-     "excerpt": "[Presse Océan] Dans le cadre de sa rentrée, l’agglomération de Saint-Nazaire organise une table ronde à laquelle participeront Natacha Polony et le directeur général des Chantiers de l’Atlantique Laur ...",
-     "image": null,
-     "date": "2026-09-24T02:00:00.000Z"
     }
    ],
    "videos": [],
@@ -10114,6 +10122,22 @@
    },
    "news": [
     {
+     "title": "Présidentielle : Bruno Retailleau promet des économies de près de 200 milliards jusqu'en 2032",
+     "url": "https://www.msn.com/fr-fr/actualite/other/pr%C3%A9sidentielle-bruno-retailleau-promet-des-%C3%A9conomies-de-pr%C3%A8s-de-200-milliards-jusquen-2032/vi-AA2e6Ysg",
+     "source": "Dailymotion",
+     "excerpt": "Bruno Retailleau a dévoilé la stratégie budgétaire, lors d'une conférence de presse ce lundi, qu'il mettrait en place s'il était élu président. Le candidat des Républicains vise à ramener le déficit p ...",
+     "image": "https://www.bing.com/th?id=ONUT.LmEUW5yWgCSvVk63ZmuCeQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T22:09:01.000Z"
+    },
+    {
+     "title": "Une proposition pour la France : Bruno Retailleau vise 400 000 fonctionnaires en moins en utilisant notamment l'IA ! - 13/10",
+     "url": "https://www.msn.com/fr-fr/actualite/other/une-proposition-pour-la-france-bruno-retailleau-vise-400-000-fonctionnaires-en-moins-en-utilisant-notamment-lia-1310/vi-AA2e6Bcw",
+     "source": "Dailymotion",
+     "excerpt": "Tous les matins à 6h43, retrouvez Une proposition pour la France présentée par Romain Cluzel.",
+     "image": "https://www.bing.com/th?id=ONUT.iAAJ7kCEizkZSr7eB3i1QA&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T21:59:10.000Z"
+    },
+    {
      "title": "Présidentielle 2027 - « C'est ça ou la Grèce… » : Bruno Retailleau promet un régime sec de 197 milliards d'euros d'économies",
      "url": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-cest-ca-ou-la-grece-bruno-retailleau-promet-un-regime-sec-de-197-milliards-deuros-deconomie-2256449",
      "source": "Les Echos",
@@ -10146,20 +10170,20 @@
      "date": "2026-10-12T10:27:00.000Z"
     },
     {
-     "title": "« Ses chiffres rappellent ceux des économies socialistes ! » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
+     "title": "400 000 fonctionnaires en moins, une nouvelle réforme des retraites…: le remède de Bruno Retailleau pour redresser les finances publiques",
+     "url": "https://www.latribune.fr/article/economie/1426070495601114/400-000-fonctionnaires-en-moins-une-nouvelle-reforme-des-retraites-le-remede-de-bruno-retailleau-pour-redresser-les-finances-publiques",
+     "source": "La Tribune",
+     "excerpt": "Le candidat du parti Les Républicains à l'élection présidentielle a présenté, lundi, la trajectoire financière de son quinquennat, s'il venait à accéder à l'Élysée en mai. Il chiffre son plan à 197 mi ...",
+     "image": "https://www.bing.com/th?id=ONUT.khvzchcxFAsBJTw5Fd8rKA&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T10:27:00.000Z"
+    },
+    {
+     "title": "« Ça n’est pas sérieux » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
      "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
      "source": "Le Parisien",
      "excerpt": "Malgré la tentative du RN d’apparaître plus crédible sur les finances publiques, le candidat LR, qui présentait sa propre trajectoire budgét ...",
      "image": "https://www.bing.com/th?id=ONUT.pZVQM0cizeT4XslAi-ZZ6Q&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T10:23:00.000Z"
-    },
-    {
-     "title": "Présidentielle : le plan de Bruno Retailleau pour faire 200 milliards d'euros d'économies d'ici 2032",
-     "url": "https://www.msn.com/fr-fr/actualite/other/présidentielle-le-plan-de-bruno-retailleau-pour-faire-200-milliards-d-euros-d-économies-d-ici-2032/ar-AA2e4Apq",
-     "source": "Le Journal du Dimanche",
-     "excerpt": "Le candidat LR à l'élection présidentielle a dévoilé sa trajectoire budgétaire en cinq ans lors d'une conférence de presse ce lundi. Objectif : ramener le déficit public dans les clous européens dès 2 ...",
-     "image": "https://www.bing.com/th?id=ONUT.DX0OM6jeMCT0XoEE3DPCXA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T09:21:26.000Z"
     },
     {
      "title": "Présidentielle : Bruno Retailleau promet un plan d’économies de près de 200 milliards d’euros en cinq ans",
@@ -10178,14 +10202,6 @@
      "date": "2026-10-12T08:14:00.000Z"
     },
     {
-     "title": "Face à une France « quasiment en faillite », Bruno Retailleau présente un plan d'économies de 197 milliards d'euros sur cinq ans",
-     "url": "https://www.msn.com/fr-fr/actualite/other/face-%C3%A0-une-france-quasiment-en-faillite-bruno-retailleau-pr%C3%A9sente-un-plan-d-%C3%A9conomies-de-197-milliards-d-euros-sur-cinq-ans/ar-AA2e4xJE",
-     "source": "La Chaîne parlementaire",
-     "excerpt": "Par Anne-Charlotte Dusseaulx , le Lundi 12 octobre 2026 à 17:13 Le candidat des Républicains à l'élection présidentielle, Bruno Retailleau, a dévoilé ce lundi un plan d'économies cumulées de 197 milli ...",
-     "image": "https://www.bing.com/th?id=ONUT.6_zM2o63WkeMh3aBhRKHlw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T08:13:02.000Z"
-    },
-    {
      "title": "Bruno Retailleau dévoile son plan de 197 milliards d’euros d’économies d’ici 2032",
      "url": "https://www.capital.fr/economie-politique/bruno-retailleau-devoile-son-plan-de-197-milliards-deuros-deconomies-dici-2032-1530922",
      "source": "Capital",
@@ -10200,14 +10216,6 @@
      "excerpt": "Le candidat LR, à la traîne dans les sondages, a présenté son plan d'économies cumulées de 197 milliards d'euros « jusqu'en 2032 », avec notamment le non-remplacement de 400.000 fonctionnaires à la re ...",
      "image": "https://www.bing.com/th?id=ONUT.xMSY3y2U8vbNX9Cucn7XvQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T07:21:00.000Z"
-    },
-    {
-     "title": "400 000 fonctionnaires en moins, une nouvelle réforme des retraites…: le remède de Bruno Retailleau pour redresser les finances publiques",
-     "url": "https://www.latribune.fr/article/economie/1426070495601114/400-000-fonctionnaires-en-moins-une-nouvelle-reforme-des-retraites-le-remede-de-bruno-retailleau-pour-redresser-les-finances-publiques",
-     "source": "La Tribune",
-     "excerpt": "Le candidat du parti Les Républicains à l'élection présidentielle a présenté, lundi, la trajectoire financière de son quinquennat, s'il venait à accéder à l'Élysée en mai. Il chiffre son plan à 197 mi ...",
-     "image": "https://www.bing.com/th?id=ONUT.khvzchcxFAsBJTw5Fd8rKA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T03:28:00.000Z"
     }
    ],
    "videos": [
@@ -10660,10 +10668,10 @@
     },
     {
      "title": "Lycées, facs : Sandrine Rousseau face à la jeunesse - 09/10",
-     "url": "https://www.msn.com/fr-fr/divertissement/g%C3%A9n%C3%A9ral/lyc%C3%A9es-facs-sandrine-rousseau-face-%C3%A0-la-jeunesse-09-10/vi-AA2dVK9t",
+     "url": "https://www.msn.com/fr-fr/video/regarder/lyc%C3%A9es-facs-sandrine-rousseau-face-%C3%A0-la-jeunesse-0910/vi-AA2dVK9t",
      "source": "BFMTV",
      "excerpt": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
-     "image": "https://www.bing.com/th?id=ONUT.iL3vGJQo2Zq3u-wBsxwGWA&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-10-09T14:24:11.000Z"
     },
     {
@@ -10715,20 +10723,20 @@
      "date": "2026-09-30T18:13:00.000Z"
     },
     {
-     "title": "Sandrine Rousseau",
-     "url": "https://www.ouest-france.fr/politique/sandrine-rousseau/",
-     "source": "Ouest-France",
-     "excerpt": "Sandrine Rousseau : toute l'actualité en direct, soyez informé de toute l’info en continu, en images et en vidéos. Partagez et commentez en temps réel, à tout moment de la journée.",
-     "image": "https://www.bing.com/th?id=ONUT.FG2jUDV3cJtJN2N0JefKNA&pid=News&w=800&h=450&c=14",
-     "date": "2026-09-30T17:00:00.000Z"
-    },
-    {
      "title": "Sandrine Rousseau invité de Sonia Mabrouk - 30/09",
      "url": "https://www.msn.com/fr-fr/actualite/other/sandrine-rousseau-invit%C3%A9-de-sonia-mabrouk-30-09/vi-AA2dhXqE",
      "source": "BFMTV",
      "excerpt": "Retrouvez le replay de 100% Mabrouk sur BFMTV.",
      "image": "https://www.bing.com/th?id=ONUT.qG7QQoIPNPwNrUuMtAK2dA&pid=News&w=800&h=450&c=14",
      "date": "2026-09-30T12:41:52.000Z"
+    },
+    {
+     "title": "Procès de Robert Ménard: \"Il n'a pas à faire la justice à la place de la justice\", estime Sandrine Rousseau, députée \"Écologiste et Social\" de Paris",
+     "url": "https://actu.orange.fr/videos/politique/proces-de-robert-menard-il-n-a-pas-a-faire-la-justice-a-la-place-de-la-justice-estime-sandrine-rousseau-deputee-ecologiste-et-social-de-paris-CNT000002see8a.html",
+     "source": "Actualités – Orange",
+     "excerpt": "Le procès de Robert Ménard s'ouvre ce mercredi au tribunal de Montpellier. Le maire de Béziers avait refusé de célébrer en 2023 le mariage d'une citoyenne française et d'un Algérien en situation irrég ...",
+     "image": null,
+     "date": "2026-09-30T12:12:00.000Z"
     }
    ],
    "videos": [],
@@ -10737,24 +10745,24 @@
      "text": "Tout mon soutien aux personnels du collège Joseph-Lakanal.\n\nUn jour il faudra qu’on parle de la présence d’armes à feu au domicile aussi.\n\nwww.lemonde.fr/societe/arti...",
      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zvgnnx7oncrqqqlwmhqiccpv/bafkreicbnz7yzizruuolok6vt6e25uwazqsxilccghyd6dclw3t4egow3e",
      "date": "2026-10-12T17:16:49.888Z",
-     "likes": 198,
-     "reposts": 35,
+     "likes": 232,
+     "reposts": 46,
      "url": "https://bsky.app/profile/sandrousseau.bsky.social/post/3mxozikwpqk23"
     },
     {
      "text": "Pendant ce temps là le Finistère est en alerte maximale sécheresse. Les réserves en eau potable sont d’à peine un mois …",
      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zvgnnx7oncrqqqlwmhqiccpv/bafkreihoigtwjqpbkub7kb6jgcv7jchwwpvxpd6wwmuassywojiqlygkyy",
      "date": "2026-10-11T17:04:47.470Z",
-     "likes": 284,
-     "reposts": 136,
+     "likes": 286,
+     "reposts": 138,
      "url": "https://bsky.app/profile/sandrousseau.bsky.social/post/3mxmie4jnd22d"
     },
     {
      "text": "La victoire nette et sans bavure de Raphaël Glucksmann va obliger les écologistes à poser la seule question qui compte : quelle ligne politique l'écologie souhaite-t-elle soutenir?\n\nPour ce qui me concerne il est évident que l'écologie est de gauche, de gauche radicale et de rupture.",
      "image": null,
      "date": "2026-10-11T16:46:31.049Z",
-     "likes": 1404,
-     "reposts": 306,
+     "likes": 1418,
+     "reposts": 310,
      "url": "https://bsky.app/profile/sandrousseau.bsky.social/post/3mxmhdgvesk2z"
     },
     {
@@ -11429,6 +11437,14 @@
    },
    "news": [
     {
+     "title": "Vaincue à la primaire sociale-démocrate, Ségolène Royal pointe le coût trop élevé du vote",
+     "url": "https://actu.orange.fr/politique/vaincue-a-la-primaire-sociale-democrate-segolene-royal-pointe-le-cout-trop-eleve-du-vote-magic-CNT000002sIJ0I.html",
+     "source": "Actualités – Orange",
+     "excerpt": "Raphaël Glucksmann a remporté la primaire sociale-démocrate, dimanche 11 octobre. Une victoire qui le propulse officiellement candidat à la présidentielle de 2027. Arrivée troisième, Ségolène Royal dé ...",
+     "image": null,
+     "date": "2026-10-12T17:01:00.000Z"
+    },
+    {
      "title": "« J’ai été bonne dans cette campagne ! » : pour Ségolène Royal, une défaite à la primaire au goût pas si amer",
      "url": "https://www.leparisien.fr/elections/presidentielle/jai-ete-bonne-dans-cette-campagne-pour-segolene-royal-une-defaite-a-la-primaire-au-gout-pas-si-amer-12-10-2026-V5B3EKNKUBFXXJH2YM2NI3IZ4M.php",
      "source": "Le Parisien",
@@ -11437,12 +11453,20 @@
      "date": "2026-10-12T11:22:00.000Z"
     },
     {
-     "title": "« Le stagiaire a gagné » : Ségolène Royal s’en prend de nouveau à Raphaël Glucksmann après sa victoire à la primaire sociale-démocrate",
-     "url": "https://www.msn.com/fr-fr/actualite/other/le-stagiaire-a-gagn%C3%A9-s%C3%A9gol%C3%A8ne-royal-s-en-prend-de-nouveau-%C3%A0-rapha%C3%ABl-glucksmann-apr%C3%A8s-sa-victoire-%C3%A0-la-primaire-sociale-d%C3%A9mocrate/ar-AA2e1dQB",
-     "source": "Le Parisien",
-     "excerpt": "Défaite amère pour Ségolène Royal. Arrivée troisième de la primaire sociale-démocrate derrière Raphaël Glucksmann (66 %) et Olivier Faure (14 %), l’ancienne ministre socialiste n’a pas hésité à ironis ...",
-     "image": "https://www.bing.com/th?id=ONUT.50VdojaazjfwOCw0y7TXAA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T06:51:30.000Z"
+     "title": "DIRECT. Présidentielle 2027 : \"Si ça dérive vers le macronisme, ce sera sans moi...\" Ségolène Royal prête à ne pas soutenir Raphaël Glucksmann",
+     "url": "https://www.ladepeche.fr/2026/10/13/direct-presidentielle-2027-si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-segolene-royal-prete-a-ne-pas-soutenir-raphael-glucksmann-13598340.php",
+     "source": "La Dépêche",
+     "excerpt": "Suivez en direct les informations consacrées à l'élection présidentielle de ce mardi 13 octobre sur LaDépêche.fr.",
+     "image": "https://www.bing.com/th?id=ONUT.OhIhWIx8X8MPfexoPIxDGQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T11:00:00.000Z"
+    },
+    {
+     "title": "«Si ça dérive vers le macronisme, ce sera sans moi» : battue à la primaire de gauche, Ségolène Royal déjà prête à lâcher Raphaël Glucksmann",
+     "url": "https://www.cnews.fr/france/2026-10-13/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-battue-la-primaire-de-gauche",
+     "source": "CNEWS",
+     "excerpt": "Battue dès le premier tour de la primaire sociale-démocrate avec seulement 7,6 % des voix, Ségolène Royal a adressé un avertissement à Raphaël Glucksmann ...",
+     "image": "https://www.bing.com/th?id=ONUT.vUSfolsB9S3wxHYrL3abLg&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T09:57:00.000Z"
     },
     {
      "title": "Ségolène Royal battue à la primaire de gauche : va-t-elle soutenir Raphaël Glucksmann qu’elle surnomme “le stagiaire” ?",
@@ -11461,6 +11485,14 @@
      "date": "2026-10-11T17:00:00.000Z"
     },
     {
+     "title": "Raphaël Glucksmann élu à la primaire de la gauche sociale-démocrate : Ségolène Royal amère, \"le stagiaire a gagné, malheureusement\"",
+     "url": "https://www.closermag.fr/politique/raphael-glucksmann-elu-a-la-primaire-de-la-gauche-sociale-democrate-segolene-royal-amere-le-stagiaire-a-gagne-malheureusement-3663165",
+     "source": "Closer",
+     "excerpt": "Le 11 octobre 2026, Raphaël Glucksmann a remporté la primaire de la gauche sociale-démocrate avec 66,13 % des voix. Ségolène Royal termine troisième, loin derrière.",
+     "image": "https://www.bing.com/th?id=ONUT.MeHMGgJ1uJ4QQny58cfWBA&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-11T15:00:00.000Z"
+    },
+    {
      "title": "“Le stagiaire a gagné la primaire, malheureusement” : fair-play mais piquante, Ségolène Royal réagit au triomphe de Raphaël Glucksmann",
      "url": "https://www.gala.fr/politique/le-stagiaire-a-gagne-la-primaire-malheureusement-fair-play-mais-piquante-segolene-royal-reagit-au-triomphe-de-raphael-glucksmann-20261011",
      "source": "Gala",
@@ -11469,12 +11501,12 @@
      "date": "2026-10-11T12:40:00.000Z"
     },
     {
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: \"Le stagiaire a gagné la primaire, malheureusement\", a réagit Ségolène Royal, candidate battue, à Franceinfo",
-     "url": "https://actu.orange.fr/videos/politique/victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-le-stagiaire-a-gagne-la-primaire-malheureusement-a-reagit-segolene-royal-candidate-battue-a-franceinfo-CNT000002sD1a9.html",
-     "source": "Actualités – Orange",
-     "excerpt": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix ...",
+     "title": "« Le stagiaire a gagné » : Ségolène Royal s’en prend de nouveau à Raphaël Glucksmann après sa victoire à la primaire sociale-démocrate",
+     "url": "https://www.leparisien.fr/politique/primaire-a-gauche-cest-le-stagiaire-qui-a-gagne-segolene-royal-pique-a-nouveau-raphael-glucksmann-apres-sa-victoire-11-10-2026-ZDL63QM7YRFTHOS4XQSGQU7A4A.php",
+     "source": "Le Parisien",
+     "excerpt": "L’ancienne ministre et candidate défaite à la primaire de la gauche a égratigné dimanche la victoire de Raphaël Glucksmann, après plusieurs ...",
      "image": null,
-     "date": "2026-10-11T11:48:00.000Z"
+     "date": "2026-10-11T12:19:00.000Z"
     },
     {
      "title": "« Ce résultat dit quelque chose de puissant » : Raphaël Glucksmann écrase la primaire sociale-démocrate et acte la rupture avec LFI",
@@ -11499,30 +11531,6 @@
      "excerpt": "Derrière les ambitions politiques de Ségolène Royal se cachent aussi des sacrifices familiaux. Mère de quatre enfants avec François Hollande, l’ancienne candidate à la présidentielle reconnaît avec ém ...",
      "image": "https://www.bing.com/th?id=ONUT.8YJ2P3D_hASYKTD1uv0L8A&pid=News&w=800&h=450&c=14",
      "date": "2026-10-10T01:23:00.000Z"
-    },
-    {
-     "title": "Ségolène Royal interpelle sur l’exemplarité des adultes avec une citation marquante de Nicolas Sarkozy",
-     "url": "https://www.ohmymag.com/people/actu-people/art184716-segolene-royal-interpelle-sur-lexemplarite-des-adultes-avec-une-citation-marquante-de.html",
-     "source": "Ohmymag",
-     "excerpt": "Ségolène Royal questionne l’exemplarité politique en citant Nicolas Sarkozy et la prison, interrogeant l’éducation des jeunes face aux repères qui s’effritent.",
-     "image": "https://www.bing.com/th?id=ONUT.Y-V3uaE68FJ57VW7YE_5pA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-10T00:30:00.000Z"
-    },
-    {
-     "title": "C à Vous : \"J’ai été interdite\", Ségolène Royal règle ses comptes avec Anne-Elisabeth Lemoine",
-     "url": "https://www.telestar.fr/people/c-a-vous-jai-ete-interdite-segolene-royal-regle-ses-comptes-avec-anne-elisabeth-lemoine-1786442",
-     "source": "Télé Star",
-     "excerpt": "Ségolène Royal s'en prend à Anne-Élisabeth Lemoine et à C à vous. Dans un entretien diffusé sur Le Média, l'ancienne ministre affirme avoir été empêchée de venir dans l'émission de France 5 et dénonce ...",
-     "image": "https://www.bing.com/th?id=ONUT.EjeLdE441DNYDURVIzdeRA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-09T15:59:00.000Z"
-    },
-    {
-     "title": "Ségolène Royal en colère : elle dénonce son éviction de C à vous au profit de son rival Raphaël Glucksmann",
-     "url": "https://www.closermag.fr/politique/segolene-royal-en-colere-elle-denonce-son-eviction-de-c-a-vous-au-profit-de-son-rival-raphael-glucksmann-3663035",
-     "source": "Closer",
-     "excerpt": "Ségolène Royal affirme avoir été écartée de C à vous et accuse l’émission de favoriser Raphaël Glucksmann. Une sortie qui ravive leur duel à gauche.",
-     "image": "https://www.bing.com/th?id=ONUT.v_cz_ab4JP-tetto1M-lbw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-09T14:00:00.000Z"
     }
    ],
    "videos": [],
@@ -11761,10 +11769,10 @@
     },
     {
      "title": "\"Cela fait du bien à la démocratie\": François Ruffin justifie ses initiatives communes avec Dominique de Villepin",
-     "url": "https://fr.news.yahoo.com/cela-fait-bien-%C3%A0-d%C3%A9mocratie-065219960.html",
-     "source": "Yahoo Actualités",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/cela-fait-du-bien-a-la-democratie-francois-ruffin-justifie-ses-initiatives-communes-avec-dominique-de-villepin_AN-202610090258.html",
+     "source": "BFMTV",
      "excerpt": "Un débat et un déplacement aux côtés des lycéens: le député de gauche et l'ancien Premier ministre de Jacques Chirac se sont affichés ensemble à deux reprises récemment.",
-     "image": "https://www.bing.com/th?id=ONUT.qZtEzu7sHNKmIFLPssSDDA&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.3Cq3PoKBB-jtxVbrme5G7w&pid=News&w=800&h=450&c=14",
      "date": "2026-10-08T23:51:00.000Z"
     },
     {
@@ -12272,14 +12280,6 @@
      "date": "2026-10-11T10:49:00.000Z"
     },
     {
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: la réaction de Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
-     "url": "https://actu.orange.fr/videos/politique/victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-reaction-de-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle-CNT000002sD0EP.html",
-     "source": "Actualités – Orange",
-     "excerpt": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix ...",
-     "image": null,
-     "date": "2026-10-11T10:33:00.000Z"
-    },
-    {
      "title": "Quand Marine Tondelier vient, dans un café de Douai, à la rencontre de lycéens mobilisés",
      "url": "https://www.lavoixdunord.fr/1744861/article/2026-10-09/quand-marine-tondelier-vient-dans-un-cafe-de-douai-la-rencontre-de-lyceens",
      "source": "La Voix du Nord",
@@ -12294,6 +12294,14 @@
      "excerpt": "Grande journée de manifestation partout en France pour l'acte III de la mobilisation lycéenne. Soutenus par les syndicats, notamment de l'Éducation nationale qui appelle à faire grève, les lycéens man ...",
      "image": null,
      "date": "2026-10-06T11:54:00.000Z"
+    },
+    {
+     "title": "Manifestations: Marine Tondelier estime \"que les luttes vont converger\"",
+     "url": "https://actu.orange.fr/videos/politique/manifestations-marine-tondelier-estime-que-les-luttes-vont-converger-CNT000002smFns.html",
+     "source": "Actualités – Orange",
+     "excerpt": "Grande journée de manifestation partout en France pour l'acte III de la mobilisation lycéenne. Soutenus par les syndicats, notamment de l'Éducation nationale qui appelle à faire grève, les lycéens man ...",
+     "image": null,
+     "date": "2026-10-06T11:48:00.000Z"
     },
     {
      "title": "Mobilisation lycéenne : Marine Tondelier appelle à la protection des jeunes",
@@ -12350,23 +12358,23 @@
      "text": "Les faits qui viennent de se produire dans un collège d’Aubagne nous saisissent d’effroi.\n\nLa violence n’a pas sa place à l’école et personne ne devrait y risquer sa vie.\n\nJ’adresse toute ma solidarité et mes vœux de prompt rétablissement à l’enseignante et au proviseur victimes de cet acte insensé.",
      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gixn227k63od3d4cyrwp67w5/bafkreie2owjlbtr6muj2t2l4hpapzezehoywokrcqnur6kbtgivyeiwrzm",
      "date": "2026-10-12T13:19:48.938Z",
-     "likes": 55,
-     "reposts": 13,
+     "likes": 60,
+     "reposts": 14,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3mxomaqrpck2t"
     },
     {
      "text": "La condition animale est complètement absente de la campagne présidentielle alors que c'est un sujet essentiel.\n\nChez les Écologistes, c'est une priorité depuis toujours.\n\nJe suis donc fière d'être la première candidate à signer le Pacte Droit Animal de la @fondation-droit-animal.org.",
      "image": null,
      "date": "2026-10-12T10:11:09.086Z",
-     "likes": 127,
-     "reposts": 27,
+     "likes": 133,
+     "reposts": 28,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3mxobpfdadk2k"
     },
     {
      "text": "Nous prenons acte que le choix largement majoritaire des votantes et des votants s’est porté sur le candidat qui avait refusé une primaire populaire et ouverte.\n\n🧵⤵️",
      "image": null,
      "date": "2026-10-11T17:10:14.680Z",
-     "likes": 217,
+     "likes": 218,
      "reposts": 60,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3mxminul4i22a"
     },
@@ -12561,6 +12569,14 @@
      "date": "2026-10-07T22:54:00.000Z"
     },
     {
+     "title": "Manuel Valls",
+     "url": "https://www.ouest-france.fr/politique/manuel-valls/",
+     "source": "Ouest-France",
+     "excerpt": "Né à Barcelone en 1962, Manuel Valls forge ses convictions politiques dès l’adolescence. À 17 ans, ce fils d’artiste-peintre catalan et d’une Suisse italophone rejoint le Mouvement des jeunes ...",
+     "image": "https://www.bing.com/th?id=ONUT.FG2jUDV3cJtJN2N0JefKNA&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-07T17:00:00.000Z"
+    },
+    {
      "title": "Édouard Philippe, Gabriel Attal et François Hollande visitent une exposition en hommage aux victimes du 7-Octobre",
      "url": "https://www.lefigaro.fr/arts-expositions/edouard-philippe-gabriel-attal-et-francois-hollande-visitent-une-exposition-en-hommage-aux-victimes-du-7-octobre-20261007",
      "source": "Le Figaro",
@@ -12583,14 +12599,6 @@
      "excerpt": "Quand la République hésite face à un culte, elle perd l’autorité d’imposer aux autres qu’ils respectent la loi commune.",
      "image": "https://www.bing.com/th?id=ONUT.mn8EeTINBq-tsl16eDLwzg&pid=News&w=800&h=450&c=14",
      "date": "2026-10-01T03:58:00.000Z"
-    },
-    {
-     "title": "Maud Bailly, la dirigeante qui réinvente le luxe à la française chez Accor",
-     "url": "https://www.lepoint.fr/art-de-vivre/maud-bailly-la-dirigeante-qui-reinvente-le-luxe-a-la-francaise-chez-accor-6LWC4AFYMFD7XI4WSMC53RIP24/",
-     "source": "Le Point",
-     "excerpt": "À la tête de Sofitel, MGallery et Emblems, Maud Bailly réordonne le catalogue haut de gamme d’Accor. Trajectoire d’une énarque à l’assaut des transformations de l’hôtellerie mondiale.",
-     "image": null,
-     "date": "2026-09-23T09:30:00.000Z"
     },
     {
      "title": "France terre d asile",
@@ -13065,6 +13073,14 @@
      "date": "2026-10-12T08:09:54.000Z"
     },
     {
+     "title": "« Il faut sortir de l'Union européenne, sinon on est mort », prévient Philippe de Villiers",
+     "url": "https://www.msn.com/fr-fr/actualite/other/il-faut-sortir-de-lunion-europ%C3%A9enne-sinon-on-est-mort-pr%C3%A9vient-philippe-de-villiers/vi-AA2e4MGJ",
+     "source": "Dailymotion",
+     "excerpt": "Tous les jours, actualité, débats et bonne humeur rythment L'Heure des pros. Ce lundi, Pascal Praud reçoit Philippe de Villiers à l'occasion de la sortie de son nouveau livre \"Résurrection\".",
+     "image": "https://www.bing.com/th?id=ONUT.9vmvvjjyJtWI2c-vOI_KEQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T08:09:46.000Z"
+    },
+    {
      "title": "\"À 22 ans, vous avez tout compris\", Louise Montangon, un ancien candidat à l’élection présidentielle lui déclare sa flamme",
      "url": "https://www.public.fr/a-22-ans-vous-avez-tout-compris-louise-montangon-un-ancien-candidat-a-lelection-presidentielle-lui-declare-sa-flamme",
      "source": "Public.fr",
@@ -13087,14 +13103,6 @@
      "excerpt": "«À 22 ans vous êtes l'incarnation d'une espérance française», a lancé Philippe de Villiers à Louise Montangon sur le plateau de 100% Frontières, sur CNEWS ...",
      "image": "https://www.bing.com/th?id=ONUT.zcRbH8H7LgR3BbPIhcng_A&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T04:22:00.000Z"
-    },
-    {
-     "title": "« La classe politique française est médiocre », estime Philippe de Villiers",
-     "url": "https://www.msn.com/fr-fr/actualite/other/la-classe-politique-fran%C3%A7aise-est-m%C3%A9diocre-estime-philippe-de-villiers/vi-AA2e3xyA",
-     "source": "Dailymotion",
-     "excerpt": "Tous les jours, actualité, débats et bonne humeur rythment L'Heure des pros. Ce lundi, Pascal Praud reçoit Philippe de Villiers à l'occasion de la sortie de son nouveau livre \"Résurrection\".",
-     "image": "https://www.bing.com/th?id=ONUT.LDt9sG-BC_ZSp4cqbERmtw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T04:16:14.000Z"
     },
     {
      "title": "«L’incarnation d’une espérance française» : quand Philippe de Villiers rencontre Louise Montangon sur CNews",
@@ -13605,19 +13613,11 @@
     },
     {
      "title": "Propos antisémistes attribués à Jordan Bardella: Éric Zemmour ne croit \"pas vraiment\" le patron du RN sincère",
-     "url": "https://www.bfmtv.com/politique/reconquete/propos-antisemistes-attribues-a-jordan-bardella-eric-zemmour-ne-croit-pas-vraiment-le-patron-du-rn-sincere_AD-202610120826.html",
+     "url": "https://www.msn.com/fr-fr/actualite/other/propos-antis%C3%A9mistes-attribu%C3%A9s-%C3%A0-jordan-bardella-%C3%A9ric-zemmour-ne-croit-pas-vraiment-le-patron-du-rn-sinc%C3%A8re/ar-AA2e5JAE",
      "source": "BFMTV",
      "excerpt": "Interrogé sur les dénégations de Jordan Bardella à propos des messages antisémites qui lui sont attribués, Éric Zemmour dit qu'il ne \"croit pas vraiment\" le patron du RN.",
-     "image": "https://www.bing.com/th?id=ONUT.Ea7WJDnb5jeL4laJ3_lQiA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T11:16:00.000Z"
-    },
-    {
-     "title": "PARIS : Éric ZEMMOUR, invité ce soir sur la chaîne BFMTV",
-     "url": "https://presseagence.fr/paris-eric-zemmour-invite-ce-soir-sur-la-chaine-bfmtv/",
-     "source": "Presse Agence",
-     "excerpt": "Ce lundi à 21h, Éric Zemmour intervient en direct sur BFMTV. Une prise de parole politique couplée à un appel aux dons pour Reconquête.",
-     "image": null,
-     "date": "2026-10-12T08:21:00.000Z"
+     "image": "https://www.bing.com/th?id=ONUT.-sLgJrckZUtas0knhtAXng&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-12T11:16:56.000Z"
     },
     {
      "title": "Présidentielle 2027 : \"Jordan Bardella est en voie de marginalisation au RN, il n'entrera pas à Matignon, c'est fini\", estime Eric Zemmour",
@@ -13626,22 +13626,6 @@
      "excerpt": "Jordan Bardella espérait tourner la page d'une \"affaire dont tout le monde se moque\", mais de nouveaux éléments publiés par plusieurs médias mettent à mal la défense du président du RN face aux accusa ...",
      "image": "https://www.bing.com/th?id=ONUT.4flcrdnEVru7-nRqefAmPQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T08:14:00.000Z"
-    },
-    {
-     "title": "Il n’entrera pas à Matignon : pour Éric Zemmour, l’avenir de Jordan Bardella est scellé",
-     "url": "https://www.msn.com/fr-fr/actualite/other/il-n-entrera-pas-%C3%A0-matignon-pour-%C3%A9ric-zemmour-l-avenir-de-jordan-bardella-est-scell%C3%A9/ar-AA2e4Wtn",
-     "source": "Gala",
-     "excerpt": "Éric Zemmour a un avis tranché sur Jordan Bardella. Invité au micro de RTL, ce lundi 12 octobre, le président de Reconquête a dévoilé ce qu’il pense de l’avenir de son homologue.",
-     "image": "https://www.bing.com/th?id=ONUT.T2f5wJEkU7vDav7KYkcyqw&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T07:39:04.000Z"
-    },
-    {
-     "title": "PARIS : Éric Zemmour accuse Raphaël Glucksmann de « se moqu…",
-     "url": "https://presseagence.fr/paris-eric-zemmour-accuse-raphael-glucksmann-de-se-moquer-du-peuple-francais-sur-rtl/",
-     "source": "Presse Agence",
-     "excerpt": "Le président de Reconquête accuse Raphaël Glucksmann de mépriser le peuple français lors d'un entretien musclé sur RTL.",
-     "image": "https://www.bing.com/th?id=ONUT.gni5xPnt40bZUnmIG9rSLA&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T04:15:00.000Z"
     },
     {
      "title": "\"Il n'entrera pas à Matignon, c'est fini\" : Éric Zemmour saborde Jordan Bardella sur RTL",
@@ -13658,14 +13642,6 @@
      "excerpt": "Interrogé sur les accusations de messages antisémites du président du RN, Éric Zemmour a estimé qu’il ne s’agissait pas d’un « problème impo ...",
      "image": "https://www.bing.com/th?id=ONUT.GqN-6ddemaSWe6EgBi9Enw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T02:07:00.000Z"
-    },
-    {
-     "title": "Guerre à l'extrême droite : Éric Zemmour affirme que pour ce prétendant, \"Matignon c'est fini\"",
-     "url": "https://www.planet.fr/guerre-a-lextreme-droite-eric-zemmour-affirme-que-pour-ce-pretendant-matignon-cest-fini.2999778.817022.html",
-     "source": "Planet",
-     "excerpt": "Invité sur RTL ce lundi 12 octobre 2026, Éric Zemmour a remis en cause les démentis de Jordan Bardella sur des écrits polémiques de jeunesse et a jugé son accession à Matignon désormais impossible.",
-     "image": "https://www.bing.com/th?id=ONUT.3DzA7iJA603c7xr5chTt-g&pid=News&w=800&h=450&c=14",
-     "date": "2026-10-12T01:23:00.000Z"
     },
     {
      "title": "Accusations d’antisémitisme contre Jordan Bardella : Éric Zemmour « ne croit pas vraiment » aux dénégations du président du RN",
@@ -13690,6 +13666,38 @@
      "excerpt": "Le patron de Reconquête, qui devrait faire concurrence à Marine Le Pen en 2027, a estimé que Jordan Bardella n'ira « pas à Matignon » en cas de victoire du RN.",
      "image": "https://www.bing.com/th?id=ONUT.PBbdwEQVgzPDqCW_VQAceQ&pid=News&w=800&h=450&c=14",
      "date": "2026-10-12T00:24:00.000Z"
+    },
+    {
+     "title": "Écrits antisémites : «Ce que dit Jordan Bardella sur son téléphone portable m’intéresse assez peu», affirme Éric Zemmour",
+     "url": "https://video.lefigaro.fr/figaro/politique/ecrits-antisemites-ce-que-dit-jordan-bardella-sur-son-telephone-portable-m-interesse-assez-peu-affirme-eric-zemmour-20261012",
+     "source": "Figaro Live",
+     "excerpt": "Interrogé sur les écrits antisémites attribués à Jordan Bardella, le patron de Reconquête et ex-candidat à la présidentielle de 2022, Éric Zemmour a assuré ce lundi 12 octobre ne «pas vraiment» croire ...",
+     "image": "https://www.bing.com/th?id=ONUT.CC4ggA9ME267MdnJhiRSkw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-11T23:23:00.000Z"
+    },
+    {
+     "title": "Sarah Knafo au cœur d’une polémique : accusée d’avoir truqué une vidéo, la compagne d’Éric Zemmour s’explique",
+     "url": "https://www.gala.fr/politique/sarah-knafo-au-coeur-d-une-polemique-accusee-d-avoir-truque-une-video-la-compagne-d-eric-zemmour-s-explique-20261008",
+     "source": "Gala",
+     "excerpt": "PHOTO - Démasquée ! Sarah Knafo a encore fait parler d’elle. Ce lundi 5 octobre, l’eurodéputée a publié sur son compte Instagram son dernier discours prononcé au Parlement européen, ovationné par son ...",
+     "image": "https://www.bing.com/th?id=ONUT.qE1ESkODo2Oovt6-hjt-rw&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-08T08:30:00.000Z"
+    },
+    {
+     "title": "Loin des lycéens, Marine Le Pen et Éric Zemmour font campagne au Salon de l'Élevage",
+     "url": "https://www.tf1.fr/fr-be/tmc/quotidien-avec-yann-barthes/videos/loin-des-lyceens-marine-le-pen-et-eric-zemmour-font-campagne-au-salon-de-lelevage-90676787.html",
+     "source": "TF1",
+     "excerpt": "[VIDÉO] extract en streaming sur TF1+ Belgique 🇧🇪 ▶️ 158 - Marine Le Pen et Éric Zemmour, persona non grata dans les cortèges lycéens, ont fait campagne au Salon de l'Élevage, en Auvergne, face aux ...",
+     "image": "https://www.bing.com/th?id=ONUT.eG-hGuqintElwN6JRW7uFQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-07T11:15:00.000Z"
+    },
+    {
+     "title": "Blocus des lycées : Éric Zemmour veut faire payer les «casseurs» et leurs parents «jusqu'à la nuit des temps»",
+     "url": "https://www.europe1.fr/politique/blocus-des-lycees-eric-zemmour-veut-faire-payer-les-casseurs-et-leurs-parents-jusqua-la-nuit-des-temps-1129292",
+     "source": "Europe 1",
+     "excerpt": "\"Il faut réprimer sévèrement\" les \"casseurs\" qui ont participé à des dégradations de lycées, a déclaré Éric Zemmour, probable futur candidat à l'élection ...",
+     "image": "https://www.bing.com/th?id=ONUT.JQ6oXnyTywUP0JZF5yu52w&pid=News&w=800&h=450&c=14",
+     "date": "2026-10-07T08:44:00.000Z"
     }
    ],
    "videos": [

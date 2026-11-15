@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-11-14T18:22:48.384Z",
+ "updatedAt": "2026-11-15T00:44:01.804Z",
  "polls": {
-  "from": "2026-10-13",
-  "to": "2026-11-12",
-  "polls": 15,
-  "hypotheses": 63,
+  "from": "2026-10-14",
+  "to": "2026-11-13",
+  "polls": 16,
+  "hypotheses": 69,
   "pollsters": [
+   "Elabe",
    "OpinionWay",
    "Opinionway",
    "Cluster17",
    "Harris",
    "Ifop",
    "Ipsos",
-   "Elabe",
    "YouGov"
   ],
   "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
@@ -48,10 +48,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 0.7,
+    "avg": 0.6,
     "min": 0,
     "max": 1,
-    "n": 61,
+    "n": 67,
     "history": [
      {
       "date": "2023-09-11",
@@ -362,6 +362,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 1
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 0.6
      }
     ],
     "rank": 12
@@ -385,22 +390,6 @@
    },
    "news": [
     {
-     "title": "SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon seul candidat en hausse, percée de David Lisnard… les enseignements de ce nouveau baromètre",
-     "url": "https://www.midilibre.fr/2026/11/13/sondage-presidentielle-2027-jean-luc-melenchon-seul-candidat-en-hausse-percee-de-david-lisnard-les-enseignements-de-ce-nouveau-barometre-13650461.php",
-     "source": "Midi Libre",
-     "excerpt": "La dernière édition du sondage PrésiTrack d’OpinionWay révèle une importante percée du maire de Cannes David Lisnard, désormais crédité à 10 à 12 % des intentions de vote, perturbant le bloc central.",
-     "image": "https://www.bing.com/th?id=ONUT.3P_X79lwi8MSoUa1SQsp3Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T03:34:00.000Z"
-    },
-    {
-     "title": "SONDAGE. Présidentielle 2027 : David Lisnard perce, Jean-Luc Mélenchon est le seul autre candidat à progresser",
-     "url": "https://www.lindependant.fr/2026/11/13/sondage-presidentielle-2027-david-lisnard-perce-jean-luc-melenchon-est-le-seul-autre-candidat-a-progresser-13650639.php",
-     "source": "L'Indépendant",
-     "excerpt": "David Lisnard, maire de Cannes, fait une percée notable dans le dernier sondage OpinionWay pour Les Échos et Radio Classique, publié ce jeudi. Crédité de 10 à 12 % des intentions de vote, il talonne É ...",
-     "image": null,
-     "date": "2026-11-13T02:51:00.000Z"
-    },
-    {
      "title": "Présidentielle 2027 - sondage : David Lisnard passe le cap des 10 % d'intentions de vote et talonne Édouard Philippe, selon une nouvelle enquête",
      "url": "https://www.ladepeche.fr/2026/11/13/presidentielle-2027-david-lisnard-passe-le-cap-des-10-dintentions-de-vote-et-talonne-edouard-philippe-selon-une-nouvelle-enquete-13650510.php",
      "source": "La Dépêche",
@@ -409,12 +398,12 @@
      "date": "2026-11-13T02:21:00.000Z"
     },
     {
-     "title": "Présidentielle 2027: David Lisnard fait une percée à au moins 10%, juste derrière Édouard Philippe et Raphaël Glucksmann, selon un sondage",
-     "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-david-lisnard-fait-054736474.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "Le candidat libéral à la présidentielle, David Lisnard, crédité de 10 à 12 % des intentions de vote selon un sondage, comble son écart avec le candidats du centre Édouard Philippe et le vainqueur de l ...",
-     "image": "https://www.bing.com/th?id=ONUT.AE9yD-8nd5oNGERp7T6Fsw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T21:47:00.000Z"
+     "title": "Nathalie Arthaud, cheffe de file de Lutte ouvrière",
+     "url": "https://www.ouest-france.fr/politique/nathalie-arthaud/",
+     "source": "Ouest-France",
+     "excerpt": "Retrouvez l’actualité de Nathalie Arthaud, porte-parole de Lutte Ouvrière pour la défense des travailleurs, ex-candidate à la présidentielle 2022, les déclarations, les meetings, les idées de celle qu ...",
+     "image": "https://www.bing.com/th?id=ONUT.FG2jUDV3cJtJN2N0JefKNA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-12T16:00:00.000Z"
     },
     {
      "title": "Accueil Nathalie Arthaud : « Mélenchon veut gouverner avec la grande bourgeoisie »",
@@ -455,6 +444,22 @@
      "excerpt": "Après la fête de Lutte ouvrière (LO) samedi 7 novembre à Besançon, Nathalie Arthaud , porte-parole du parti, était de passage à Vesoul ce mardi ...",
      "image": "https://www.bing.com/th?id=ONUT.j6WL98pa58xRsPIWhu0pLw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-10T09:22:00.000Z"
+    },
+    {
+     "title": "Candidate à la présidentielle pour Lutte ouvrière, Nathalie Arthaud sera à Caen le 14 novembre",
+     "url": "https://www.ouest-france.fr/politique/lutte-ouvriere/candidate-a-la-presidentielle-pour-lutte-ouvriere-nathalie-arthaud-sera-a-caen-le-14-novembre-547dc140-dc2f-11f1-81f5-8e32b0872d76",
+     "source": "Ouest-France",
+     "excerpt": "Nathalie Arthaud, porte-parole de Lutte ouvrière, sera présente lors de la fête régionale organisée par le parti à Caen (Calvados) samedi 14 novembre 2026. Candidate à l’élection présidentielle, elle ...",
+     "image": "https://www.bing.com/th?id=ONUT.lrLyzGP1YUR0nLqtSaN7TA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T06:39:00.000Z"
+    },
+    {
+     "title": "SONDAGE Présidentielle 2027 : Le Pen, Mélenchon, Philippe, Glucksmann, Lisnard… qui monte et qui baisse ? La courbe qui résume la dynamique des candidats",
+     "url": "https://www.midilibre.fr/2026/11/10/sondage-presidentielle-2027-le-pen-melenchon-philippe-glucksmann-lisnard-qui-monte-et-qui-baisse-la-courbe-qui-resume-la-dynamique-des-candidats-13643708.php",
+     "source": "Midi Libre",
+     "excerpt": "Le dernier sondage Harris Interactive pour M6/RTL, publié lundi 9 novembre, place Marine Le Pen en tête avec 34 % des intentions de vote pour la présidentielle 2027, suivie de Jean-Luc Mélenchon à 19 ...",
+     "image": "https://www.bing.com/th?id=ONUT.cy2rX69WiQZaL9zhG1bHgA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T01:01:00.000Z"
     }
    ],
    "videos": [
@@ -719,28 +724,20 @@
    },
    "news": [
     {
+     "title": "“J’aimerais encore mieux les couillons du milieu” : Pierre Perret, 92 ans, ne mâche pas ses mots concernant la présidentielle de 2027",
+     "url": "https://www.gala.fr/politique/j-aimerais-encore-mieux-les-couillons-du-milieu-pierre-perret-92-ans-ne-mache-pas-ses-mots-concernant-la-presidentielle-de-2027-20261114",
+     "source": "Gala",
+     "excerpt": "À 92 ans et fort de 70 ans de carrière, Pierre Perret fait son grand retour avec Leçon de vie, un album très grinçant. Dans un entretien accordé au Parisien, le chanteur a livré son regard sur l’élect ...",
+     "image": "https://www.bing.com/th?id=ONUT.AEw5Sc98MyEHZEtIoIzB9Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:51:00.000Z"
+    },
+    {
      "title": "“Un baiser empoisonné” : au salon du made in France à Paris, Teddy Riner prend clairement ses distances avec Emmanuel Macron",
      "url": "https://www.gala.fr/politique/un-baiser-empoisonne-au-salon-du-made-in-france-a-paris-teddy-riner-prend-clairement-ses-distances-avec-emmanuel-macron-20261114",
      "source": "Gala",
      "excerpt": "En pleine campagne pour l’élection présidentielle de 2027, Teddy Riner a profité d’une visite au salon du Made in France ce samedi 14 novembre 2026, pour affirmer ses distances avec le président Emman ...",
      "image": "https://www.bing.com/th?id=ONUT.k5ZKXdT4EpU3v8UCBCgrRA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T06:34:00.000Z"
-    },
-    {
-     "title": "“Il est clair que je soutiendrai au premier tour…” : Nicolas Sarkozy s’exprime sur la présidentielle de 2027",
-     "url": "https://www.gala.fr/politique/il-est-clair-que-je-soutiendrai-au-premier-tour-nicolas-sarkozy-s-exprime-sur-la-presidentielle-de-2027-20261114",
-     "source": "Gala",
-     "excerpt": "À l’approche du premier tour de la présidentielle de 2027, Nicolas Sarkozy s’est confié dans les colonnes du Figaro ce samedi 14 novembre. L’ancien chef de l’État esquisse sa stratégie électorale.",
-     "image": "https://www.bing.com/th?id=ONUT.oWeNmXw0PJq9UYEPwQAQjQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T01:07:00.000Z"
-    },
-    {
-     "title": "« Si nous continuons ainsi, la France subira le même sort que la Grèce ! » : Nicolas Dupont-Aignan présente son programme économique",
-     "url": "https://www.valeursactuelles.com/clubvaleurs/politique/si-nous-continuons-ainsi-la-france-subira-le-meme-sort-que-la-grece-nicolas-dupont-aignan-presente-son-programme-economique",
-     "source": "Valeurs actuelles",
-     "excerpt": "Singulier retournement de situation. En 2017, Marine Le Pen se disait prête à quitter, si nécessaire, l’Union européenne et l’euro, au terme d’un référendum organisé six mois après son ...",
-     "image": null,
-     "date": "2026-11-12T10:58:00.000Z"
     },
     {
      "title": "Présidentielle 2027 - Sondage : Christine Lagarde créditée de 8 % pour la première fois, Riner et Attal à égalité avec 2 % des intentions de vote... ce que révèle une ...",
@@ -813,6 +810,14 @@
      "excerpt": "Le fils d’une légende du foot sur grand écran, un site simulant la campagne présidentielle de 2027 et François Asselineau invité de Sam Zira ...",
      "image": "https://www.bing.com/th?id=ONUT.EzvE0_NHyiBF1K8aw7STQw&pid=News&w=800&h=450&c=14",
      "date": "2026-10-31T23:20:00.000Z"
+    },
+    {
+     "title": "François Asselineau : « Je suis plus courageux que Mélenchon et Le Pen qui sont des lâches ! »",
+     "url": "https://www.sudradio.fr/sud-radio/francois-asselineau-je-suis-plus-courageux-que-melenchon-et-le-pen-qui-sont-des-laches",
+     "source": "Sud Radio",
+     "excerpt": "Candidat à l'élection présidentielle, François Asselineau (UPR) était l'invité d'André Bercoff sur Sud Radio. Morceaux choisis.",
+     "image": null,
+     "date": "2026-10-30T10:50:00.000Z"
     }
    ],
    "videos": [],
@@ -946,7 +951,7 @@
     "avg": 7.5,
     "min": 2,
     "max": 17,
-    "n": 37,
+    "n": 41,
     "history": [
      {
       "date": "2023-09-11",
@@ -1237,6 +1242,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 3.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 7
      }
     ],
     "rank": 6
@@ -1260,19 +1270,59 @@
    },
    "news": [
     {
-     "title": "Présidentielle : \"On a l'obligation de réussir et d'avoir cette primaire\", affirme Jean-Charles Orsucci, porte-parole de Gabriel Attal",
-     "url": "https://www.msn.com/fr-fr/actualite/other/pr%C3%A9sidentielle-on-a-lobligation-de-r%C3%A9ussir-et-davoir-cette-primaire-affirme-jean-charles-orsucci-porte-parole-de-gabriel-attal/vi-AA2hqFJ1",
+     "title": "Une banque publique qui finance la moitié de votre logement, ce que propose Gabriel Attal aux classes moyennes",
+     "url": "https://www.msn.com/fr-fr/actualite/other/une-banque-publique-qui-finance-la-moiti%C3%A9-de-votre-logement-ce-que-propose-gabriel-attal-aux-classes-moyennes/ar-AA2hrikT",
+     "source": "Capital",
+     "excerpt": "Gabriel Attal commence à dévoiler ses idées en matière de logement en vue de la présidentielle. Parmi ses «mesures phares», la création d’une banque publique pour faciliter l’accès à la propriété, not ...",
+     "image": "https://www.bing.com/th?id=ONUT.fofK9h7JfgCTL9V9XN4p8Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T14:43:19.000Z"
+    },
+    {
+     "title": "Présidentielle 2027: un sondage place Marine Le Pen en tête du premier tour et Teddy Riner devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-un-sondage-place-marine-le-pen-en-tete-du-premier-tour-et-teddy-riner-devant-gabriel-attal-et-bruno-retailleau-20261114",
+     "source": "Figaro Live",
+     "excerpt": "Marine Le Pen est toujours très largement en tête des intentions de vote au premier tour de la présidentielle, devant Jean-Luc Mélenchon qui s'installe à la 2e place, tandis qu'Édouard Philippe et Rap ...",
+     "image": "https://www.bing.com/th?id=ONUT.xqV-7U1jcRbtt94RB0voGQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:16:00.000Z"
+    },
+    {
+     "title": "SONDAGE. Présidentielle 2027 : Jean-Luc Mélenchon consolide sa deuxième place, Teddy Riner déjà devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.lindependant.fr/2026/11/14/sondage-presidentielle-2027-jean-luc-melenchon-consolide-sa-deuxieme-place-teddy-riner-deja-devant-gabriel-attal-et-bruno-retailleau-13653042.php",
+     "source": "L'Indépendant",
+     "excerpt": "À cinq mois de l'élection présidentielle, un sondage Elabe pour BFMTV et La Tribune du Dimanche, publié le 14 novembre, place Marine Le Pen en tête avec 31 à 33 % des intentions de vote. Jean-Luc Méle ...",
+     "image": "https://www.bing.com/th?id=ONUT.bf-MyaDv6yKXtwvBlnup5Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:57:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
+     "source": "Le Figaro",
+     "excerpt": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucks ...",
+     "image": "https://www.bing.com/th?id=ONUT.pwzjvrODy5GYshAImuk8rg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:34:00.000Z"
+    },
+    {
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
      "source": "BFMTV",
-     "excerpt": "L'organisation d'une primaire entre Gabriel Attal (Renaissance), Édouard Philippe (Horizons) et Bruno Retailleau (LR) et David Lisnard (Nouvelle Énergie) a repris de la vigueur ces derniers jours, LR ...",
-     "image": "https://www.bing.com/th?id=ONUT.Sgg0pc7xSoybhcnVALrUrA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T03:24:26.000Z"
+     "excerpt": "Cinq mois avant le premier tour de l'élection présidentielle, Jean-Luc Mélenchon consolide sa deuxième place derrière Marine Le Pen, d'après le dernier sondage Elabe pour BFMTV et La Tribune dimanche.",
+     "image": "https://www.bing.com/th?id=ONUT.43LV88_m-mabPewNsX7sqA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:00:00.000Z"
+    },
+    {
+     "title": "Gabriel Attal : le numéro de Complément d’enquête a-t-il séduit ?",
+     "url": "https://www.msn.com/fr-fr/actualite/other/gabriel-attal-le-num%C3%A9ro-de-compl%C3%A9ment-d-enqu%C3%AAte-a-t-il-s%C3%A9duit/ar-AA2hrwA7",
+     "source": "Ohmymag",
+     "excerpt": "Portrait de Gabriel Attal dans Complément d’enquête : audience décevante (461 000, 8,3%) malgré révélations, questionnant son impact médiatique et politique.",
+     "image": "https://www.bing.com/th?id=ONUT.L1GZCI3r3w44GW228ST2yA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T10:30:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : Eric Zemmour «espère» participer à une primaire de la droite et du centre, mais Gabriel Attal refuse",
      "url": "https://www.cnews.fr/france/2026-11-13/presidentielle-2027-eric-zemmour-espere-participer-une-primaire-de-la-droite-et",
      "source": "CNEWS",
      "excerpt": "Eric Zemmour, tout juste en lice pour le scrutin 2027, a laissé entendre qu'il verrait d'un bon œil une participation à la primaire de droite et du centre.",
-     "image": null,
+     "image": "https://www.bing.com/th?id=ONUT.qbbr1c5ZDddV_MvjvzrJ-w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T11:37:00.000Z"
     },
     {
@@ -1298,30 +1348,6 @@
      "excerpt": "Gabriel Attal était à l'honneur dans Complément d'enquête sur France 2 ce jeudi 12 novembre 2026. L'ancien Premier ministre et candidat à l'élection présidentielle a refusé de répondre aux questions d ...",
      "image": null,
      "date": "2026-11-13T01:56:00.000Z"
-    },
-    {
-     "title": "\"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
-     "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html",
-     "source": "France Info",
-     "excerpt": "Depuis sa rupture politique avec Emmanuel Macron, Gabriel Attal est plus que jamais \"en marche\"... vers l’Elysée ! Ce jeune homme pressé y croit dur comme fer, encore plus depuis qu'il a pris le contr ...",
-     "image": "https://www.bing.com/th?id=ONUT.hTZnLLuCzUyCpcLlKcBNTA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T11:40:00.000Z"
-    },
-    {
-     "title": "Gabriel Attal face aux petits patrons sur LCI : \"Si on veut que les salaires augmentent durablement, il faut qu'on ait une économie plus prospère\"",
-     "url": "https://www.tf1info.fr/politique/elections/presidentielle/gabriel-attal-face-aux-petits-patrons-sur-lci-si-on-veut-que-les-salaires-augmentent-durablement-il-faut-qu-on-ait-une-economie-plus-prospere-2475543.html",
-     "source": "TF1 INFO",
-     "excerpt": "[VIDÉO] Candidat Renaissance à l'élection présidentielle, Gabriel Attal a répondu aux questions des petits patrons depuis La Rochelle ce jeudi sur LCI. Un nouveau rendez-vous politique organisé avec l ...",
-     "image": null,
-     "date": "2026-11-12T11:39:00.000Z"
-    },
-    {
-     "title": "Gabriel Attal a-t-il bénéficié d’un coup de pouce de son compagnon Stéphane Séjourné ? Pointé du doigt, le candidat à la présidentielle 2027 met les choses au clair…",
-     "url": "https://www.gala.fr/politique/gabriel-attal-a-t-il-beneficie-d-un-coup-de-pouce-de-son-compagnon-stephane-sejourne-pointe-du-doigt-le-candidat-a-la-presidentielle-2027-met-les-choses-au-clair-20261112",
-     "source": "Gala",
-     "excerpt": "Ce jeudi 12 novembre, France 2 consacre un nouveau numéro de Complément d’enquête à Gabriel Attal. L’émission s’intéresse notamment au rôle qu’aurait joué son compagnon, Stéphane Séjourné, dans son as ...",
-     "image": "https://www.bing.com/th?id=ONUT.J3vG28piHkcMmX2woAqfmA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T11:34:00.000Z"
     }
    ],
    "videos": [
@@ -1384,6 +1410,15 @@
    ],
    "posts": [],
    "podcasts": [
+    {
+     "title": "Gabriel Attal  - En homme libre (Éditions de l'Observatoire, 2026) : résumé et analyse du livre",
+     "show": "OpenCulture Books — Résumés et analyses de livres",
+     "url": "https://podcasts.apple.com/fr/podcast/gabriel-attal-en-homme-libre-%C3%A9ditions-de/id1869890826?i=1000801983289&uo=4",
+     "audio": "https://audio.ausha.co/BNe3qRHVrgMQ.mp3?t=1794700191",
+     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/21/07/1921070f-fea2-82a4-1b4b-ad85e7209505/mza_9976915949742823928.jpeg/600x600bb.jpg",
+     "date": "2026-11-14T23:50:02.000Z",
+     "duration": 16
+    },
     {
      "title": "Gabriel Attal - Une primaire...mais avec qui?",
      "show": "C dans l'air",
@@ -1464,15 +1499,6 @@
      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/06/26/ed/0626ed6f-d58b-ec6a-29d6-eb408f0550a7/mza_6929120383555035878.jpg/600x600bb.jpg",
      "date": "2026-05-22T06:26:24.000Z",
      "duration": 3
-    },
-    {
-     "title": "Gabriel Attal : l'interview HALLUCINANTE sur CNews - 28/11/2025",
-     "show": "Le Café Rhétorique",
-     "url": "https://podcasts.apple.com/fr/podcast/gabriel-attal-linterview-hallucinante-sur-cnews-28-11-2025/id1760043242?i=1000738883361&uo=4",
-     "audio": "https://sphinx.acast.com/p/open/s/66a7f76ab0c58fe7a24f4796/e/692a059a635c16d64087954b/media.mp3",
-     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/f8/c6/5ef8c683-2c73-99f4-c4ba-4709c4dcb96a/mza_17601324898546919073.jpeg/600x600bb.jpg",
-     "date": "2025-11-29T10:00:00.000Z",
-     "duration": 185
     }
    ]
   },
@@ -1522,10 +1548,10 @@
    "news": [
     {
      "title": "Israël interdit l’entrée à Jean-Luc Mélenchon et Mathilde Panot, Jean-Noël Barrot critique la décision",
-     "url": "https://www.msn.com/fr-be/actualite/other/isra%C3%ABl-interdit-l-entr%C3%A9e-%C3%A0-jean-luc-m%C3%A9lenchon-et-mathilde-panot-jean-no%C3%ABl-barrot-critique-la-d%C3%A9cision/ar-AA2hrjQn",
+     "url": "https://www.msn.com/fr-xl/actualite/other/isra%C3%ABl-interdit-l-entr%C3%A9e-%C3%A0-jean-luc-m%C3%A9lenchon-et-mathilde-panot-jean-no%C3%ABl-barrot-critique-la-d%C3%A9cision/ar-AA2hrw3a",
      "source": "Politique Matin",
      "excerpt": "Le chef de la diplomatie française a réagi le 12 novembre à l’interdiction qui vise les deux responsables insoumis. Jean-Luc Mélenchon a précisé sur franceinfo qu’il n’avait demandé à entrer en Israël ...",
-     "image": "https://www.bing.com/th?id=ONUT.vgrzRkwny8tkiq-WC-FCQA&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.bs8BVJXYXIivKFXxzo7Rdw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T09:20:00.000Z"
     },
     {
@@ -1577,14 +1603,6 @@
      "date": "2026-11-12T14:07:00.000Z"
     },
     {
-     "title": "Iran : Barrot juge le risque d’escalade toujours présent",
-     "url": "https://libnanews.com/iran-barrot-juge-le-risque-descalade-toujours-present/",
-     "source": "Libnanews",
-     "excerpt": "Jean-Noël Barrot juge le risque d’escalade entre Washington et Téhéran toujours présent. Paris poursuit les consultations diplomatiques.",
-     "image": "https://www.bing.com/th?id=ONUT.kivkltw0sNyRXPmSpW-S9A&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-11T14:05:00.000Z"
-    },
-    {
      "title": "Les proches de Christophe Gleizes reçus par Jean-Noël Barrot, le ministre de l'Europe et des Affaires étrangères",
      "url": "https://www.lequipe.fr/Football/Actualites/Les-proches-de-christophe-gleizes-recus-par-jean-noel-barrot-le-ministre-de-l-europe-et-des-affaires-etrangeres/1742986",
      "source": "L'Équipe",
@@ -1599,6 +1617,14 @@
      "excerpt": "La France, qui a accusé lundi 9 novembre l'Iran d'être à l'origine des cyberattaques d'ampleur ayant visé des centaines de réfrigérateurs connectés de supermarchés en octobre, fourbit sa riposte contr ...",
      "image": null,
      "date": "2026-11-10T09:45:00.000Z"
+    },
+    {
+     "title": "Guerre en Ukraine: Jean-Noël Barrot demande à Jean-Luc Mélenchon d'«assumer de piétiner les fondements du droit international»",
+     "url": "https://video.lefigaro.fr/figaro/politique/guerre-en-ukraine-jean-noel-barrot-demande-a-jean-luc-melenchon-d-assumer-de-pietiner-les-fondements-du-droit-international-20261110",
+     "source": "Figaro Live",
+     "excerpt": "À l'occasion de la réunion des ministres des Affaires étrangères du G7 ce mardi à Paris, Jean-Noël Barrot a fustigé les propos tenus par Jean-Luc Mélenchon samedi, lorsque le candidat LFI à l'élection ...",
+     "image": "https://www.bing.com/th?id=ONUT.MeYYR6VMRu5AFxLu5bvTyg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T07:02:00.000Z"
     }
    ],
    "videos": [],
@@ -1803,14 +1829,6 @@
      "excerpt": "Aspirante à la fonction présidentielle, Delphine Batho a défendu son projet écologiste dans le Soissonnais. Une visite qui a permis de poser les premières pierres du programme de la femme politique.",
      "image": null,
      "date": "2026-11-13T08:48:00.000Z"
-    },
-    {
-     "title": "Résultat des élections législatives à Couture-d'Argenson :",
-     "url": "https://www.ici.fr/nouvelle-aquitaine/deux-sevres-79/couture-d-argenson/elections/archives/2017",
-     "source": "ici",
-     "excerpt": "Au terme du deuxième tour des législatives, la députée sortante Delphine BATHO (PS) se classe en première position à Couture-d'Argenson en totalisant 50,41% des voix. Christine HEINTZ (La République e ...",
-     "image": "https://www.bing.com/th?id=ONUT.oe7QXQ7SnEvMyv93unhN9A&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-10T19:15:00.000Z"
     },
     {
      "title": "Delphine Batho",
@@ -2094,14 +2112,6 @@
      "date": "2026-11-11T16:00:00.000Z"
     },
     {
-     "title": "Présidentielle 2027 « Il ne sera pas un candidat paillette » : comment Teddy Riner bouscule la campagne",
-     "url": "https://www.ledauphine.com/elections/2026/11/10/il-ne-sera-pas-un-candidat-paillette-comment-teddy-riner-bouscule-la-campagne",
-     "source": "Le Dauphiné Libéré",
-     "excerpt": "La vidéo de déclaration de candidature de Teddy Riner a été visionnée des millions de fois, montrant la popularité du quintuple médaillé olympique.",
-     "image": null,
-     "date": "2026-11-10T11:00:00.000Z"
-    },
-    {
      "title": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
      "source": "La Chaîne parlementaire",
@@ -2116,6 +2126,14 @@
      "excerpt": "Le quintuple champion olympique de judo a annoncé, lundi 9 novembre, sa candidature à l’élection présidentielle de 2027, dans une vidéo publiée sur ses réseaux sociaux et une interview au Parisien. Se ...",
      "image": "https://www.bing.com/th?id=ONUT.20kji6X3RloxQZIm3lRbgw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-09T08:36:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : ils sont déjà plus de 30 à vouloir entrer à l’Élysée, qui sont les candidats déclarés ?",
+     "url": "https://www.zinfos974.com/presidentielle-2027-ils-sont-deja-pres-de-30-a-vouloir-entrer-a-lelysee-qui-sont-les-candidats-declares/",
+     "source": "Zinfos 974",
+     "excerpt": "À près de six mois de la prochaine élection présidentielle, près de 30 candidats ont déjà annoncé leur intention de briguer la présidence.",
+     "image": "https://www.bing.com/th?id=ONUT.IDjo2KwmLoqL7mSLIxMcOg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-08T02:31:00.000Z"
     }
    ],
    "videos": [],
@@ -2330,10 +2348,10 @@
     },
     {
      "title": "Antisémitisme : Aurore Bergé met Jordan Bardella face à ses responsabilités",
-     "url": "https://www.msn.com/fr-be/actualite/other/antis%C3%A9mitisme-aurore-berg%C3%A9-met-jordan-bardella-face-%C3%A0-ses-responsabilit%C3%A9s/vi-AA2gXMkw",
+     "url": "https://www.msn.com/fr-ch/actualite/other/antis%C3%A9mitisme-aurore-berg%C3%A9-met-jordan-bardella-face-%C3%A0-ses-responsabilit%C3%A9s/vi-AA2gY1lC",
      "source": "YouTube",
      "excerpt": "Aurore Bergé revient sur les accusations visant Jordan Bardella, qui dément avoir tenu des propos antisémites. Elle dénonce les liens qu’il aurait entretenus avec Alain Soral et estime que l’antisémit ...",
-     "image": "https://www.bing.com/th?id=ONUT.FsN0x1V_RH65gbtW_yvtww&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.wBmbc3jWXNXY_zeYrBoAtQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-07T09:00:00.000Z"
     },
     {
@@ -2562,14 +2580,6 @@
      "date": "2026-11-14T03:09:00.000Z"
     },
     {
-     "title": "Résultat élections régionales et départementales 2021 : Nogent-l'Artaud (02310)",
-     "url": "https://www.ici.fr/hauts-de-france/aisne-02/nogent-l-artaud/elections/archives/2021",
-     "source": "ici",
-     "excerpt": "À Nogent-l'Artaud, la liste Union de la Droite menée par Xavier BERTRAND termine en tête et reçoit 49,44 % des votes lors du deuxième tour des élections régionales 2021. À l'occasion du deuxième tour ...",
-     "image": "https://www.bing.com/th?id=ONUT.oe7QXQ7SnEvMyv93unhN9A&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T03:09:00.000Z"
-    },
-    {
      "title": "Présidentielle 2027 : Christine Lagarde, François Hollande, Xavier Bertrand… les Français veulent-ils vraiment les voir candidats à l'Élysée ? Un nouveau sondage lève ...",
      "url": "https://www.ladepeche.fr/2026/11/13/presidentielle-2027-christine-lagarde-francois-hollande-xavier-bertrand-les-francais-veulent-ils-vraiment-les-voir-candidats-a-lelysee-un-nouveau-13650849.php",
      "source": "La Dépêche",
@@ -2648,6 +2658,14 @@
      "excerpt": "Aujourd'hui, Bruno Poncet, cheminot, Emmanuel de Villiers, chef d'entreprise, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
      "image": "https://www.bing.com/th?id=ONUT.hz7oNiacUYrTfgSi0NmRUA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-04T05:41:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 - Xavier Bertrand, « le “trou de souris” me sourit ! »",
+     "url": "https://www.lecanardenchaine.fr/politique/55339-xavier-bertrand-le-trou-de-souris-me-sourit",
+     "source": "lecanardenchaine",
+     "excerpt": "Le président des Hauts-de-France devrait entrer dans la course à l'Elysée d'ici à la fin de l'année. D'après ses amis, Xavier Bertrand pourrait rafler la ...",
+     "image": "https://www.bing.com/th?id=ONUT.1WBZQShRIrxppuY7WbPU2Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-03T12:00:00.000Z"
     }
    ],
    "videos": [],
@@ -2856,11 +2874,19 @@
    },
    "news": [
     {
+     "title": "Bain de foule et confidences pour le candidat Karim Bouamrane, en campagne présidentielle à Châtellerault",
+     "url": "https://www.lanouvellerepublique.fr/chatellerault/bain-de-foule-et-confidences-pour-le-candidat-karim-bouamrane-en-campagne-presidentielle-a-chatellerault-1794684656",
+     "source": "La Nouvelle République",
+     "excerpt": "En déplacement dans la Vienne à Châtellerault pour une séance de dédicaces, le maire de Saint-Ouen, Karim Bouamrane, a profité de sa visite pour affirmer ses ambitions présidentielles et se confronter ...",
+     "image": "https://www.bing.com/th?id=ONUT.PN7vS3BFb51q097FWf5IIw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:30:00.000Z"
+    },
+    {
      "title": "REPLAY. Présidentielle 2027 : Marine Tondelier défend une hausse du Smic à \"2 000 euros brut\" en cas de victoire",
      "url": "https://www.ladepeche.fr/2026/11/12/direct-presidentielle-2027-a-peine-candidat-teddy-riner-est-deja-rattrape-par-ses-deboires-avec-le-fisc-qui-lui-reclame-244-000-euros-13648419.php",
      "source": "La Dépêche",
      "excerpt": "Bonjour et bienvenue dans ce direct du jeudi 12 novembre dédié à l'actualité de la campagne de l'élection présidentielle du printemps prochain.",
-     "image": "https://www.bing.com/th?id=ONUT.3v2kmZnxaIFL7FBqzS5Mqg&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.EF6hEcXqWDILaH7tN72iWg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-12T14:51:00.000Z"
     },
     {
@@ -2868,7 +2894,7 @@
      "url": "https://news.jkn.co.kr/editions/french/post/1089138",
      "source": "JKN News",
      "excerpt": "Le maire de Saint-Ouen a réaffirmé son intention de briguer l'Élysée en 2027 à l'occasion de la sortie de son livre, affichant sa proximité avec Raphaël Glucksmann et formulant des revendications sur ...",
-     "image": "https://www.bing.com/th?id=ONUT.JLF0HJCyJQBjipjKlkxCQw&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.RzegIRfmXSE_w4C3pN-oDg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-12T08:32:00.000Z"
     },
     {
@@ -2892,7 +2918,7 @@
      "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-karim-boumrane-affirme-croire-a-sa-candidature-20261112",
      "source": "Figaro Live",
      "excerpt": "«Je crois à ma candidature et à la victoire du bloc sociodémocrate», a assuré Karim Bouamrane sr CNews ce 12 novembre, maire socialiste de Saint-Ouen et candidat à l’élection présidentielle. «Notre pa ...",
-     "image": "https://www.bing.com/th?id=ONUT.cd7nARxLnhd9rcOt8juOGg&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.gqKCZRsGPV2gb96_MJxFew&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T23:50:00.000Z"
     },
     {
@@ -2908,7 +2934,7 @@
      "url": "https://www.msn.com/fr-fr/actualite/other/karim-bouamrane-il-y-a-une-rupture-de-confiance/vi-AA2hhjDu",
      "source": "Dailymotion",
      "excerpt": "Karim Bouamrane : «Il y a une rupture de confiance» entre l'Etat et les jeunes.",
-     "image": "https://www.bing.com/th?id=ONUT.fqCfKszrHt60k4NdSF9dVg&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.1n5DLHRFN_NYOKeSKbP54w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T23:22:53.000Z"
     },
     {
@@ -2916,7 +2942,7 @@
      "url": "https://oumma.com/karim-bouamrane-defie-melenchon-et-vise-le-second-tour-de-la-presidentielle-2027/",
      "source": "Oumma",
      "excerpt": "Karim Bouamrane, maire de Saint-Ouen, se lance dans la présidentielle 2027 avec une vision sociale-démocrate et critique LFI et le RN.",
-     "image": null,
+     "image": "https://www.bing.com/th?id=ONUT.xDhxvG3KHcosD3if5OOMzQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T16:00:00.000Z"
     },
     {
@@ -2924,7 +2950,7 @@
      "url": "https://www.capital.fr/votre-retraite/gagner-plus-travailler-moins-partir-a-60-ans-ca-nexiste-nulle-part-dit-le-gouverneur-de-la-banque-de-france-1531760",
      "source": "Capital",
      "excerpt": "Invité de BFM Business, le gouverneur de la Banque de France, Emmanuel Moulin, a prévenu que l’évolution démographique de la France ne peut pas permettre une augmentation de salaire, tout en travailla ...",
-     "image": "https://www.bing.com/th?id=ONUT.b70CPgVHVJqU8BiP8hFNlw&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-11-10T10:02:00.000Z"
     },
     {
@@ -2932,7 +2958,7 @@
      "url": "https://entrevue.fr/politique/il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche-karim/",
      "source": "Entrevue",
      "excerpt": "Karim Bouamrane ne compte pas s'effacer devant Jean-Luc Mélenchon. Invité lundi 9 novembre de Sud Radio, le maire socialiste de Saint-Ouen a ...",
-     "image": "https://www.bing.com/th?id=ONUT.Au57FevAfSg6qOUZMM1A9A&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.zbA67pt-ZCxwZDEUKNc_CA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-10T03:14:00.000Z"
     },
     {
@@ -2940,16 +2966,8 @@
      "url": "https://www.france24.com/fr/info-en-continu/20261109-pour-marine-le-pen-il-n-y-a-pas-de-discriminations-en-france",
      "source": "France 24",
      "excerpt": "Marine Le Pen estime qu'il \"n'y a pas de discriminations en France\" et considère que la France est \"le pays le moins raciste au monde\" dans un entretien au média américain CBS, des propos qui ont fait ...",
-     "image": "https://www.bing.com/th?id=ONUT.QQ8OY6yWBAHzluh16HZs3Q&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.0r35E4Qgjqm-jwdy7l-WNg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-09T01:34:00.000Z"
-    },
-    {
-     "title": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
-     "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
-     "source": "Sud Radio",
-     "excerpt": "INTERVIEW - Karim Bouamrane confirme être dans la course à l’Élysée avec une ambition : remettre l’espoir républicain au cœur du débat ...",
-     "image": "https://www.bing.com/th?id=ONUT.TXntSZZByDTS11Gn3WPjCQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-09T01:32:00.000Z"
     }
    ],
    "videos": [],
@@ -3094,16 +3112,16 @@
      "url": "https://www.challenges.fr/monde/leurope-herbivore-face-aux-empires-fauves-et-aux-troisiemes-colonnes-populistes-la-lecon-geopolitique-de-thierry-breton_646965",
      "source": "Challenges",
      "excerpt": "Peu importe si l’ex-Commissaire européen écarté de Bruxelles et interdit de séjour aux États-Unis brigue ou non L’Élysée. L’ouvrage qu’il publie n’est pas un livre jetable mais une œuvre robuste sur l ...",
-     "image": "https://www.bing.com/th?id=ONUT.tgVui5OrM4dcT4hLCtaR_w&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-11-13T01:56:00.000Z"
     },
     {
-     "title": "Thierry Breton sans langue de bois sur ses trajets en jet privé : \"C'est moi qui les payais\", il affirme que la Commission n'a pas versé un centime sur ses déplacements, \"et ...",
-     "url": "https://www.melty.fr/people/thierry-breton-sans-langue-de-bois-sur-ses-trajets-en-jet-prive-cest-moi-qui-les-payais-il-affirme-que-la-commission-na-pas-verse-un-centime-sur-ses-deplacements-et-je-nen-tire-aucune-2361530.html",
+     "title": "Thierry Breton face à la loi \"casseur-payeur\" : \"L'Etat n'a pas l'argent, il a zéro centimes, ZERO ! Par contre, il gère notre argent, prélevé par tous les moyens. Les ...",
+     "url": "https://www.melty.fr/people/thierry-breton-face-a-la-loi-casseur-payeur-letat-na-pas-largent-il-a-zero-centimes-zero-par-contre-il-gere-notre-argent-preleve-par-tous-les-moyens-les-degats-cest-nous-qui-pa-2361495.html",
      "source": "Melty",
-     "excerpt": "Face à la hausse du budget réservé aux déplacements en jet privé des hauts responsables, Thierry Breton n’a pas hésité à dire ce qu’il pense.",
-     "image": "https://www.bing.com/th?id=ONUT.F3fBMhEqHJwhpJC4To2OEQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T13:30:00.000Z"
+     "excerpt": "Après les violences des manifestations depuis le 17 octobre, la facture des dégradations s’annonce lourde. Et sur CNews, Thierry Breton a voulu rappeler une chose simple : au bout du compte, l’argent ...",
+     "image": null,
+     "date": "2026-11-12T04:36:00.000Z"
     },
     {
      "title": "\"Je suis le plan B\" : Thierry Breton et ses arrière-pensées présidentielles",
@@ -3118,7 +3136,7 @@
      "url": "https://www.lejdd.fr/politique/on-va-voir-ce-qui-emerge-thierry-breton-nexclut-pas-une-candidature-a-la-presidentielle-188253",
      "source": "Le Journal du Dimanche",
      "excerpt": "L’ancien commissaire européen Thierry Breton pourrait-il se lancer dans la course à l’Élysée ? Invité de France Inter ce lundi 9 novembre, l’ancien ministre de l’Économie n’a pas écarté cette hypothès ...",
-     "image": "https://www.bing.com/th?id=ONUT.4dUEMYL_LrHVnIA7hJb3og&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.Aj9E2gtma98C_eClFOcUug&pid=News&w=800&h=450&c=14",
      "date": "2026-11-10T01:46:00.000Z"
     },
     {
@@ -3126,7 +3144,7 @@
      "url": "https://www.msn.com/fr-fr/actualite/other/thierry-breton-l-acquisition-de-la-maison-historique-de-senghor-%C3%A0-dakar/ar-AA2h7LDA",
      "source": "- Déco.fr -",
      "excerpt": "À 71 ans, Thierry Breton, ancien ministre et ex-commissaire européen, s’inscrit dans le paysage sénégalais bien au-delà des coulisses politiques européennes. Séduit de longue date par ce pays, il a no ...",
-     "image": "https://www.bing.com/th?id=ONUT.xDcmltja6CAVXP5MLYucHw&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.un3PUXBgInd3wXXcxGc3Zw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-10T01:00:00.000Z"
     },
     {
@@ -3158,7 +3176,7 @@
      "url": "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html",
      "source": "France Info",
      "excerpt": "L'ancien ministre de l'Économie dit attendre de \"voir ce qui émerge dans le bloc central\". Interrogé sur France Inter, Thierry Breton assure également qu'il y a \"un problème absolument majeur en Franc ...",
-     "image": "https://www.bing.com/th?id=ONUT.IWyoM5O4Mfy32sis4NViYQ&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.vu0NSodfSWX_acs2xb-4xQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-09T01:12:00.000Z"
     },
     {
@@ -3437,20 +3455,20 @@
      "date": "2026-10-22T02:00:00.000Z"
     },
     {
-     "title": "En Guyane, une \"journée morte\" pour protester",
-     "url": "https://www.parismatch.com/en-guyane-une-journee-morte-pour-protester-IwCBnY8ya3qYUh9nnBbTw",
-     "source": "Paris Match",
-     "excerpt": "Mardi doit être une \"journée morte\" en Guyane après un démarrage timide de la \"grève générale illimitée\" et alors que le Premier ministre Bernard Cazeneuve a annoncé la venue de ministres \"avant la fi ...",
-     "image": null,
-     "date": "2026-10-07T22:57:00.000Z"
-    },
-    {
      "title": "Sécurité à Nice: Hollande appuie Valls et Cazeneuve",
      "url": "https://www.parismatch.com/securite-a-nice-hollande-appuie-valls-et-cazeneuve-4cCr0LJGP4lhlDck0KX6Vu",
      "source": "Paris Match",
      "excerpt": "François Hollande a réagi lundi à la polémique alimentée par une policière municipale niçoise sur les pressions dont elle dit avoir fait l'objet de la part du ministère de l'Intérieur.",
      "image": null,
      "date": "2026-10-07T19:00:00.000Z"
+    },
+    {
+     "title": "Dominique de Villepin, Bernard Cazeneuve, Xavier Bertrand... Pourquoi ils attendent pour se déclarer officiellement à la présidentielle",
+     "url": "https://fr.news.yahoo.com/dominique-villepin-bernard-cazeneuve-xavier-054000534.html",
+     "source": "Yahoo Actualités",
+     "excerpt": "Plusieurs figures de la vie politique font miroiter depuis des mois leur entrée dans la course à la présidentielle tout en jouant la carte de la patience. Mais pourquoi attendre et que cherchent-ils à ...",
+     "image": null,
+     "date": "2026-10-03T22:40:00.000Z"
     }
    ],
    "videos": [],
@@ -3583,7 +3601,7 @@
     "avg": 2.1,
     "min": 1,
     "max": 3.5,
-    "n": 63,
+    "n": 69,
     "history": [
      {
       "date": "2023-09-11",
@@ -3879,6 +3897,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 2
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 2.7
      }
     ],
     "rank": 10
@@ -3934,6 +3957,14 @@
      "date": "2026-11-10T16:00:00.000Z"
     },
     {
+     "title": "Résultats élections législatives 8ème circonscription Essonne",
+     "url": "https://www.ouest-france.fr/elections/resultats/essonne/8eme-circonscription/",
+     "source": "Ouest-France",
+     "excerpt": "Suivez en direct les résultats des élections législatives de la 8ème circonscription Essonne. Retrouvez, le 30 juin 2024 et le 7 juillet 2024 à partir de 20 heures, les résultats pour toutes les liste ...",
+     "image": null,
+     "date": "2026-11-10T16:00:00.000Z"
+    },
+    {
      "title": "Le diesel 20% moins cher et le gaz moitié prix ? La recette de Nicolas Dupont-Aignan pour faire baisser les prix de l'énergie",
      "url": "https://fr.finance.yahoo.com/actualites/diesel-20-moins-cher-gaz-091534840.html",
      "source": "Yahoo Finance",
@@ -3942,12 +3973,12 @@
      "date": "2026-11-08T17:16:00.000Z"
     },
     {
-     "title": "Smic à 1 500 euros ? « Il se moque du monde », répond Nicolas Dupont-Aignan, qui promet 1 600 euros net",
-     "url": "https://www.msn.com/fr-fr/finance/%C3%A9conomie/smic-%C3%A0-1-500-euros-il-se-moque-du-monde-r%C3%A9pond-nicolas-dupont-aignan-qui-promet-1-600-euros-net/ar-AA2gTbqk",
+     "title": "Smic à 1 500 euros ? «Il se moque du monde», répond Nicolas Dupont-Aignan, qui promet 1 600 euros net",
+     "url": "https://www.capital.fr/votre-carriere/smic-a-1-500-euros-il-se-moque-du-monde-repond-nicolas-dupont-aignan-qui-promet-1-600-euros-net-1531664",
      "source": "Capital",
      "excerpt": "Le ministre du Travail a évoqué une hausse du SMIC pour «franchir la barre des 1 500 euros net». Candidat à la présidentielle, Nicolas Dupont-Aignan avance lui son projet d’un salaire minimum à 1 600 ...",
-     "image": "https://www.bing.com/th?id=ONUT.oeWQ0Ee1Yjm-H-k_yJAnwQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-06T05:08:46.000Z"
+     "image": "https://www.bing.com/th?id=ONUT.E-Kk2_gmTKyb-z-DKh_e5g&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-06T05:08:00.000Z"
     },
     {
      "title": "Les 4 vérités - Nicolas Dupont-Aignan",
@@ -3988,14 +4019,6 @@
      "excerpt": "À six mois de l’élection présidentielle, le poids cumulé de Marine Le Pen, Éric Zemmour et Nicolas Dupont-Aignan atteint 40 % des intentions de vote dans les deux principales ...",
      "image": null,
      "date": "2026-10-27T05:01:00.000Z"
-    },
-    {
-     "title": "«Emmanuel Macron ne partira pas : il va s'accrocher et semer le chaos parce qu'il adore le désordre», charge Nicolas Dupont-Aignan",
-     "url": "https://www.cnews.fr/france/2026-10-20/emmanuel-macron-ne-partira-pas-il-va-saccrocher-et-semer-le-chaos-parce-quil",
-     "source": "CNEWS",
-     "excerpt": "«Emmanuel Macron démissionnera pas : il va s'accrocher, semer le chaos et adore le désordre», a chargé Nicolas Dupont-Aignan, ce mardi sur CNEWS ...",
-     "image": null,
-     "date": "2026-10-20T13:43:00.000Z"
     }
    ],
    "videos": [
@@ -4191,28 +4214,20 @@
    },
    "news": [
     {
+     "title": "“J’aimerais encore mieux les couillons du milieu” : Pierre Perret, 92 ans, ne mâche pas ses mots concernant la présidentielle de 2027",
+     "url": "https://www.gala.fr/politique/j-aimerais-encore-mieux-les-couillons-du-milieu-pierre-perret-92-ans-ne-mache-pas-ses-mots-concernant-la-presidentielle-de-2027-20261114",
+     "source": "Gala",
+     "excerpt": "À 92 ans et fort de 70 ans de carrière, Pierre Perret fait son grand retour avec Leçon de vie, un album très grinçant. Dans un entretien accordé au Parisien, le chanteur a livré son regard sur l’élect ...",
+     "image": "https://www.bing.com/th?id=ONUT.AEw5Sc98MyEHZEtIoIzB9Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:51:00.000Z"
+    },
+    {
      "title": "“Un baiser empoisonné” : au salon du made in France à Paris, Teddy Riner prend clairement ses distances avec Emmanuel Macron",
      "url": "https://www.gala.fr/politique/un-baiser-empoisonne-au-salon-du-made-in-france-a-paris-teddy-riner-prend-clairement-ses-distances-avec-emmanuel-macron-20261114",
      "source": "Gala",
      "excerpt": "En pleine campagne pour l’élection présidentielle de 2027, Teddy Riner a profité d’une visite au salon du Made in France ce samedi 14 novembre 2026, pour affirmer ses distances avec le président Emman ...",
      "image": "https://www.bing.com/th?id=ONUT.k5ZKXdT4EpU3v8UCBCgrRA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T06:34:00.000Z"
-    },
-    {
-     "title": "Du coup, en France Un judoka dans l’arène présidentielle",
-     "url": "https://www.lapresse.ca/international/europe/2026-11-14/du-coup-en-france/un-judoka-dans-l-arene-presidentielle.php",
-     "source": "La Presse",
-     "excerpt": "Sauveur ou feu de paille ? L’athlète multimédaillé Teddy Riner s’est déclaré candidat pour l’élection d’avril 2027. Une grosse affaire… pesant 140 kilos.",
-     "image": "https://www.bing.com/th?id=ONUT.XF_nZC2osecnwcQwhZhK2w&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T03:00:00.000Z"
-    },
-    {
-     "title": "“Il est clair que je soutiendrai au premier tour…” : Nicolas Sarkozy s’exprime sur la présidentielle de 2027",
-     "url": "https://www.gala.fr/politique/il-est-clair-que-je-soutiendrai-au-premier-tour-nicolas-sarkozy-s-exprime-sur-la-presidentielle-de-2027-20261114",
-     "source": "Gala",
-     "excerpt": "À l’approche du premier tour de la présidentielle de 2027, Nicolas Sarkozy s’est confié dans les colonnes du Figaro ce samedi 14 novembre. L’ancien chef de l’État esquisse sa stratégie électorale.",
-     "image": "https://www.bing.com/th?id=ONUT.oWeNmXw0PJq9UYEPwQAQjQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T01:07:00.000Z"
     },
     {
      "title": "Interview de Mehdi Garrigues, créateur de la marionnette Jean-Marc de Jeff Panacloc",
@@ -4247,14 +4262,6 @@
      "date": "2026-11-12T06:25:00.000Z"
     },
     {
-     "title": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
-     "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
-     "source": "La Chaîne parlementaire",
-     "excerpt": "A l’approche de la présidentielle 2027, quels sont les candidats déclarés et qui sont ceux qui pourraient encore se présenter ? Candidatures annoncées, ambitions sous conditions et personnalités encor ...",
-     "image": "https://www.bing.com/th?id=ONUT.uS52MleW4N3WegndMXqn0w&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-09T22:05:00.000Z"
-    },
-    {
      "title": "Présidentielle 2027 : ils sont déjà plus de 30 à vouloir entrer à l’Élysée, qui sont les candidats déclarés ?",
      "url": "https://www.zinfos974.com/presidentielle-2027-ils-sont-deja-pres-de-30-a-vouloir-entrer-a-lelysee-qui-sont-les-candidats-declares/",
      "source": "Zinfos 974",
@@ -4277,6 +4284,22 @@
      "excerpt": "Qui a déjà entendu parler d’Augustin Billetdoux, Clara Egger, Jean-François Legendre, Benoit Mathieu ou Manolo Mlekuz ? Ils ont tous un point commun, ils sont tous candidats à l'élection ...",
      "image": null,
      "date": "2026-10-21T22:12:00.000Z"
+    },
+    {
+     "title": "Qui est ce Sylvain Durif, le « Christ cosmique » candidat à la Présidentielle 2027 ?",
+     "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+     "source": "sudradio.fr",
+     "excerpt": "PORTRAIT SUD RADIO - Sylvain Durif alias le « Christ cosmique », est candidat à l’élection présidentielle depuis fin août. Suivi par plus de 50 000 personnes sur Instagram, qui est donc ce personnage ...",
+     "image": null,
+     "date": "2026-10-21T07:01:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : qui sont ces candidats étonnants qui veulent se lancer dans la course à l’Élysée ?",
+     "url": "https://www.cnews.fr/france/2026-10-04/presidentielle-2027-qui-sont-ces-candidats-etonnants-qui-veulent-se-lancer-dans",
+     "source": "CNews",
+     "excerpt": "Chanteur, étudiant de 20 ans, professeur de mathématiques, universitaire ou encore figure connue pour ses vidéos mystiques : plusieurs candidats aux parcours pour le moins atypiques veulent tenter ...",
+     "image": null,
+     "date": "2026-10-03T23:11:00.000Z"
     }
    ],
    "videos": [
@@ -4522,10 +4545,10 @@
     },
     {
      "title": "Israël : Les députés français adoptent en commission l’interdiction d’importer des produits des colonies",
-     "url": "https://fr.news.yahoo.com/sport/isra%C3%ABl-d%C3%A9put%C3%A9s-fran%C3%A7ais-adoptent-commission-145037795.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "proche-orient - Une proposition de loi portée par le socialiste Olivier Faure prévoit l’interdiction de l’importation des produits des colonies israéliennes mais se heurte aux députés macronistes et d ...",
-     "image": null,
+     "url": "https://www.20minutes.fr/monde/israel/4261973-20261110-israel-deputes-francais-adoptent-commission-interdiction-importer-produits-colonies",
+     "source": "20 Minutes",
+     "excerpt": "Un proposition de loi portée par le socialiste Olivier Faure prévoit l'interdiction de l'importation des produits des colonies israéliennes mais se heurte aux députés macronistes et du Rassemblement n ...",
+     "image": "https://www.bing.com/th?id=ONUT.MSyl85GAlYMLEtWUobmw1w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-10T06:50:00.000Z"
     },
     {
@@ -4553,6 +4576,14 @@
      "date": "2026-11-10T00:04:00.000Z"
     },
     {
+     "title": "Les députés adoptent en commission un texte pour interdire l'importation en France de produits des colonies israéliennes",
+     "url": "https://fr.news.yahoo.com/d%C3%A9put%C3%A9s-adoptent-commission-texte-interdire-224018599.html",
+     "source": "Yahoo Actualités",
+     "excerpt": "Le texte a reçu en commission le soutien des groupes de gauche et du Modem, mais s'est heurté à l'opposition des macronistes et du Rassemblement national. Il doit être examiné le 19 novembre dans l'hé ...",
+     "image": "https://www.bing.com/th?id=ONUT.p69d8s604rFb0sVvt0bQow&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-09T14:40:00.000Z"
+    },
+    {
      "title": "Raphaël Glucksmann",
      "url": "https://www.lavoixdunord.fr/tags/raphael-glucksmann",
      "source": "La Voix du Nord",
@@ -4567,14 +4598,6 @@
      "excerpt": "Après sa large victoire à la primaire, les proches de Raphaël Glucksmann ont œuvré à un organigramme de campagne de rassemblement. Preuve en est, on y trouve notamment plusieurs proches du premier sec ...",
      "image": "https://www.bing.com/th?id=ONUT.2E7-Jmzs8aP549aD-t91Sw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-06T07:34:00.000Z"
-    },
-    {
-     "title": "« Méluche, c’est pas de la tarte », Olivier Faure « un mec très bien » : deux ans de SMS d’Emmanuel Macron dans un livre",
-     "url": "https://www.ouest-france.fr/politique/emmanuel-macron/meluche-cest-pas-de-la-tarte-olivier-faure-un-mec-tres-bien-deux-ans-de-sms-demmanuel-macron-dans-un-livre-044d74ee-d924-11f1-b736-5b9907ef0b5a",
-     "source": "Ouest-France",
-     "excerpt": "François Hollande a eu « Un Président ne devrait pas dire ça », Emmanuel Macron aura-t-il « Un Président ne devrait pas texter ça » ? L’éditorialiste Françoise Degois publie un livre à partir de deux ...",
-     "image": "https://www.bing.com/th?id=ONUT.oEAziGUZjA815xsUecT3Fg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-05T08:38:00.000Z"
     }
    ],
    "videos": [],
@@ -4755,7 +4778,7 @@
     "avg": 13.1,
     "min": 8,
     "max": 16.5,
-    "n": 60,
+    "n": 66,
     "history": [
      {
       "date": "2023-09-11",
@@ -5071,6 +5094,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 10.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 13.1
      }
     ],
     "rank": 4
@@ -5093,22 +5121,6 @@
     "tiktok": null
    },
    "news": [
-    {
-     "title": "Candidature de Teddy Riner : le ni droite ni gauche « est une politique fondée sur l’injustice », estime Raphaël Glucksmann",
-     "url": "https://www.msn.com/fr-fr/actualite/other/candidature-de-teddy-riner-le-ni-droite-ni-gauche-est-une-politique-fond%C3%A9e-sur-l-injustice-estime-rapha%C3%ABl-glucksmann/vi-AA2hqO3c",
-     "source": "Dailymotion",
-     "excerpt": "En visite au salon Made in France ce samedi 14 novembre, Raphaël Glucksmann a été interrogé sur la candidature surprise du quintuple champion olympique de judo. Le « ni de droite ni de gauche », dont ...",
-     "image": "https://www.bing.com/th?id=ONUT.xsEwsptzPRNeAXV-Z-Tp_w&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T05:20:15.000Z"
-    },
-    {
-     "title": "Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
-     "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
-     "source": "France Info",
-     "excerpt": "Souvent placé troisième place dans les sondages, mais assez loin derrière Marine Le Pen et Jean-Luc Mélenchon, le candidat PS-Place Publique doit maintenant combler son retard sur le candidat LFI. Un ...",
-     "image": "https://www.bing.com/th?id=ONUT.vr83pNqtteZ_CfIanaec4Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T01:19:00.000Z"
-    },
     {
      "title": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
      "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html",
@@ -5180,6 +5192,22 @@
      "excerpt": "Une proposition pour la France: Raphaël Glucksmann, candidat PS-Place Publique à la présidentielle, propose la mise en place d'un dispositif de leasing social pour un million de voitures électriques c ...",
      "image": "https://www.bing.com/th?id=ONUT.rVvlUvACdG70vYa3bspskg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T10:30:00.000Z"
+    },
+    {
+     "title": "Une proposition pour la France : Raphaël Glucksmann, un million de voitures électriques à 100 euros par mois - 11/11",
+     "url": "https://www.msn.com/fr-fr/actualite/other/une-proposition-pour-la-france-rapha%C3%ABl-glucksmann-un-million-de-voitures-%C3%A9lectriques-%C3%A0-100-euros-par-mois-11-11/vi-AA2hbZXd",
+     "source": "Dailymotion",
+     "excerpt": "Tous les matins à 6h43, retrouvez Une proposition pour la France présentée par Virginie Phulpin.",
+     "image": null,
+     "date": "2026-11-10T22:00:27.000Z"
+    },
+    {
+     "title": "Manifestations du 5 novembre - Un couac en Place publique pour Raphaël Glucksmann",
+     "url": "https://www.lecanardenchaine.fr/politique/55387-un-couac-en-place-publique-pour-raphael-glucksmann",
+     "source": "lecanardenchaine",
+     "excerpt": "Un conseiller de Glucksmann devait contacter la préfecture de police pour assurer la sécurité du candidat lors de la manif parisienne du 5 novembre. Mais ...",
+     "image": "https://www.bing.com/th?id=ONUT.a5n33kclXbb9NDTMriPi7Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T12:00:00.000Z"
     }
    ],
    "videos": [],
@@ -5220,7 +5248,7 @@
      "text": "Nous mettrons fin à nos dépendances énergétiques à la Russie.\n\nCe régime nous fait la guerre. Nous ne pouvons donc pas financer leur machine de guerre qui met au péril notre sécurité. https://t.co/UdoDjSiMHx\n\nhttps://x.com/rglucks1/status/2119841611945590842",
      "image": null,
      "date": "2026-11-09T17:26:35.000Z",
-     "likes": 91,
+     "likes": 93,
      "reposts": 27,
      "url": "https://bsky.app/profile/raphaelglucksmann.bsky.social/post/3mzvh3sejh42g"
     },
@@ -5422,14 +5450,6 @@
      "date": "2026-11-02T22:18:00.000Z"
     },
     {
-     "title": "Jérôme Guedj largement critiqué pour avoir qualifié la ligne éditoriale de CNews de « respectable »",
-     "url": "https://fr.news.yahoo.com/sport/jerome-guedj-largement-critique-avoir-145809542.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "Plusieurs élus de gauche rappellent au député PS que « le racisme n'est pas une ligne éditoriale, mais un délit ». L'Arcom a émis 27 rappels à l'ordre contre la chaîne.",
-     "image": "https://www.bing.com/th?id=ONUT.KEV09czS1rkGT5xovKFswg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-02T21:35:00.000Z"
-    },
-    {
      "title": "Prix à la pompe : Jérôme Guedj veut plafonner les marges des raffineurs et accuse le gouvernement \"d'acheter du temps\"",
      "url": "https://www.melty.fr/people/prix-a-la-pompe-jerome-guedj-veut-plafonner-les-marges-des-raffineurs-et-accuse-le-gouvernement-dacheter-du-temps-2358956.html",
      "source": "Melty",
@@ -5444,14 +5464,6 @@
      "excerpt": "Invité de La Grande Interview ce lundi sur Europe 1, le député socialiste de l’Essonne Jérôme Guedj condamne fermement les violences et les pillages survenus depuis ...",
      "image": "https://www.bing.com/th?id=ONUT.w4hTBgQsceycbWPT5nvxLQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-02T00:56:00.000Z"
-    },
-    {
-     "title": "Colère sociale : «Le gouvernement procrastine», estime Jérôme Guedj",
-     "url": "https://www.europe1.fr/politique/colere-sociale-le-gouvernement-procrastine-estime-jerome-guedj-1202082",
-     "source": "Europe 1",
-     "excerpt": "Le député socialiste de l'Essonne Jérôme Guedj était l'invité de La Grande interview Europe 1-CNews ce lundi matin. Au micro de Laurence Ferrari, il estime que le ...",
-     "image": "https://www.bing.com/th?id=ONUT.LZJa6dnquiKXvf_z7G6cRA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-02T00:42:00.000Z"
     },
     {
      "title": "«Il faut planifier et réguler les flux d'immigration», plaide Jérôme Guedj",
@@ -5476,6 +5488,22 @@
      "excerpt": "Selon Jérôme Guedj, député socialiste de la 6e circonscription de l'Essonne, la gauche ne s'est jamais tue depuis le 17 octobre. Il affirme mépriser et détester ceux qui cassent, qui pillent et qui bl ...",
      "image": "https://www.bing.com/th?id=ONUT.YSJfk5S9CZyqz6Afqv_7qQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-01T23:18:39.000Z"
+    },
+    {
+     "title": "Jérôme Guedj",
+     "url": "https://www.lepoint.fr/tags/jerome-guedj/",
+     "source": "Le Point",
+     "excerpt": "Retrouvez toute l’actualité de Jérôme Guedj. Suivez nos dernières informations, reportages, décryptages et analyses sur Le Point.",
+     "image": null,
+     "date": "2026-10-27T17:00:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027: Raphaël Glucksmann désigné candidat de la gauche sociale-démocrate au terme de la primaire",
+     "url": "https://www.rfi.fr/fr/france/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-d%C3%A9sign%C3%A9-candidat-de-la-gauche-sociale-d%C3%A9mocrate-au-terme-de-la-primaire",
+     "source": "Radio France Internationale",
+     "excerpt": "Avec 66,17% des voix (79 613 voix), l'eurodéputé, partisan d'une rupture avec La France insoumise, remporte les faveurs des 120 587 votants de cette primaire, laissant loin derrière le premier ...",
+     "image": null,
+     "date": "2026-10-11T16:58:00.000Z"
     }
    ],
    "videos": [],
@@ -5717,7 +5745,7 @@
      "url": "https://www.msn.com/fr-fr/divertissement/g%C3%A9n%C3%A9ral/s%C3%A9gol%C3%A8ne-royal-et-fran%C3%A7ois-hollande-%C3%A0-38-ans-leur-fils-julien-est-pr%C3%AAt-%C3%A0-conqu%C3%A9rir-le-monde-entier-et-il-le-prouve-avec-cette-annonce-coup-de/ar-AA2hqxXq",
      "source": "Gala",
      "excerpt": "PHOTO - Ce vendredi 13 novembre, Julien Royal a partagé une excellente nouvelle sur son compte Instagram. Le réalisateur français de 38 ans, fils de Ségolène Royal et François Hollande, voit son derni ...",
-     "image": "https://www.bing.com/th?id=ONUT.Pz2Q6A9hrKXD-OIBLChIcw&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.yEJWsIsF5YLfwlYTO8aptg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T02:03:32.000Z"
     },
     {
@@ -5725,7 +5753,7 @@
      "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/l-ancien-president-francois-hollande-de-passage-a-grenoble-ce-lundi-16-novembre-9172963",
      "source": "ici",
      "excerpt": "L'ancien président de la République dédicacera son livre \"Unir - Nouveau monde, nouvelle gauche\" à la FNAC\" en fin d'après-midi. François Hollande se rendra aussi à Grenoble école de management (GEM) ...",
-     "image": "https://www.bing.com/th?id=ONUT.jIHDXXwYiAlT3tYFtTRUsQ&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-11-13T07:46:00.000Z"
     },
     {
@@ -5741,7 +5769,7 @@
      "url": "https://www.ladepeche.fr/2026/11/13/presidentielle-2027-christine-lagarde-francois-hollande-xavier-bertrand-les-francais-veulent-ils-vraiment-les-voir-candidats-a-lelysee-un-nouveau-13650849.php",
      "source": "La Dépêche",
      "excerpt": "Alors que les candidats à la présidentielle 2027 sont déjà nombreux, d'autres noms circulent comme François Hollande, Christine Lagarde ou Xavier Bertrand. Les Français soutiennent-ils leurs candidatu ...",
-     "image": "https://www.bing.com/th?id=ONUT.aKcW6-63XJFFCaQgWsYDBg&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.ikYmlqT4UPgZ4yzyYLDO7A&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T05:33:00.000Z"
     },
     {
@@ -5749,13 +5777,13 @@
      "url": "https://www.ledauphine.com/elections/2026/11/13/francois-hollande-sera-a-grenoble-ce-lundi",
      "source": "Le Dauphiné Libéré",
      "excerpt": "L’ancien président de la République, pressenti pour être candidat à la prochaine élection présidentielle , passera la journée du lundi 16 novembre ...",
-     "image": "https://www.bing.com/th?id=ONUT.MDp9sspjmGvxH7kTI00HPw&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.X8cb1TZVyA6q8Gm3YJ0uIg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T03:59:00.000Z"
     },
     {
      "title": "Salaires : François Hollande propose 200 euros de plus par mois, voici comment il veut les financer",
-     "url": "https://www.msn.com/fr-fr/actualite/other/salaires-fran%C3%A7ois-hollande-propose-200-euros-de-plus-par-mois-voici-comment-il-veut-les-financer/ar-AA2hjpLv",
-     "source": "Econostrum",
+     "url": "https://fr.news.yahoo.com/salaires-fran%C3%A7ois-hollande-propose-200-141700075.html",
+     "source": "Yahoo Actualités",
      "excerpt": "François Hollande propose d’augmenter le salaire des Français de 200 euros par mois pour augmenter le pouvoir d’achat. L’ancien président estime que les travailleurs pourraient gagner davantage grâce ...",
      "image": null,
      "date": "2026-11-12T06:17:00.000Z"
@@ -5773,7 +5801,7 @@
      "url": "https://www.parismatch.com/je-ne-lai-jamais-vu-autant-sur-terrain-drole-campagne-francois-hollande-6dlDS90EdqSRD4rBCz97Wn",
      "source": "Paris Match",
      "excerpt": "Ça commence souvent par une blague, avec François Hollande. « Je suis à la campagne, pas en campagne », répète-t-il depuis plusieurs mois, à chaque ­déplacement. L’ancien président ­parcourt ...",
-     "image": "https://www.bing.com/th?id=ONUT.3jLVHQPFNtxHSUUIcs1WVA&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.DNAxMVhWuCBVYNklzi3UUw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T23:00:00.000Z"
     },
     {
@@ -5781,7 +5809,7 @@
      "url": "https://www.capital.fr/economie-politique/200-euros-pour-les-salaries-francois-hollande-revient-dans-le-jeu-sur-le-front-du-pouvoir-d-achat-1531773",
      "source": "Capital",
      "excerpt": "L’ancien président de la République a proposé, dans une vidéo publiée sur X, d'augmenter les salaires de 200 euros. Pour mettre en place cette mesure, François Hollande préconise d'augmenter la TVA su ...",
-     "image": "https://www.bing.com/th?id=ONUT.aLEo4t7dcBZJZtVI8k3eVQ&pid=News&w=800&h=450&c=14",
+     "image": null,
      "date": "2026-11-11T11:58:00.000Z"
     },
     {
@@ -5789,7 +5817,7 @@
      "url": "https://www.europe1.fr/emissions/europe-1-soir/francois-hollande-candidat-en-2027-la-reponse-cash-de-jean-christophe-cambadelis-1226168",
      "source": "Europe 1",
      "excerpt": "«On sait très bien que c'est M. Le Pen qui gagne face à J-L Mélenchon» alerte A. Pannier-Runacher, co-responsable du programme de G. Attal ...",
-     "image": "https://www.bing.com/th?id=ONUT.YLJOlYLatQht7UPmnZ4BnA&pid=News&w=800&h=450&c=14",
+     "image": "https://www.bing.com/th?id=ONUT.3S6JESbrtgWv1LzN0aMXMQ&pid=News&w=800&h=450&c=14",
      "date": "2026-11-11T11:30:00.000Z"
     }
    ],
@@ -6221,20 +6249,20 @@
    },
    "news": [
     {
+     "title": "“J’aimerais encore mieux les couillons du milieu” : Pierre Perret, 92 ans, ne mâche pas ses mots concernant la présidentielle de 2027",
+     "url": "https://www.gala.fr/politique/j-aimerais-encore-mieux-les-couillons-du-milieu-pierre-perret-92-ans-ne-mache-pas-ses-mots-concernant-la-presidentielle-de-2027-20261114",
+     "source": "Gala",
+     "excerpt": "À 92 ans et fort de 70 ans de carrière, Pierre Perret fait son grand retour avec Leçon de vie, un album très grinçant. Dans un entretien accordé au Parisien, le chanteur a livré son regard sur l’élect ...",
+     "image": "https://www.bing.com/th?id=ONUT.AEw5Sc98MyEHZEtIoIzB9Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:51:00.000Z"
+    },
+    {
      "title": "“Un baiser empoisonné” : au salon du made in France à Paris, Teddy Riner prend clairement ses distances avec Emmanuel Macron",
      "url": "https://www.gala.fr/politique/un-baiser-empoisonne-au-salon-du-made-in-france-a-paris-teddy-riner-prend-clairement-ses-distances-avec-emmanuel-macron-20261114",
      "source": "Gala",
      "excerpt": "En pleine campagne pour l’élection présidentielle de 2027, Teddy Riner a profité d’une visite au salon du Made in France ce samedi 14 novembre 2026, pour affirmer ses distances avec le président Emman ...",
      "image": "https://www.bing.com/th?id=ONUT.k5ZKXdT4EpU3v8UCBCgrRA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T06:34:00.000Z"
-    },
-    {
-     "title": "“Il est clair que je soutiendrai au premier tour…” : Nicolas Sarkozy s’exprime sur la présidentielle de 2027",
-     "url": "https://www.gala.fr/politique/il-est-clair-que-je-soutiendrai-au-premier-tour-nicolas-sarkozy-s-exprime-sur-la-presidentielle-de-2027-20261114",
-     "source": "Gala",
-     "excerpt": "À l’approche du premier tour de la présidentielle de 2027, Nicolas Sarkozy s’est confié dans les colonnes du Figaro ce samedi 14 novembre. L’ancien chef de l’État esquisse sa stratégie électorale.",
-     "image": "https://www.bing.com/th?id=ONUT.oWeNmXw0PJq9UYEPwQAQjQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T01:07:00.000Z"
     },
     {
      "title": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
@@ -6291,6 +6319,14 @@
      "excerpt": "Retrouvez les résultats des élections municipales 2026 à Ivry-sur-Seine (94200). Premières tendances, qui évolueront selon l'avancement du dépouillement et les chiffres officiels, premiers chiffres de ...",
      "image": null,
      "date": "2026-10-25T17:00:00.000Z"
+    },
+    {
+     "title": "\"On ne cherche pas un accord politique\": sur les routes, le NPA en quête de parrainages",
+     "url": "https://www.france24.com/fr/info-en-continu/20261009-on-ne-cherche-pas-un-accord-politique-sur-les-routes-le-npa-en-qu%C3%AAte-de-parrainages",
+     "source": "France 24",
+     "excerpt": "Dans sa voiture personnelle, Selma Labib, candidate désignée par le NPA-Révolutionnaires, sillonne les routes sur ses jours de congés à la recherche du précieux sésame: les 500 parrainages de ...",
+     "image": null,
+     "date": "2026-10-09T10:09:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : le NPA-Anticapitaliste ne présente pas de candidat et soutient Mélenchon",
@@ -6390,8 +6426,24 @@
    },
    "news": [
     {
+     "title": "Ni café, ni jus d’orange : Christine Lagarde ne jure que par cette boisson miracle, « j'en bois des seaux tous les matins »",
+     "url": "https://www.msn.com/fr-fr/actualite/other/ni-caf%C3%A9-ni-jus-d-orange-christine-lagarde-ne-jure-que-par-cette-boisson-miracle-jen-bois-des-seaux-tous-les-matins/ar-AA2gBajC",
+     "source": "Grazia",
+     "excerpt": "À 70 ans, Christine Lagarde a ses petites habitudes pour bien commencer la journée. Et contrairement à beaucoup, ce n’est pas vers le café qu’elle se tourne au réveil, mais vers une autre boisson répu ...",
+     "image": null,
+     "date": "2026-11-14T11:01:41.000Z"
+    },
+    {
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Christine Lagarde, David Lisnard... Qui serait le meilleur candidat selon les électeurs de la droite et du centre?",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-christine-lagarde-david-lisnard-qui-serait-le-meilleur-candidat-selon-les-electeurs-de-la-droite-et-du-centre_AN-202611140332.html",
+     "source": "BFMTV",
+     "excerpt": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centr ...",
+     "image": "https://www.bing.com/th?id=ONUT.iKuqLTJ2HZ7nmx5-7L6wkQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:00:00.000Z"
+    },
+    {
      "title": "Christine Lagarde : à 15 ans, elle a été vice-championne de France dans une discipline exigeante devenue sport olympique pour la première fois à L...",
-     "url": "https://www.msn.com/fr-fr/actualite/other/christine-lagarde-%C3%A0-15-ans-elle-a-%C3%A9t%C3%A9-vice-championne-de-france-dans-une-discipline-exigeante-devenue-sport-olympique-pour-la-premi%C3%A8re-fois-%C3%A0-l/ar-AA2hpFO8",
+     "url": "https://www.msn.com/fr-fr/sport/g%C3%A9n%C3%A9ral/christine-lagarde-%C3%A0-15-ans-elle-a-%C3%A9t%C3%A9-vice-championne-de-france-dans-une-discipline-exigeante-devenue-sport-olympique-pour-la-premi%C3%A8re-fois-%C3%A0-l/ar-AA2hpFO8",
      "source": "Gala",
      "excerpt": "Avant d’être reconnue pour sa carrière politique, Christine Lagarde s’est illustrée dans le sport en pratiquant une discipline exigeante aujourd’hui devenue un sport olympique. Elle en a même été vice ...",
      "image": "https://www.bing.com/th?id=ONUT.4qNs8wONCQG9r-cMDo-f8w&pid=News&w=800&h=450&c=14",
@@ -6438,14 +6490,6 @@
      "date": "2026-11-13T03:11:00.000Z"
     },
     {
-     "title": "Emmanuel Lechypre face à Marc Fiorentino : Christine Lagarde est-elle la femme providentielle ? - 13/11",
-     "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-marc-fiorentino-christine-lagarde-est-elle-la-femme-providentielle-13-11_EN-202611130345.html",
-     "source": "BFMTV",
-     "excerpt": "Ce vendredi 13 novembre, le débat autour de Christine Lagarde qui a recueilli le plus fort taux de souhait de candidature à la présidentielle avec 22 % après sa démission de la BCE, a été abordé par M ...",
-     "image": "https://www.bing.com/th?id=ONUT.V7947XDLd7DSEVcrALNTZA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T00:18:00.000Z"
-    },
-    {
      "title": "Teddy Riner, Christine Lagarde… À droite et au centre, le risque d’un trop-plein de candidatures",
      "url": "https://www.la-croix.com/politique/teddy-riner-christine-lagarde-a-droite-et-au-centre-le-risque-d-un-trop-plein-de-candidatures-20261113",
      "source": "La Croix",
@@ -6468,14 +6512,6 @@
      "excerpt": "La présidentielle a déjà commencé... Retrouvez toutes les petites infos coulisse de la campagne. Arthur Asquin voit tout, entend tout, et vous ne raterez rien, du lundi au vendredi, dans le Morning RM ...",
      "image": null,
      "date": "2026-11-12T16:00:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Christine Lagarde crée la surprise dans les intentions de vote",
-     "url": "https://www.ohmymag.com/people/actu-people/art188254-presidentielle-2027-christine-lagarde-cree-la-surprise-dans-les-intentions-de-vote.html",
-     "source": "Ohmymag",
-     "excerpt": "Christine Lagarde atteint 14% dans un sondage, bouscule le centre et alimente les spéculations sur une possible candidature à la présidentielle 2027.",
-     "image": "https://www.bing.com/th?id=ONUT.uJfMeBPEQpL25ZW-Rks-vA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T12:30:00.000Z"
     }
    ],
    "videos": [],
@@ -6668,6 +6704,14 @@
      "excerpt": "Samedi 7 novembre, le conseiller municipal RN de Lanton accueillait Francis Lalanne, candidat à la présidentielle, qui devait être associé à Dieudonné dont la venue a été interdite par la préfecture.",
      "image": "https://www.bing.com/th?id=ONUT.04cc6RCcqQyFO7pxwN7EQw&pid=News&w=800&h=450&c=14",
      "date": "2026-11-09T03:17:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : ils sont déjà plus de 30 à vouloir entrer à l’Élysée, qui sont les candidats déclarés ?",
+     "url": "https://www.zinfos974.com/presidentielle-2027-ils-sont-deja-pres-de-30-a-vouloir-entrer-a-lelysee-qui-sont-les-candidats-declares/",
+     "source": "Zinfos 974",
+     "excerpt": "À près de six mois de la prochaine élection présidentielle, près de 30 candidats ont déjà annoncé leur intention de briguer la présidence.",
+     "image": "https://www.bing.com/th?id=ONUT.IDjo2KwmLoqL7mSLIxMcOg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-08T02:31:00.000Z"
     },
     {
      "title": "Bassin d'Arcachon : la préfète interdit \"toute représentation\" de Dieudonné, Francis Lalanne riposte",
@@ -6914,20 +6958,20 @@
      "date": "2026-07-10T08:33:00.000Z"
     },
     {
-     "title": "Résultat élection présidentielle 2022 : Saint-Jean-de-Boiseau (44640)",
-     "url": "https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/saint-jean-de-boiseau/elections/archives/2022-presidentielle",
-     "source": "ici",
-     "excerpt": "Lors du deuxième tour de l'élection présidentielle 2022, le président sortant Emmanuel MACRON (LREM) arrive en tête à Saint-Jean-de-Boiseau et remporte l'adhésion de 66,9 % des votants s'étant exprimé ...",
-     "image": "https://www.bing.com/th?id=ONUT.oe7QXQ7SnEvMyv93unhN9A&pid=News&w=800&h=450&c=14",
-     "date": "2026-04-29T08:57:00.000Z"
-    },
-    {
      "title": "Jean Lassale",
      "url": "https://www.lefigaro.fr/tag/jean-lassale",
      "source": "Le Figaro",
      "excerpt": "Découvrez la biographie de Jean Lassale. Reparcourez sa vie, les événements marquants et ses dernières actualités.",
      "image": null,
      "date": "2022-07-08T04:00:00.000Z"
+    },
+    {
+     "title": "Présidentielle : le programme de Jean Lassalle (Résistons!) en 3 minutes chrono",
+     "url": "https://www.latribune.fr/economie/france/presidentielle-le-programme-de-jean-lassalle-resistons-en-3-minutes-chrono-912735.html",
+     "source": "La Tribune",
+     "excerpt": "SYNTHÈSE. Les Français ont tenté de suivre une campagne présidentielle atone avec en toile de fond la guerre en Ukraine concluant un quinquennat chamboulé par la crise des \"Gilets jaunes\" et la pandém ...",
+     "image": "https://www.bing.com/th?id=ONUT.zJaYhFlm15JGCJuyH-0cJw&pid=News&w=800&h=450&c=14",
+     "date": "2022-04-08T12:00:00.000Z"
     }
    ],
    "videos": [],
@@ -7123,6 +7167,14 @@
      "date": "2026-11-13T05:40:00.000Z"
     },
     {
+     "title": "Présidentielle : l’étrange campagne du non-candidat Bruno Le Maire",
+     "url": "https://www.lejdd.fr/politique/presidentielle-letrange-campagne-du-non-candidat-bruno-le-maire-188541",
+     "source": "Le Journal du Dimanche",
+     "excerpt": "REPORTAGE. À Paris, le 12 novembre, Bruno Le Maire a présenté cinquante propositions pour « une autre France », sans se déclarer candidat à l’Élysée. Entre références à Churchill et projet de refonte ...",
+     "image": null,
+     "date": "2026-11-13T04:38:00.000Z"
+    },
+    {
      "title": "Présidentielle 2027 : Bruno Le Maire n'est pas encore candidat, mais 89 % des Français n'en veulent pas",
      "url": "https://www.lejdd.fr/politique/presidentielle-2027-bruno-le-maire-nest-pas-encore-candidat-mais-89-des-francais-nen-veulent-pas-188556",
      "source": "Le Journal du Dimanche",
@@ -7153,14 +7205,6 @@
      "excerpt": "Je ressens dans mes déplacements une attente très forte des Français qui se sentent prisonniers de l’offre politique et ne voient pas un chemin. La France est foutue, me disent-ils et ça me fait mal a ...",
      "image": "https://www.bing.com/th?id=ONUT.kkNRSxLEz0UYCdwPhQFA4w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-12T12:19:00.000Z"
-    },
-    {
-     "title": "Bruno Le Maire : « pas encore candidat », mais il présente quand même son programme",
-     "url": "https://www.tf1.fr/fr-lu/tmc/quotidien-avec-yann-barthes/videos/bruno-le-maire-pas-encore-candidat-mais-il-presente-quand-meme-son-programme-18523000.html",
-     "source": "TF1",
-     "excerpt": "[VIDÉO] extract en streaming sur TF1+ Luxembourg 🇱🇺 ▶️ 251 - L’ancien ministre de l’Économie Bruno Le Maire a présenté un programme de 50 propositions dans un club privé près de l’Élysée, sans QG ni ...",
-     "image": null,
-     "date": "2026-11-12T12:15:00.000Z"
     }
    ],
    "videos": [],
@@ -7282,10 +7326,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 34.2,
+    "avg": 34.1,
     "min": 27,
     "max": 38,
-    "n": 63,
+    "n": 69,
     "history": [
      {
       "date": "2023-09-11",
@@ -7571,6 +7615,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 31.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 32.4
      }
     ],
     "rank": 1
@@ -7593,6 +7642,62 @@
     "tiktok": "mlp.officiel"
    },
    "news": [
+    {
+     "title": "Présidentielle 2027 : Marine Le Pen large favorite des deux tours selon un nouveau sondage, Teddy Riner crédité de 4 %",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-large-favorite-des-deux-tours-selon-dun-nouveau-sondage-teddy-riner-credite-de-4-14-11-2026-ZLZO7KJKCNGVHGZGY4HJNTZXGU.php",
+     "source": "Le Parisien",
+     "excerpt": "Si la candidate du RN Marine Le Pen fait la course en tête depuis plusieurs semaines, la perspective d’une primaire à droite et au centre et ...",
+     "image": "https://www.bing.com/th?id=ONUT.HYx9_zdA7uskxdcvUojp4g&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:34:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027: un sondage place Marine Le Pen en tête du premier tour et Teddy Riner devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-un-sondage-place-marine-le-pen-en-tete-du-premier-tour-et-teddy-riner-devant-gabriel-attal-et-bruno-retailleau-20261114",
+     "source": "Figaro Live",
+     "excerpt": "Marine Le Pen est toujours très largement en tête des intentions de vote au premier tour de la présidentielle, devant Jean-Luc Mélenchon qui s'installe à la 2e place, tandis qu'Édouard Philippe et Rap ...",
+     "image": "https://www.bing.com/th?id=ONUT.xqV-7U1jcRbtt94RB0voGQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:16:00.000Z"
+    },
+    {
+     "title": "Dans son long texte sur la guerre en Ukraine, Emmanuel Macron s’adresse surtout à Marine Le Pen",
+     "url": "https://www.msn.com/fr-fr/actualite/other/dans-son-long-texte-sur-la-guerre-en-ukraine-emmanuel-macron-s-adresse-surtout-%C3%A0-marine-le-pen/ar-AA2hrhXn",
+     "source": "Le HuffPost",
+     "excerpt": "Le président de la République a fait part de ses craintes à l’égard de celles et ceux qui sont en faveur d’une réduction de l’aide à l’Ukraine.",
+     "image": null,
+     "date": "2026-11-14T13:03:07.000Z"
+    },
+    {
+     "title": "Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %",
+     "url": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-un-sondage-donne-marine-le-pen-largement-en-tete-jean-luc-melenchon-deuxieme-et-teddy-riner-a-4-5-31529430.php",
+     "source": "Sud Ouest",
+     "excerpt": "La candidate du Rassemblement national recueillerait entre 31 % et 33 % des voix au premier tour, selon les configurations testées ...",
+     "image": "https://www.bing.com/th?id=ONUT.CCjMPyzunEqjYbJUFoF_JQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:46:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 Teddy Riner crédité de 4,5% des intentions de vote, Marine Le Pen toujours en tête",
+     "url": "https://www.ledauphine.com/elections/2026/11/14/teddy-riner-credite-de-4-5-des-intentions-de-vote-marine-le-pen-toujours-en-tete",
+     "source": "Le Dauphiné Libéré",
+     "excerpt": "Un sondage Elabe publié ce samedi crédite le judoka candidat à la présidentielle de 4,5% des intentions de vote. Marine Le Pen reste loin devant tout le monde.",
+     "image": "https://www.bing.com/th?id=ONUT.ZWYR3sYjlrF1oCPmkX-NLA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:36:00.000Z"
+    },
+    {
+     "title": "Ukraine : Emmanuel Macron alerte sur les dangers d’une « paix injuste » après les déclarations de Marine Le Pen",
+     "url": "https://www.20minutes.fr/monde/ukraine/4262895-20261114-ukraine-emmanuel-macron-alerte-dangers-paix-injuste-apres-declarations-marine-pen",
+     "source": "20 Minutes",
+     "excerpt": "Dans un message publié samedi sur X, Emmanuel Macron a défendu la poursuite de l’aide à Kiev, mettant en garde contre les conséquences d’une « paix injuste » pour la sécurité de l’Europe ...",
+     "image": "https://www.bing.com/th?id=ONUT.eIOOZQzfkv663j-5WlKUMA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:49:00.000Z"
+    },
+    {
+     "title": "Emmanuel Macron attaque Marine Le Pen sur son projet de tarir les aides à l'Ukraine, sans épargner Mélenchon",
+     "url": "https://www.laprovence.com/article/elections/8017145596007314/emmanuel-macron-attaque-marine-le-pen-sur-son-projet-de-tarir-les-aides-a-lukraine-sans-epargner-melenchon",
+     "source": "La Provence",
+     "excerpt": "Dans un message sur X, le président français juge irresponsable la proposition de Marine Le Pen d'arrêter de verser de l'argent à l'Ukraine pour se défendre face à l'envahisseur russe. Emmanuel Macron ...",
+     "image": "https://www.bing.com/th?id=ONUT.lxoiMUTxEucz963-nQLzWQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:27:00.000Z"
+    },
     {
      "title": "Présidentielle : il manque encore 100 parrainages à Marine Le Pen, où en sont ses concurrents ?",
      "url": "https://www.lejdd.fr/politique/presidentielle-il-manque-encore-100-parrainages-a-marine-le-pen-ou-en-sont-ses-concurrents-188616",
@@ -7632,54 +7737,6 @@
      "excerpt": "Le salon du Made in France était le théâtre de la campagne présidentielle ce vendredi 13 novembre à Paris. De nombreux candidats s’y sont rendus, dont Marine Le Pen, venue quelques minutes après ...",
      "image": "https://www.bing.com/th?id=ONUT.7J60By-pc4zOqZcZktSF9A&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T15:24:00.000Z"
-    },
-    {
-     "title": "Guerre en Ukraine : Marine Le Pen se dit prête à rencontrer Volodymyr Zelensky à Bruxelles",
-     "url": "https://www.cnews.fr/monde/2026-11-13/guerre-en-ukraine-marine-le-pen-se-dit-prete-rencontrer-volodymyr-zelensky",
-     "source": "CNEWS",
-     "excerpt": "Marine Le Pen rencontrera lundi à huis-clos l'ambassadeur d'Ukraine en France, Vadym Omelchenko. Elle aimerait lui soumettre l'idée d'un échange avec Volodymyr ...",
-     "image": "https://www.bing.com/th?id=ONUT.dxlOWSms9yci9IPSkQRRHA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T12:53:00.000Z"
-    },
-    {
-     "title": "Invitée - Marion Van Renterghem : Giorgia Meloni, Marine Le Pen, Alice Weidel, ces « Femmes extrêmes » qui fascinent",
-     "url": "https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invitee-marion-van-renterghem-giorgia-meloni-marine-le-pen-alice-weidel-ces-femmes-extremes-qui-fascinent-60225051.html",
-     "source": "TF1",
-     "excerpt": "[VIDÉO] extract en streaming sur TF1+ ▶️ 539 - Marion Van Renterghem, grande journaliste internationale, a été reçue pour « Femmes extrêmes » (Les Arènes), une enquête sur trois femmes d’extrême droit ...",
-     "image": "https://www.bing.com/th?id=ONUT.ueKGsyQCEOuxXcv8JBfFSg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T11:30:00.000Z"
-    },
-    {
-     "title": "Marine Le Pen prête à une rencontre avec Zelensky, propose qu'elle ait lieu à Bruxelles",
-     "url": "https://www.france24.com/fr/info-en-continu/20261113-marine-le-pen-pr%C3%AAte-%C3%A0-une-rencontre-avec-zelensky-propose-qu-elle-ait-lieu-%C3%A0-bruxelles",
-     "source": "France 24",
-     "excerpt": "Marine Le Pen s'est dite prête vendredi à une rencontre avec le président ukrainien Volodymyr Zelensky et a proposé qu'elle ait lieu à Bruxelles, pour parler notamment du \"financement\" de l'Ukraine.",
-     "image": null,
-     "date": "2026-11-13T10:19:00.000Z"
-    },
-    {
-     "title": "France: Marine Le Pen prête à une rencontre avec Volodymyr Zelensky et propose qu'elle ait lieu à Bruxelles",
-     "url": "https://www.rfi.fr/fr/en-bref/20261113-france-marine-le-pen-pr%C3%AAte-%C3%A0-une-rencontre-avec-volodymyr-zelensky-et-propose-qu-elle-ait-lieu-%C3%A0-bruxelles",
-     "source": "Radio France Internationale",
-     "excerpt": "Marine Le Pen s'est dite prête vendredi 13 novembre à une rencontre avec le président ukrainien Volodymyr Zelensky, et a proposé qu'elle ait lieu à Bruxelles, pour parler notamment du « financement ...",
-     "image": "https://www.bing.com/th?id=ONUT.Ou1BIosTd5ftk2mgYwNctw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T09:42:00.000Z"
-    },
-    {
-     "title": "Salon Made in France : Marine Le Pen, chahutée à son arrivée, appelle Jean-Luc Mélenchon \"à laisser les autres candidats faire campagne\"",
-     "url": "https://actu.orange.fr/politique/salon-made-in-france-marine-le-pen-chahutee-a-son-arrivee-appelle-jean-luc-melenchon-a-laisser-les-autres-candidats-faire-campagne-l-express-via-6medias-CNT000002tI2aG.html",
-     "source": "Actualités – Orange",
-     "excerpt": "Lors de sa venue au salon Made in France vendredi 13 novembre, Marine Le Pen a demandé à Jean-Luc Mélenchon que ses militants arrêtent les intimidations envers les autres candidats. Un appel qui est i ...",
-     "image": null,
-     "date": "2026-11-13T09:38:00.000Z"
-    },
-    {
-     "title": "Marine Le Pen prête à rencontrer Volodymyr Zelensky pour discuter de l'aide financière à l'Ukraine",
-     "url": "https://www.tf1info.fr/politique/elections/presidentielle/marine-le-pen-prete-a-rencontrer-volodymyr-zelensky-pour-discuter-de-l-aide-financiere-a-l-ukraine-2475755.html",
-     "source": "TF1 INFO",
-     "excerpt": "[VIDÉO] Après avoir annoncé son intention de mettre fin à l'aide financière à Kiev si elle accède à l'Elysée, Marine Le Pen se dit prête à une rencontre avec Volodymyr Zelensky. Elle pourrait avoir li ...",
-     "image": null,
-     "date": "2026-11-13T09:38:00.000Z"
     }
    ],
    "videos": [
@@ -7861,10 +7918,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 8.2,
+    "avg": 8.3,
     "min": 4,
     "max": 17,
-    "n": 28,
+    "n": 31,
     "history": [
      {
       "date": "2026-06-24",
@@ -7970,6 +8027,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 9.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 9.2
      }
     ],
     "rank": 5
@@ -7987,6 +8049,22 @@
    },
    "news": [
     {
+     "title": "David Lisnard, sa femme Jacqueline Pozzi s’épanouit dans le journalisme : de l’Alsace à la Côte d’Azur, découvrez le brillant CV de l’épouse du ca",
+     "url": "https://www.msn.com/fr-fr/actualite/other/david-lisnard-sa-femme-jacqueline-pozzi-s-%C3%A9panouit-dans-le-journalisme-de-l-alsace-%C3%A0-la-c%C3%B4te-d-azur-d%C3%A9couvrez-le-brillant-cv-de-l-%C3%A9pouse-du-ca/ar-AA2hraNn",
+     "source": "Gala",
+     "excerpt": "Très discret sur sa vie privée, le candidat à l’élection présidentielle David Lisnard s’est affiché complice avec son épouse Jacqueline Pozzi lors des commémorations du 11-Novembre à Cannes. L’occasio ...",
+     "image": "https://www.bing.com/th?id=ONUT.iwkCb05tM_Lln8sov0IB4Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:11:00.000Z"
+    },
+    {
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Christine Lagarde, David Lisnard... Qui serait le meilleur candidat selon les électeurs de la droite et du centre?",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-christine-lagarde-david-lisnard-qui-serait-le-meilleur-candidat-selon-les-electeurs-de-la-droite-et-du-centre_AN-202611140332.html",
+     "source": "BFMTV",
+     "excerpt": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centr ...",
+     "image": "https://www.bing.com/th?id=ONUT.iKuqLTJ2HZ7nmx5-7L6wkQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:00:00.000Z"
+    },
+    {
      "title": "Élection présidentielle : le parti politique de David Lisnard compte plus de 1 600 adhérents dans le 64",
      "url": "https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/pau/election-presidentielle-le-parti-politique-de-david-lisnard-compte-plus-de-1-600-adherents-dans-le-64-31527182.php",
      "source": "La République des Pyrénées",
@@ -8003,12 +8081,12 @@
      "date": "2026-11-14T06:10:00.000Z"
     },
     {
-     "title": "La primaire de la droite peut-elle freiner la dynamique de David Lisnard?",
-     "url": "https://www.msn.com/fr-fr/actualite/other/la-primaire-de-la-droite-peut-elle-freiner-la-dynamique-de-david-lisnard/vi-AA2hrdwq",
-     "source": "Dailymotion",
-     "excerpt": "Chaque vendredi, samedi et dimanche, invités et chroniqueurs sont autour du micro de Hélène Roué pour débattre des actualités du jour.",
-     "image": "https://www.bing.com/th?id=ONUT.0D8uDPxNOZIopOz7063RiQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T05:59:54.000Z"
+     "title": "La primaire de la droite peut-elle freiner la dynamique de David Lisnard ?",
+     "url": "https://www.europe1.fr/emissions/europe-1-soir-0/la-primaire-de-la-droite-peut-elle-freiner-la-dynamique-de-david-lisnard-1233122",
+     "source": "Europe 1",
+     "excerpt": "«Il faut dire stop à ceux qui décident ce qui peut se dire et ce qui ne peut pas se dire», s'indigne Nathalie Loiseau, porte-parole de la campagne d'Édouard Philippe ...",
+     "image": "https://www.bing.com/th?id=ONUT.yjGhuz9qEEM8wxLL_iGiDw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T05:51:00.000Z"
     },
     {
      "title": "Hervé Novelli : « David Lisnard est porteur d'une espérance, il comprend les entrepreneurs ! »",
@@ -8041,22 +8119,6 @@
      "excerpt": "EN IMAGES - David Lisnard et son épouse Jacqueline Pozzi ont été aperçus ce mercredi 11 novembre à Cannes lors de la commémoration de l'anniversaire de l'armistice de 1918.",
      "image": "https://www.bing.com/th?id=ONUT.R6iYaZpe1QxHxHT-SbQ-8Q&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T09:23:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : «David Lisnard devrait clairement refuser de participer à la primaire de la droite et du centre», pointe Ivan Rioufol",
-     "url": "https://www.cnews.fr/france/2026-11-13/presidentielle-2027-david-lisnard-devrait-clairement-refuser-de-participer-la",
-     "source": "CNEWS",
-     "excerpt": "«David Lisnard devrait clairement refuser de participer à la primaire de la droite et du centre», a pointé le journaliste Ivan Rioufol ...",
-     "image": null,
-     "date": "2026-11-13T09:01:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Éric Zemmour appelle David Lisnard à l’inclure dans la primaire de la droite, Edouard Philippe ne veut toujours pas y participer",
-     "url": "https://www.midilibre.fr/2026/11/13/presidentielle-2027-eric-zemmour-souhaite-sinviter-a-la-primaire-de-la-droite-et-du-centre-edouard-philippe-refuse-tout-scrutin-13650945.php",
-     "source": "Midi Libre",
-     "excerpt": "Ce vendredi 13 novembre, le candidat Reconquête à la présidentielle Éric Zemmour a appelé David Lisnard à \"résister à la pression\" des Républicains pour intégrer son parti à une primaire de la droite ...",
-     "image": "https://www.bing.com/th?id=ONUT.7X7D5seeKLGmu0Xi3Aapqg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T06:59:00.000Z"
     }
    ],
    "videos": [
@@ -8120,15 +8182,6 @@
    "posts": [],
    "podcasts": [
     {
-     "title": "Les Partis pris : \"100 000 adhérents : David Lisnard, 2ème parti de France\", \"Nvidia : un amour à la solde de Pékin\" et \"Natalité : une fille, sinon rien\"",
-     "show": "24H Pujadas",
-     "url": "https://podcasts.apple.com/fr/podcast/les-partis-pris-100-000-adh%C3%A9rents-david-lisnard-2%C3%A8me/id1547405499?i=1000800099169&uo=4",
-     "audio": "https://audio.audiomeans.fr/file/PcNCvtcnHj/dadb6d7e-1386-4ae7-bd31-b7ae8b7ef42a.mp3?_=1793907098",
-     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/ca/85/5cca8526-4d21-5028-440c-2a0eef7aafb7/mza_1995803898494861250.jpg/600x600bb.jpg",
-     "date": "2026-11-05T19:30:11.000Z",
-     "duration": 20
-    },
-    {
      "title": "\"David Lisnard, c'est  le Mylène Farmer de la politique\"",
      "show": "L'œil de Philippe Caverivière",
      "url": "https://podcasts.apple.com/fr/podcast/david-lisnard-cest-le-myl%C3%A8ne-farmer-de-la-politique/id1477882043?i=1000799334493&uo=4",
@@ -8145,6 +8198,15 @@
      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/4e/9f/0e/4e9f0e7a-f61d-78c3-afca-49ababb83e39/mza_12206501368568290046.jpeg/600x600bb.jpg",
      "date": "2026-10-29T16:27:01.000Z",
      "duration": 28
+    },
+    {
+     "title": "Le football, la littérature, son ambition… Les confidences de David Lisnard",
+     "show": "Empreintes 2027",
+     "url": "https://podcasts.apple.com/fr/podcast/le-football-la-litt%C3%A9rature-son-ambition-les-confidences/id6823556878?i=1000796643246&uo=4",
+     "audio": "https://audio.ausha.co/263zdhqZw171.mp3?t=1792073677",
+     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/59/43/ed5943d5-f9d1-840c-698d-20a73cfe9a2f/mza_14627205476915998176.jpeg/600x600bb.jpg",
+     "date": "2026-10-16T09:50:31.000Z",
+     "duration": 55
     },
     {
      "title": "L'analyse du jour - Charles Consigny : \"David Lisnard, il n'y a que des gens qui ont du pognon qui m'en parlent... alors même que les mesures qu'il prescrit seraient bonnes pour les classes populaires\" - 15/10",
@@ -8282,12 +8344,12 @@
      "date": "2026-11-08T02:31:00.000Z"
     },
     {
-     "title": "\"Laissons la campagne prospérer\" : Édouard Philippe rejette toujours la primaire de la droite et du centre",
-     "url": "https://www.tf1info.fr/politique/elections/presidentielle/video-laissons-la-campagne-prosperer-edouard-philippe-rejette-toujours-la-primaire-de-la-droite-et-du-centre-2474567.html",
+     "title": "Un porc-épic à crête a été aperçu pour la première fois en France : que faut-il savoir sur cet animal ?",
+     "url": "https://www.tf1info.fr/environnement-ecologie/un-porc-epic-a-crete-a-ete-apercu-pour-la-premiere-fois-en-france-que-faut-il-savoir-sur-cet-animal-2473844.html",
      "source": "TF1 INFO",
-     "excerpt": "[VIDÉO] Dans \"La Tribune dimanche\", 65 parlementaires plaident pour une primaire de la droite et du centre. Ils veulent éviter un second tour qu'ils qualifient de \"mortifère\", entre Le Pen et Mélencho ...",
+     "excerpt": "[VIDÉO] Un couple de passionnés de nature a réussi à filmer un porc-épic à crête fin septembre 2026. C’est la première fois qu’une telle espèce est observée à l’état sauvage en France. Voici ce qu’il ...",
      "image": null,
-     "date": "2026-11-08T01:52:00.000Z"
+     "date": "2026-11-07T00:00:00.000Z"
     },
     {
      "title": "\"Ils sont malades\" : à six mois de la présidentielle, Vianney ne prend pas de pincettes avec les candidats",
@@ -8406,14 +8468,6 @@
      "date": "2026-06-14T07:00:00.000Z"
     },
     {
-     "title": "\"C'est la première fois que je viens en Creuse\" : à 27 ans, il parcourt la France à vélo pour devenir Président",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWEhBV1pzay1rRXFEV1dMd2t0bmkzcm5YMHk3bzZUMDZJQm4wY2ZVSGdxdUpVNGppTUF2TlNGUndNX1FyZXVNR2tqTndja0w2c1dGRi1OY1M0cmZ5b3FieUVnVlF5NzlzMXZOOU8zeUNDUkVVX1VuSTAyX2xXVklTdUVUclZlX3dqM1p0bkJ3cHQ0aFNMSU1XRmRHbVExeHVuMEZWR0JFLXVfeFlVdS02VVFjNG1qZ1VEenlJVDhMN0ZFY3RoSWtWbDhJakFYcTNGS0FFdXd4eHpKU0NMSFBHSWpJa2NXQThkeE04Wkk5QWIwY0V0eXl0X1BaUldXakN1TW1GRnpja3g0UQ?oc=5",
-     "source": "ici.fr",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-07-30T07:00:00.000Z"
-    },
-    {
      "title": "Annonay. Benoît Mathieu parcourt la région à vélo en vue de l'élection présidentielle",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWZmY1l3eldTVVgyMnp0RVZ5STNWYkVpa0hQX2ZtejdXa29HZWFkRjluUUktcUN2YWE4VFZYWGd1WllvVUpmV3hjZm90TTlBdnU4amFSSHBCdlJJRnprWkVyU1FMOFVyQlRUbVZWSDB1NDNkLXpxekNLRXZYTFV1ekV3NnlkWHhBQ2Y2c2FGRFU2VVVfT1I4SG10Z3FyOUFMOG9CSnZ3QlFWeENJN0RUY09wRFpKZjFNRVdfTGhWOUFrUG8?oc=5",
      "source": "Le Dauphiné Libéré",
@@ -8500,6 +8554,14 @@
      "excerpt": null,
      "image": null,
      "date": "2026-05-22T07:00:00.000Z"
+    },
+    {
+     "title": "Benoît Mathieu parcourt 4.338 km à vélo pour obtenir 500 parrainages à Clergoux pour l'élection présidentielle",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXJTWEVVSEVqMW9ZWHVfLXV6OXByWGVHSjg1STZqam5YTFUwckhrdlBvdWVDdWc3eDhjM3pxc2NucVgzYUVnWXhVRkdRdURtUVFNaVROVC1sWU9XODE5c2c5azdnZnNJbDhyYUpPekw1Znh5ZUdWZnBwNHd5Q3R6SWdXV2doem1YYUoyYU13bXcxWEhBaldkVUZLN05SeDJSZ3VXUjE1SGgtRkZZZmxxb1FCeFBIdWZqQnB1Z1E3UWNfUTNRaHAwYkRVTEVxUmlxVEYzZVoxdllVWEFxZTd5djBOUVdCdVIzX3BHcDBfVE5TMkhQYnYxNGhaaHlHa1o3TUE?oc=5",
+     "source": "La Montagne",
+     "excerpt": null,
+     "image": null,
+     "date": "2026-08-07T07:00:00.000Z"
     }
    ],
    "videos": [],
@@ -8860,7 +8922,7 @@
     "avg": 17.1,
     "min": 13,
     "max": 20.5,
-    "n": 63,
+    "n": 69,
     "history": [
      {
       "date": "2023-09-11",
@@ -9186,6 +9248,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 16
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 17.5
      }
     ],
     "rank": 2
@@ -9209,6 +9276,46 @@
    },
    "news": [
     {
+     "title": "SONDAGE. Présidentielle 2027 : Jean-Luc Mélenchon consolide sa deuxième place, Teddy Riner déjà devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.lindependant.fr/2026/11/14/sondage-presidentielle-2027-jean-luc-melenchon-consolide-sa-deuxieme-place-teddy-riner-deja-devant-gabriel-attal-et-bruno-retailleau-13653042.php",
+     "source": "L'Indépendant",
+     "excerpt": "À cinq mois de l'élection présidentielle, un sondage Elabe pour BFMTV et La Tribune du Dimanche, publié le 14 novembre, place Marine Le Pen en tête avec 31 à 33 % des intentions de vote. Jean-Luc Méle ...",
+     "image": "https://www.bing.com/th?id=ONUT.bf-MyaDv6yKXtwvBlnup5Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:57:00.000Z"
+    },
+    {
+     "title": "Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %",
+     "url": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-un-sondage-donne-marine-le-pen-largement-en-tete-jean-luc-melenchon-deuxieme-et-teddy-riner-a-4-5-31529430.php",
+     "source": "Sud Ouest",
+     "excerpt": "La candidate du Rassemblement national recueillerait entre 31 % et 33 % des voix au premier tour, selon les configurations testées ...",
+     "image": "https://www.bing.com/th?id=ONUT.CCjMPyzunEqjYbJUFoF_JQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:46:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
+     "source": "Le Figaro",
+     "excerpt": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucks ...",
+     "image": "https://www.bing.com/th?id=ONUT.pwzjvrODy5GYshAImuk8rg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:34:00.000Z"
+    },
+    {
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
+     "source": "BFMTV",
+     "excerpt": "Cinq mois avant le premier tour de l'élection présidentielle, Jean-Luc Mélenchon consolide sa deuxième place derrière Marine Le Pen, d'après le dernier sondage Elabe pour BFMTV et La Tribune dimanche.",
+     "image": "https://www.bing.com/th?id=ONUT.43LV88_m-mabPewNsX7sqA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:00:00.000Z"
+    },
+    {
+     "title": "Jean-Luc Mélenchon interdit d’entrée en Israël : décision controversée",
+     "url": "https://www.ohmymag.com/people/actu-people/art188265-jean-luc-melenchon-interdit-dentree-en-israel-decision-controversee.html",
+     "source": "Ohmymag",
+     "excerpt": "Jean-Luc Mélenchon et Mathilde Panot interdits d’entrée en Israël : analyse des motifs, des tensions autour de Gaza et des répercussions pour la scène politique française.",
+     "image": "https://www.bing.com/th?id=ONUT.bu0QJKGIi1gXiX2BPG6gHg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T07:30:00.000Z"
+    },
+    {
      "title": "«Jean-Luc Mélenchon est l'homme qui prend le parti de tous ceux qui détestent l'\"ancienne France\"», tacle Michel Onfray",
      "url": "https://www.cnews.fr/videos/france/2026-11-14/jean-luc-melenchon-est-lhomme-qui-prend-le-parti-de-tous-ceux-qui",
      "source": "CNEWS",
@@ -9225,20 +9332,12 @@
      "date": "2026-11-13T22:42:00.000Z"
     },
     {
-     "title": "Présidentielle 2027 : donné en tête à gauche et à plus de 20 % au premier tour, Jean-Luc Mélenchon est-il encore « sous-estimé » dans les sondages ?",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-donne-en-tete-a-gauche-et-a-plus-de-20-au-premier-tour-jean-luc-melenchon-est-il-encore-sous-estime-dans-les-sondages-14-11-2026-WPWG53BAPJH7XOI5CKDXVC4QYQ.php",
-     "source": "Le Parisien",
-     "excerpt": "L’Insoumis, qui n’a jamais été aussi haut dans les intentions de vote, est en mesure de se qualifier au second tour de l’élection présidenti ...",
-     "image": "https://www.bing.com/th?id=ONUT.bkLO6KDysoUz4K8_zTidRg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T22:16:00.000Z"
-    },
-    {
-     "title": "Teddy Riner candidat à l’Elysée en 2027, Jean-Luc Mélenchon donne son avis bien à lui sur le sujet : “Il faut qu’il se méfie des…”",
-     "url": "https://www.gala.fr/politique/teddy-riner-candidat-a-l-elysee-en-2027-jean-luc-melenchon-donne-son-avis-bien-a-lui-sur-le-sujet-il-faut-qu-il-se-mefie-des-20261113",
-     "source": "Gala",
-     "excerpt": "VIDÉO - Teddy Riner n’a pas attendu longtemps pour découvrir l’autre versant de la politique. Depuis son entrée dans la course à la présidentielle, les réactions se multiplient. Et une visite sur le t ...",
-     "image": "https://www.bing.com/th?id=ONUT.ubNMe03oJF2o7TRxptSEyA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T13:01:00.000Z"
+     "title": "\"Chaque semaine, quelqu’un nous contacte...\" : à Alès, La France insoumise mise sur les cafés citoyens pour accompagner la dynamique de Jean-Luc Mélenchon",
+     "url": "https://www.midilibre.fr/2026/11/13/chaque-semaine-quelquun-nous-contacte-a-ales-la-france-insoumise-mise-sur-les-cafes-citoyens-pour-accompagner-la-dynamique-de-jean-luc-melenchon-13651227.php",
+     "source": "Midi Libre",
+     "excerpt": "À Alès (Gard), les groupes d’action de La France insoumise ont décidé de lancer une série de cafés citoyens. Écologie, VIe République, partage des richesses et lutte contre l’extrême droite : les mili ...",
+     "image": "https://www.bing.com/th?id=ONUT.GueaOH2Fz6LhSKAT61ZphA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T10:31:00.000Z"
     },
     {
      "title": "Salon Made in France : Marine Le Pen, chahutée à son arrivée, appelle Jean-Luc Mélenchon \"à laisser les autres candidats faire campagne\"",
@@ -9255,22 +9354,6 @@
      "excerpt": "Jean-Luc Mélenchon et Mathilde Panot ne pourront plus poser le pied sur le territoire israélien. L’État hébreu a décidé, jeudi 12 novembre, « d’interdire d’entrée en Israël » les ...",
      "image": "https://www.bing.com/th?id=ONUT.oRqNSa0Vysr9-cQLBxKyug&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T08:30:00.000Z"
-    },
-    {
-     "title": "En Ukraine, la presse reproche à Jean-Luc Mélenchon son “socialisme à visage poutinien”",
-     "url": "https://www.courrierinternational.com/article/vu-de-kiev-en-ukraine-la-presse-reproche-a-jean-luc-melenchon-son-socialisme-a-visage-poutinien_286984",
-     "source": "Courrier International",
-     "excerpt": "Le candidat de La France insoumise n’est guère en odeur de sainteté en Ukraine, où les médias l’accusent de s’aligner ouvertement sur le discours du Kremlin.",
-     "image": "https://www.bing.com/th?id=ONUT.pLVIKQWdVZvSBT2k69HUBw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T04:15:00.000Z"
-    },
-    {
-     "title": "Israël interdit son territoire à Jean-Luc Mélenchon, le Quai d'Orsay dénonce de la démagogie",
-     "url": "https://www.marianne.net/politique/israel-interdit-son-territoire-a-jean-luc-melenchon-le-quai-d-orsay-denonce-de-la-demagogie",
-     "source": "Marianne",
-     "excerpt": "Israël a annoncé ce jeudi 12 novembre qu'il interdisait l'entrée sur son territoire au dirigeant de La France insoumise, Jean-Luc Mélenchon. Le chef de la diplomatie française a dénoncé une décision q ...",
-     "image": "https://www.bing.com/th?id=ONUT.CaT5GV4kWjEkxe1wPcN91g&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T02:32:00.000Z"
     }
    ],
    "videos": [
@@ -9454,14 +9537,6 @@
    },
    "news": [
     {
-     "title": "Candidats à la présidentielle 2027 : qui sont les candidats déclarés et pressentis ? Découvrez la liste à jour",
-     "url": "https://www.linternaute.com/actualite/politique/10536198-candidats-a-la-presidentielle-2027-qui-sont-les-candidats-declares-et-pressentis-decouvrez-la-liste-a-jour/",
-     "source": "Linternaute.com",
-     "excerpt": "La liste des candidats à l'élection présidentielle 2027 s'allonge semaine après semaine. Près de quarante prétendants ont officialisé leur candidature et d'autres noms de personnalités politiques ou i ...",
-     "image": "https://www.bing.com/th?id=ONUT.ZCg9sHjx_kBPhKOJ-_WdaQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T10:21:00.000Z"
-    },
-    {
      "title": "Mon fils président de Mathias Mlekuz",
      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044336.html",
      "source": "AlloCiné",
@@ -9548,6 +9623,14 @@
      "excerpt": "Critique du film \"Mon fils président\" réalisé par Mathias Mlekuz, voyage familial sur les routes de France à la recherche de 500 parrainages ...",
      "image": null,
      "date": "2026-11-01T04:00:00.000Z"
+    },
+    {
+     "title": "\"Il y a un vrai problème d'écoute\" : à 20 ans il est candidat à la présidentielle et cherche des parrainages en Isère",
+     "url": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/il-y-a-un-vrai-probleme-d-ecoute-a-20-ans-il-est-candidat-a-la-presidentielle-et-cherche-des-parrainages-en-isere-6140683",
+     "source": "ici",
+     "excerpt": "Manolo Mlekuz, étudiant en histoire, est en quête des 500 parrainages nécessaires pour se présenter en 2027 et porter son projet : adopter une nouvelle constitution écrite par des citoyens tirés au so ...",
+     "image": null,
+     "date": "2026-10-30T03:21:00.000Z"
     }
    ],
    "videos": [],
@@ -9605,10 +9688,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 13.6,
+    "avg": 13.5,
     "min": 8,
     "max": 20,
-    "n": 44,
+    "n": 48,
     "history": [
      {
       "date": "2023-09-11",
@@ -9934,6 +10017,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 12
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 12.4
      }
     ],
     "rank": 3
@@ -9956,6 +10044,22 @@
     "tiktok": null
    },
    "news": [
+    {
+     "title": "Présidentielle 2027 : Gérard Larcher veut réunir les candidats de la droite et du centre, la pression monte sur Édouard Philippe",
+     "url": "https://www.cnews.fr/france/2026-11-14/presidentielle-2027-gerard-larcher-veut-reunir-les-candidats-de-la-droite-et-du",
+     "source": "CNEWS",
+     "excerpt": "Gérard Larcher monte au créneau : le président du Sénat a proposé samedi de réunir les candidats de la droite et du centre pour aboutir à une «méthode de départage» ...",
+     "image": "https://www.bing.com/th?id=ONUT.ca7VwBPdKBASMaCfMZls3Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:34:00.000Z"
+    },
+    {
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Christine Lagarde, David Lisnard... Qui serait le meilleur candidat selon les électeurs de la droite et du centre?",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-edouard-philippe-christine-lagarde-david-lisnard-qui-serait-le-meilleur-candidat-selon-les-electeurs-de-la-droite-et-du-centre_AN-202611140332.html",
+     "source": "BFMTV",
+     "excerpt": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centr ...",
+     "image": "https://www.bing.com/th?id=ONUT.iKuqLTJ2HZ7nmx5-7L6wkQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:00:00.000Z"
+    },
     {
      "title": "INFO BFMTV. Présidentielle 2027: Nicolas Sarkozy et Édouard Philippe ont déjeuné sur fond de primaire",
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/info-bfmtv-presidentielle-2027-nicolas-sarkozy-et-edouard-philippe-ont-dejeune-sur-fond-de-primaire_AN-202611140179.html",
@@ -9997,6 +10101,14 @@
      "date": "2026-11-13T09:09:00.000Z"
     },
     {
+     "title": "« On n’a plus le droit de rien dire » : Christelle Morançais soutient Edouard Philippe après ses propos sur les casseurs",
+     "url": "https://www.ouest-france.fr/politique/christelle-morancais/on-na-plus-le-droit-de-rien-dire-christelle-morancais-soutient-edouard-philippe-apres-ses-propos-sur-les-casseurs-c8ad4fba-df75-11f1-b029-43a761592972",
+     "source": "Ouest-France",
+     "excerpt": "Invitée, jeudi 12 novembre, d’Ouest-France et Télénantes, la présidente de la Région Pays de la Loire a défendu Edouard Philippe, après ses propos polémiques. Le candidat à la présidentielle a estimé ...",
+     "image": null,
+     "date": "2026-11-13T08:51:00.000Z"
+    },
+    {
      "title": "Faut-il interdire aux magistrats de se syndiquer comme le réclame Édouard Philippe ?",
      "url": "https://www.europe1.fr/emissions/europe-1-info/faut-il-interdire-aux-magistrats-de-se-syndiquer-comme-le-reclame-edouard-philippe-1231106",
      "source": "Europe 1",
@@ -10011,30 +10123,6 @@
      "excerpt": "Ce vendredi 13 novembre, le candidat Reconquête à la présidentielle Éric Zemmour a appelé David Lisnard à \"résister à la pression\" des Républicains pour intégrer son parti à une primaire de la droite ...",
      "image": "https://www.bing.com/th?id=ONUT.7X7D5seeKLGmu0Xi3Aapqg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T06:59:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Edouard Philippe (Horizons) en visite deux jours à Toulouse",
-     "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/presidentielle-2027-edouard-philippe-horizons-en-visite-deux-jours-a-toulouse-4926661",
-     "source": "ici",
-     "excerpt": "Le candidat Horizons à l'élection présidentielle 2027 Edouard Philippe est en visite à Toulouse vendredi 13 et samedi 14 novembre. Deux jours de visite dans la 3e ville de France tenue par la maire de ...",
-     "image": "https://www.bing.com/th?id=ONUT.pC3nspVptEp0m3fTPbGITw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T06:25:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : retraites, allocations familiales, éducation nationale… que contient le programme qu'Édouard Philippe vient de dévoiler ?",
-     "url": "https://www.midilibre.fr/2026/11/13/presidentielle-2027-retraites-allocations-familiales-education-nationale-que-contient-le-programme-quedouard-philippe-vient-de-devoiler-13650697.php",
-     "source": "Midi Libre",
-     "excerpt": "Édouard Philippe, ancien Premier ministre et président du parti Horizons, a dévoilé son programme le 12 novembre. Concentrée autour de quatre grandes thématiques, cette feuille de route met l’accent s ...",
-     "image": null,
-     "date": "2026-11-13T05:29:00.000Z"
-    },
-    {
-     "title": "SONDAGE. Présidentielle 2027 : donné à au moins 10 %, David Lisnard talonne Édouard Philippe et Raphaël Glucksmann",
-     "url": "https://www.sudouest.fr/elections/presidentielle/sondage-presidentielle-2027-donne-a-au-moins-10-david-lisnard-talonne-edouard-philippe-et-raphael-glucksmann-31507981.php",
-     "source": "Sud Ouest",
-     "excerpt": "Le maire de Cannes fait une entrée fracassante dans un sondage d’Opinionway publié jeudi : testé pour la première fois, il atteint 10 % dans le scénario où Édouard Philippe et Gabriel Attal seraient t ...",
-     "image": "https://www.bing.com/th?id=ONUT.vgoKlbSH_Hq1my8v7yv4Fg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T03:28:00.000Z"
     }
    ],
    "videos": [],
@@ -10194,11 +10282,11 @@
     },
     {
      "title": "Salon du Made in France : le passage obligé de la campagne présidentielle",
-     "url": "https://www.tf1.fr/fr-lu/tmc/quotidien-avec-yann-barthes/videos/salon-du-made-in-france-le-passage-oblige-de-la-campagne-presidentielle-11206618.html",
+     "url": "https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/salon-du-made-in-france-le-passage-oblige-de-la-campagne-presidentielle-11206618.html",
      "source": "TF1",
-     "excerpt": "[VIDÉO] extract en streaming sur TF1+ Luxembourg 🇱🇺 ▶️ 167 - Le Salon du Made in France a ouvert Porte de Versailles et le défilé des candidats a commencé : Natacha Polony et Florian Philippot devan ...",
+     "excerpt": "[VIDÉO] extract en streaming sur TF1+ ▶️ 167 - Le Salon du Made in France a ouvert Porte de Versailles et le défilé des candidats a commencé : Natacha Polony et Florian Philippot devant l’entrée, Yaël ...",
      "image": null,
-     "date": "2026-11-12T11:49:00.000Z"
+     "date": "2026-11-12T10:49:00.000Z"
     },
     {
      "title": "Suspension des frappes : ce que TRUMP vous CACHE sur l’Iran",
@@ -10233,20 +10321,20 @@
      "date": "2026-11-10T01:48:00.000Z"
     },
     {
+     "title": "« On est obligé de quitter l'Union européenne », estime Florian Philippot",
+     "url": "https://www.msn.com/fr-fr/actualite/other/on-est-oblig%C3%A9-de-quitter-lunion-europ%C3%A9enne-estime-florian-philippot/vi-AA2h7Jmb",
+     "source": "Dailymotion",
+     "excerpt": "Tous les jours, actualité, débats et bonne humeur rythment L'Heure des pros. Ce mardi, Pascal Praud reçoit Florian Philippot. Ensemble, ils reviennent sur son programme pour 2027.",
+     "image": "https://www.bing.com/th?id=ONUT.3zx2un8o3Yw1xXOwtZ1vDA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T01:10:32.000Z"
+    },
+    {
      "title": "\"Macron ? Il a des traits de psychopathe, il est là pour détruire la France\" (Florian Philippot)",
      "url": "https://tv-programme.com/l-heure-des-pros-2-magazine/replay/macron-il-a-des-traits-de-psychopathe-il-est-la-pour-detruire-la-france-florian-philippot-R6af2e5d30d3f9",
      "source": "Programme TV",
      "excerpt": "Regardez en replay CNEWS \"Macron ? Il a des traits de psychopathe, il est là pour détruire la France\" (Florian Philippot) ...",
      "image": null,
      "date": "2026-11-10T01:08:00.000Z"
-    },
-    {
-     "title": "Florian Philippot : « L’entourage de Teddy Riner est très macroniste, très système »",
-     "url": "https://www.msn.com/fr-fr/actualite/other/florian-philippot-l-entourage-de-teddy-riner-est-tr%C3%A8s-macroniste-tr%C3%A8s-syst%C3%A8me/vi-AA2h7jSN",
-     "source": "Dailymotion",
-     "excerpt": "Florian Philippot, président “Les Patriotes”, a commenté, dans l'Heure des Pros, la candidature de Teddy Rinner : «L’entourage de Teddy Riner est très macroniste, très système».",
-     "image": "https://www.bing.com/th?id=ONUT.y2AofT9bZggbB3JXI1AzLw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-10T00:34:50.000Z"
     },
     {
      "title": "Présidentielle : les candidats français les plus proches de Vladimir Poutine",
@@ -10682,6 +10770,14 @@
    },
    "news": [
     {
+     "title": "Résultat élections régionales et départementales 2021 : Seurre (21250)",
+     "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/seurre/elections/archives/2021",
+     "source": "ici",
+     "excerpt": "Lors du deuxième tour des élections régionales 2021, les électeurs de Seurre plébiscitent majoritairement la liste dirigée par Marie-Guite DUFAY (Divers gauche), qui reçoit 51,62 % des votes. À Seurre ...",
+     "image": "https://www.bing.com/th?id=ONUT.oe7QXQ7SnEvMyv93unhN9A&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:24:00.000Z"
+    },
+    {
      "title": "Louhans-Châteaurenaud Gilles Platret raconte de Gaulle, une « source d’inspiration perpétuelle »",
      "url": "https://www.lejsl.com/culture-loisirs/2026/11/14/gilles-platret-raconte-de-gaulle-une-source-d-inspiration-perpetuelle",
      "source": "Le Journal de Saône-et-Loire",
@@ -10698,6 +10794,54 @@
      "date": "2026-11-14T06:06:00.000Z"
     },
     {
+     "title": "19h30 Médias : un 10e et dernier 11 novembre sur fond de polémique pour Emmanuel Macron",
+     "url": "https://www.tf1.fr/fr-ch/tmc/quotidien-avec-yann-barthes/videos/19h30-medias-un-10e-et-dernier-11-novembre-sur-fond-de-polemique-pour-emmanuel-macron-93565943.html?playlist=politique-80167987",
+     "source": "TF1",
+     "excerpt": "Pour son 10e et dernier 11 novembre, Emmanuel Macron a remonté les Champs-Élysées, déposé une gerbe et signé le registre, tandis que Marine Le Pen prononçait un discours de candidate à Hénin-Beaumont ...",
+     "image": "https://www.bing.com/th?id=ONUT.Q8x7K_Rse0Rp_Pqx1tIDsA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-11T10:30:00.000Z"
+    },
+    {
+     "title": "Droite et centre : vers un candidat unique ?",
+     "url": "https://programmetv.ouest-france.fr/magazine/politique/dimanche-en-politique-bourgogne-m114858609/droite-et-centre-vers-un-candidat-unique-c452409439/",
+     "source": "Programme TV Ouest-France",
+     "excerpt": "[Programme TV Ouest-France] Cette semaine, dans Dimanche en politique, nous nous intéressons à la présidentielle de 2027 du côté de la droite et du centre. Alors qu'il y a déjà pléthore de candidats, ...",
+     "image": null,
+     "date": "2026-11-10T16:00:00.000Z"
+    },
+    {
+     "title": "Subventions suspendues et intimidation : des eurodéputés français ciblés par un réseau proche des Frères musulmans",
+     "url": "https://www.msn.com/fr-fr/actualite/politique/subventions-suspendues-et-intimidation-des-eurod%C3%A9put%C3%A9s-fran%C3%A7ais-cibl%C3%A9s-par-un-r%C3%A9seau-proche-des-fr%C3%A8res-musulmans/ar-AA2h7O7R",
+     "source": "Europe 1",
+     "excerpt": "Après avoir voté la suspension de plus d'un million d'euros de subventions européennes accordées au réseau ENAR, accusé d'alimenter la mouvance ...",
+     "image": "https://www.bing.com/th?id=ONUT.cfvK4G3qKrnZmWmwDIWS7g&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T00:32:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+     "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+     "source": "La Chaîne parlementaire",
+     "excerpt": "A l’approche de la présidentielle 2027, quels sont les candidats déclarés et qui sont ceux qui pourraient encore se présenter ? Candidatures annoncées, ambitions sous conditions et personnalités encor ...",
+     "image": "https://www.bing.com/th?id=ONUT.uS52MleW4N3WegndMXqn0w&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-09T22:05:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : ils sont déjà plus de 30 à vouloir entrer à l’Élysée, qui sont les candidats déclarés ?",
+     "url": "https://www.zinfos974.com/presidentielle-2027-ils-sont-deja-pres-de-30-a-vouloir-entrer-a-lelysee-qui-sont-les-candidats-declares/",
+     "source": "Zinfos 974",
+     "excerpt": "À près de six mois de la prochaine élection présidentielle, près de 30 candidats ont déjà annoncé leur intention de briguer la présidence.",
+     "image": "https://www.bing.com/th?id=ONUT.IDjo2KwmLoqL7mSLIxMcOg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-08T02:31:00.000Z"
+    },
+    {
+     "title": "Une standing-ovation en mémoire à Bruno Rochette",
+     "url": "https://www.info-chalon.com/articles/2026/11/07/115393/une-standing-ovation-en-memoire-a-bruno-rochette/",
+     "source": "Info Chalon",
+     "excerpt": "Au moment d'inaugurer le nouveau gymnase Madeleine Jouffroy ce vendredi soir, Gilles Platret a tenu à adresser un nouvel hommage à Bruno Rochette, dont les obsèques se sont tenues la semaine dernière.",
+     "image": "https://www.bing.com/th?id=ONUT.cfZqO2vbx71vJBtiRjZ8YQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-06T16:00:00.000Z"
+    },
+    {
      "title": "Chalon-sur-Saône Au Plateau Saint-Jean, la sécurité au cœur des préoccupations des habitants",
      "url": "https://www.lejsl.com/politique/2026/11/06/au-plateau-saint-jean-la-securite-au-coeur-des-preoccupations-des-habitants",
      "source": "Le Journal de Saône-et-Loire",
@@ -10706,68 +10850,20 @@
      "date": "2026-11-06T09:27:00.000Z"
     },
     {
+     "title": "Résultats élections législatives 5ème circonscription Saône-et-Loire",
+     "url": "https://www.ouest-france.fr/elections/resultats/saone-et-loire/5eme-circonscription/",
+     "source": "Ouest-France",
+     "excerpt": "Suivez en direct les résultats des élections législatives de la 5ème circonscription Saône-et-Loire. Retrouvez, le 30 juin 2024 et le 7 juillet 2024 à partir de 20 heures, les résultats pour toutes le ...",
+     "image": null,
+     "date": "2026-10-31T17:00:00.000Z"
+    },
+    {
      "title": "Chalon-sur-Saône, étape officielle de Camping-Car Park",
      "url": "https://www.info-chalon.com/articles/2026/10/31/115195/chalon-sur-saone-etape-officielle-de-camping-car-park/",
      "source": "Info Chalon",
      "excerpt": "Depuis le 1er octobre, l'aire de stationnement de camping-cars est officiellement ouverte au sein du réseau européen Camping Car Park... et déjà le succès est au rendez-vous.",
      "image": null,
      "date": "2026-10-30T17:00:00.000Z"
-    },
-    {
-     "title": "Ces \"petits\" candidats poussent comme des champignons cet automne : pourquoi se voient-ils tous à l'Élysée ?",
-     "url": "https://actu.fr/politique/ces-petits-candidats-poussent-comme-des-champignons-cet-automne-pourquoi-se-voient-ils-tous-a-l-elysee_64936952.html",
-     "source": "Actu.fr",
-     "excerpt": "À l'approche de la présidentielle de 2027, plus de trente candidats se sont déjà déclarés, profitant notamment de l'affaiblissement des partis traditionnels.",
-     "image": null,
-     "date": "2026-10-17T12:30:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Gilles Platret affiche ses ambitions",
-     "url": "https://www.ohmymag.com/people/actu-people/art185008-presidentielle-2027-gilles-platret-affiche-ses-ambitions.html",
-     "source": "Ohmymag",
-     "excerpt": "Gilles Platret annonce sa candidature 2027, proposant islamisme hors-la-loi, retour à 39h, fin du voile public et remise de l’ordre pour restaurer l’unité nationale. Le lendemain, son communiqué ...",
-     "image": null,
-     "date": "2026-10-10T03:30:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : « La guerre civile a déjà commencé », le maire divers droite de Chalon-sur-Saône Gilles Platret annonce sa candidature",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-guerre-civile-a-deja-commence-le-maire-divers-droite-de-chalon-sur-saone-gilles-platret-annonce-sa-candidature-09-10-2026-7Z4HG62GOJHTNOFLHDN7J7HZLQ.php",
-     "source": "Le Parisien",
-     "excerpt": "Un de plus. La liste des prétendants à l’Élysée s’est allongée ce jeudi 8 octobre, avec l’annonce de la candidature du maire Divers droite (ex-Les Républicains) de Chalon-sur-Saône, Gilles Platret, à ...",
-     "image": null,
-     "date": "2026-10-09T10:04:00.000Z"
-    },
-    {
-     "title": "\"Libre\" et \"déterminé \" : le maire de Chalon-sur-Saône, Gilles Platret se déclare candidat à la Présidentielle",
-     "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/libre-et-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488",
-     "source": "ici",
-     "excerpt": "Au lendemain d'une grande réunion publique, le maire de Chalon-sur-Saône Gilles Platret, qui se présente sans étiquette, a confirmé ce vendredi sur ICI Bourgogne sa candidature à l'élection ...",
-     "image": null,
-     "date": "2026-10-08T17:00:00.000Z"
-    },
-    {
-     "title": "Grande mosquée de paris",
-     "url": "https://www.lefigaro.fr/tag/grande-mosquee-de-paris",
-     "source": "Le Figaro",
-     "excerpt": "Découvrez toutes les actualités et articles récents autour de Grande mosquée de paris. Ne manquez rien des infos et événements à suivre.",
-     "image": null,
-     "date": "2022-06-22T06:09:00.000Z"
-    },
-    {
-     "title": "Résultats des élections municipales 2026 : Chalon-sur-Saône",
-     "url": "https://www.20minutes.fr/elections/resultats/saone-et-loire/chalon-sur-saone-71530",
-     "source": "20 Minutes",
-     "excerpt": "Découvrez les résultats actualisés des Élections Municipales 2026 : Chalon-sur-Saône. Retrouvez les résultats par candidat, le taux participation et d'abstention des élections en direct.",
-     "image": "https://www.bing.com/th?id=ONUT.iSDidurRw__Jd23YWsGsyQ&pid=News&w=800&h=450&c=14",
-     "date": "2018-08-13T08:26:00.000Z"
-    },
-    {
-     "title": "Gilles platret",
-     "url": "https://www.lefigaro.fr/tag/gilles-platret",
-     "source": "Le Figaro",
-     "excerpt": "Découvrez toutes les actualités et articles récents autour de Gilles platret. Ne manquez rien des infos et événements à suivre.",
-     "image": null,
-     "date": "2015-03-18T22:00:00.000Z"
     }
    ],
    "videos": [],
@@ -10875,10 +10971,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 1.7,
+    "avg": 1.6,
     "min": 1,
     "max": 2.5,
-    "n": 3,
+    "n": 4,
     "history": [
      {
       "date": "2026-10-16",
@@ -10894,6 +10990,11 @@
       "date": "2026-11-10",
       "pollster": "Cluster17",
       "value": 2.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 1.5
      }
     ]
    },
@@ -10910,6 +11011,14 @@
    },
    "news": [
     {
+     "title": "Présidentielle 2027 : le comité de soutien à Natacha Polony lance sa campagne à La Réunion",
+     "url": "https://www.clicanoo.re/article/politique/2026/11/14/presidentielle-2027-le-comite-de-soutien-a-natacha-polony-lance-sa-campagne-a-la-reunion",
+     "source": "Clicanoo",
+     "excerpt": "Chapô : Réunis ce samedi 14 novembre à la Technopole, à Saint-Denis, les soutiens réunionnais de Natacha Polony ont donné le coup d'envoi de leur campagne présidentielle. Intervenue en visioconférence ...",
+     "image": null,
+     "date": "2026-11-14T12:12:00.000Z"
+    },
+    {
      "title": "Billets d’avion, octroi de mer, salaires… Que propose Natacha Polony pour La Réunion ?",
      "url": "https://www.zinfos974.com/billets-davion-octroi-de-mer-salaires-que-propose-natacha-polony-pour-la-reunion/",
      "source": "Zinfos 974",
@@ -10918,20 +11027,12 @@
      "date": "2026-11-14T04:10:00.000Z"
     },
     {
-     "title": "Présidentielle 2027 : le comité de soutien à Natacha Polony lance sa campagne à La Réunion",
-     "url": "https://www.clicanoo.re/article/politique/2026/11/14/presidentielle-2027-le-comite-de-soutien-a-natacha-polony-lance-sa-campagne-a-la-reunion",
-     "source": "Clicanoo",
-     "excerpt": "Chapô : Réunis ce samedi 14 novembre à la Technopole, à Saint-Denis, les soutiens réunionnais de Natacha Polony ont donné le coup d'envoi de leur campagne présidentielle. Intervenue en visioconférence ...",
-     "image": null,
-     "date": "2026-11-13T22:12:00.000Z"
-    },
-    {
-     "title": "La sanction fait partie de la pédagogie quand elle est bienveillante, estime Natacha Polony, candidate à l'élection présidentielle",
-     "url": "https://www.msn.com/fr-fr/actualite/other/la-sanction-fait-partie-de-la-p%C3%A9dagogie-quand-elle-est-bienveillante-estime-natacha-polony-candidate-%C3%A0-l%C3%A9lection-pr%C3%A9sidentielle/vi-AA2ho6Gy",
-     "source": "BFMTV",
+     "title": "\"La sanction fait partie de la pédagogie quand elle est bienveillante\", estime Natacha Polony, candidate à l'élection présidentielle",
+     "url": "https://actu.orange.fr/videos/politique/la-sanction-fait-partie-de-la-pedagogie-quand-elle-est-bienveillante-estime-natacha-polony-candidate-a-l-election-presidentielle-CNT000002tId6R.html",
+     "source": "Actualités – Orange",
      "excerpt": "Natacha Polony, candidate à l'élection présidentielle \"Nous sommes la France\" était l'invitée de BFMTV ce vendredi 13 novembre ...",
-     "image": "https://www.bing.com/th?id=ONUT.24ldCZjiELFpd88KaT9SXA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T14:03:55.000Z"
+     "image": null,
+     "date": "2026-11-13T14:04:00.000Z"
     },
     {
      "title": "Natacha Polony",
@@ -11133,10 +11234,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 6.8,
+    "avg": 6.7,
     "min": 4,
     "max": 17.5,
-    "n": 58,
+    "n": 64,
     "history": [
      {
       "date": "2023-09-11",
@@ -11457,6 +11558,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 4.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 5.8
      }
     ],
     "rank": 7
@@ -11479,6 +11585,38 @@
     "tiktok": null
    },
    "news": [
+    {
+     "title": "Présidentielle 2027: un sondage place Marine Le Pen en tête du premier tour et Teddy Riner devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-un-sondage-place-marine-le-pen-en-tete-du-premier-tour-et-teddy-riner-devant-gabriel-attal-et-bruno-retailleau-20261114",
+     "source": "Figaro Live",
+     "excerpt": "Marine Le Pen est toujours très largement en tête des intentions de vote au premier tour de la présidentielle, devant Jean-Luc Mélenchon qui s'installe à la 2e place, tandis qu'Édouard Philippe et Rap ...",
+     "image": "https://www.bing.com/th?id=ONUT.xqV-7U1jcRbtt94RB0voGQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:16:00.000Z"
+    },
+    {
+     "title": "SONDAGE. Présidentielle 2027 : Jean-Luc Mélenchon consolide sa deuxième place, Teddy Riner déjà devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.lindependant.fr/2026/11/14/sondage-presidentielle-2027-jean-luc-melenchon-consolide-sa-deuxieme-place-teddy-riner-deja-devant-gabriel-attal-et-bruno-retailleau-13653042.php",
+     "source": "L'Indépendant",
+     "excerpt": "À cinq mois de l'élection présidentielle, un sondage Elabe pour BFMTV et La Tribune du Dimanche, publié le 14 novembre, place Marine Le Pen en tête avec 31 à 33 % des intentions de vote. Jean-Luc Méle ...",
+     "image": "https://www.bing.com/th?id=ONUT.bf-MyaDv6yKXtwvBlnup5Q&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:57:00.000Z"
+    },
+    {
+     "title": "France – Algérie : un soutien de Bruno Retailleau ressort la menace des visas",
+     "url": "https://www.msn.com/fr-xl/actualite/other/france-alg%C3%A9rie-un-soutien-de-bruno-retailleau-ressort-la-menace-des-visas/ar-AA2hrpI7",
+     "source": "TSA Algérie",
+     "excerpt": "Sur fond de la campagne électorale pour les présidentielles de 2027, François-Xavier Bellamy, député européen Les Républicains et l’un des principaux soutiens à la candidature de Bruno Retailleau, res ...",
+     "image": "https://www.bing.com/th?id=ONUT.5hhRZefq-sO0OklAgFKKDQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:37:37.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : de Sautron à La Baule, Bruno Retailleau en campagne pour la primaire",
+     "url": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-de-sautron-a-la-baule-bruno-retailleau-en-campagne-pour-la-primaire",
+     "source": "Valeurs actuelles",
+     "excerpt": "La primaire, ce sera le premier tour. C’est, à n’en pas douter, la stratégie à laquelle Bruno Retailleau semble préparer les siens. Ce vendredi 13 novembre, en Loire-Atlantique (44), ...",
+     "image": "https://www.bing.com/th?id=ONUT.tPOHmx8g4krvJAFd0znHjQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:14:00.000Z"
+    },
     {
      "title": "Présidentielle 2027 : Nicolas Sarkozy ne veut pas interdire LFI, à rebours de Bruno Retailleau",
      "url": "https://www.20minutes.fr/politique/4262846-20261114-presidentielle-2027-nicolas-sarkozy-veut-interdire-lfi-rebours-bruno-retailleau",
@@ -11542,38 +11680,6 @@
      "excerpt": "Le candidat LR à la présidentielle a assuré qu’il n’avait de « prêt bancaire » pour financer sa campagne. Plusieurs groupes français, notamment la Société générale et La Banque postale, ont opposé des ...",
      "image": null,
      "date": "2026-11-13T01:20:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027. Bruno Retailleau juge que la primaire doit se faire même sans Édouard Philippe",
-     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-edouard-philippe-968add78-df33-11f1-9a29-f4bab172af08",
-     "source": "Ouest-France",
-     "excerpt": "[Courrier de l'Ouest] Bruno Retailleau, candidat Les Républicains à la présidentielle, a affirmé jeudi que la primaire de la droite et du centre devrait se faire même si Édouard Philippe continue de r ...",
-     "image": "https://www.bing.com/th?id=ONUT.wCUN2RRM_uQoHWHVeaYq3A&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T23:46:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027: Bruno Retailleau n'a \"pas de prêt bancaire\" pour financer sa campagne et accuse Matignon",
-     "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-bruno-retailleau-na-103301528.html",
-     "source": "Yahoo Actualités",
-     "excerpt": "Le Premier ministre, Sébastien Lecornu, avait souhaité avant l'été \"que tous les candidats, quel que soit leur bord politique, puissent accéder à des financements français pour financer leur campagne\" ...",
-     "image": "https://www.bing.com/th?id=ONUT.id5RWzVRbt6IWTRsJAsmsQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T18:33:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme toujours plus dur pour lutter contre l’immigration",
-     "url": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-bruno-retailleau-devoile-son-programme-toujours-plus-dur-pour-lutter-contre-l-immigration_6809292_823448.html",
-     "source": "Le Monde",
-     "excerpt": "A la peine dans les sondages, le candidat Les Républicains a publié jeudi un livret programmatique pour « reprendre la main » et réduire au maximum l’arrivée d’étrangers en France.",
-     "image": "https://www.bing.com/th?id=ONUT.5J3murEmqC8TrrNJbWDSjA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T16:00:00.000Z"
-    },
-    {
-     "title": "135 euros de plus par mois pour les profs débutants, mais pas de hausse pour tous, propose Bruno Retailleau",
-     "url": "https://www.capital.fr/votre-carriere/135-euros-de-plus-par-mois-pour-les-profs-debutants-mais-pas-de-hausse-pour-tous-propose-bruno-retailleau-1531807",
-     "source": "Capital",
-     "excerpt": "Invité à développer toute une série de mesures jeudi 12 novembre, le candidat à la présidentielle Bruno Retailleau a évoqué des pistes pour sortir de la crise dans l’Education nationale, à commencer p ...",
-     "image": "https://www.bing.com/th?id=ONUT.lQY2i0VHh-ChO3PlgNN6BA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-12T16:00:00.000Z"
     }
    ],
    "videos": [
@@ -11750,10 +11856,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 3,
+    "avg": 3.5,
     "min": 2,
-    "max": 4,
-    "n": 2,
+    "max": 4.5,
+    "n": 3,
     "history": [
      {
       "date": "2026-11-10",
@@ -11764,6 +11870,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 4
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 4.5
      }
     ]
    },
@@ -11780,100 +11891,100 @@
    },
    "news": [
     {
-     "title": "\"Je ne suis pas un macroniste\", affirme Teddy Riner, qualifiant les félicitations du président pour sa candidature de \"baiser empoisonné\"",
-     "url": "https://www.franceinfo.fr/elections/je-ne-suis-pas-un-macroniste-affirme-teddy-riner-qualifiant-les-felicitations-du-president-pour-sa-candidature-de-baiser-empoisonne_8282699.html",
+     "title": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
+     "url": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
+     "source": "Radio France Internationale",
+     "excerpt": "Après les tatamis, le terrain politique. Teddy Riner poursuit ses premiers pas dans la course à l'Élysée. Le quintuple champion olympique de judo était en déplacement, samedi 14 novembre, au Salon ...",
+     "image": "https://www.bing.com/th?id=ONUT.r5hyY-gDrkL70Tuneec2kQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T15:27:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Marine Le Pen large favorite des deux tours selon un nouveau sondage, Teddy Riner crédité de 4 %",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-large-favorite-des-deux-tours-selon-dun-nouveau-sondage-teddy-riner-credite-de-4-14-11-2026-ZLZO7KJKCNGVHGZGY4HJNTZXGU.php",
+     "source": "Le Parisien",
+     "excerpt": "Si la candidate du RN Marine Le Pen fait la course en tête depuis plusieurs semaines, la perspective d’une primaire à droite et au centre et ...",
+     "image": "https://www.bing.com/th?id=ONUT.7I_SmWIrUNsRQjEGOmLR-A&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:34:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027: un sondage place Marine Le Pen en tête du premier tour et Teddy Riner devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-un-sondage-place-marine-le-pen-en-tete-du-premier-tour-et-teddy-riner-devant-gabriel-attal-et-bruno-retailleau-20261114",
+     "source": "Figaro Live",
+     "excerpt": "Marine Le Pen est toujours très largement en tête des intentions de vote au premier tour de la présidentielle, devant Jean-Luc Mélenchon qui s'installe à la 2e place, tandis qu'Édouard Philippe et Rap ...",
+     "image": "https://www.bing.com/th?id=ONUT.Sjgu-Q2NrkqUtsLtae9RYA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T13:16:00.000Z"
+    },
+    {
+     "title": "SONDAGE. Présidentielle 2027 : Jean-Luc Mélenchon consolide sa deuxième place, Teddy Riner déjà devant Gabriel Attal et Bruno Retailleau",
+     "url": "https://www.lindependant.fr/2026/11/14/sondage-presidentielle-2027-jean-luc-melenchon-consolide-sa-deuxieme-place-teddy-riner-deja-devant-gabriel-attal-et-bruno-retailleau-13653042.php",
+     "source": "L'Indépendant",
+     "excerpt": "À cinq mois de l'élection présidentielle, un sondage Elabe pour BFMTV et La Tribune du Dimanche, publié le 14 novembre, place Marine Le Pen en tête avec 31 à 33 % des intentions de vote. Jean-Luc Méle ...",
+     "image": "https://www.bing.com/th?id=ONUT.Okf_3LpaAZI77xGXFQVShw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:57:00.000Z"
+    },
+    {
+     "title": "Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %",
+     "url": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-un-sondage-donne-marine-le-pen-largement-en-tete-jean-luc-melenchon-deuxieme-et-teddy-riner-a-4-5-31529430.php",
+     "source": "Sud Ouest",
+     "excerpt": "La candidate du Rassemblement national recueillerait entre 31 % et 33 % des voix au premier tour, selon les configurations testées ...",
+     "image": "https://www.bing.com/th?id=ONUT.FNHAo9co9EEiRaMe13HBow&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:46:00.000Z"
+    },
+    {
+     "title": "\"Un baiser empoisonné\" : la réaction glaciale de Teddy Riner après avoir été félicité par Emmanuel Macron pour sa candidature",
+     "url": "https://www.public.fr/un-baiser-empoisonne-la-reaction-glaciale-de-teddy-riner-apres-avoir-ete-felicite-par-emmanuel-macron-pour-sa-candidature",
+     "source": "Public.fr",
+     "excerpt": "Tout juste candidat à l'élection présidentielle de 2027, Teddy Riner a fraîchement accueilli les éloges d'Emmanuel Macron, évoquant un baiser empoisonné.",
+     "image": "https://www.bing.com/th?id=ONUT.a7HA24ym4GWjP4gVjW5jEQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:45:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 Teddy Riner crédité de 4,5% des intentions de vote, Marine Le Pen toujours en tête",
+     "url": "https://www.ledauphine.com/elections/2026/11/14/teddy-riner-credite-de-4-5-des-intentions-de-vote-marine-le-pen-toujours-en-tete",
+     "source": "Le Dauphiné Libéré",
+     "excerpt": "Un sondage Elabe publié ce samedi crédite le judoka candidat à la présidentielle de 4,5% des intentions de vote. Marine Le Pen reste loin devant tout le monde.",
+     "image": "https://www.bing.com/th?id=ONUT.ZWYR3sYjlrF1oCPmkX-NLA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:36:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
+     "source": "Le Figaro",
+     "excerpt": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucks ...",
+     "image": "https://www.bing.com/th?id=ONUT.ifPHW8HEwE9sdlSNlRIqdw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:34:00.000Z"
+    },
+    {
+     "title": "Présidentielle : Teddy Riner, champion acclamé au Salon du Made in France, mais candidat attendu au tournant",
+     "url": "https://www.lepoint.fr/politique/presidentielle-teddy-riner-champion-acclame-au-salon-du-made-in-france-mais-candidat-attendu-au-2CSIDOIYYZBXXGBJVY4K3AULAA/",
+     "source": "Le Point",
+     "excerpt": "Cinq jours après avoir annoncé sa candidature à l’Élysée, le judoka s’est offert un impressionnant bain de foule au Salon du Made in France. Entre deux selfies, le néocandidat tente de se faire une pl ...",
+     "image": "https://www.bing.com/th?id=ONUT.ZzX4qebV8ujk4zX3FqyICQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T12:04:00.000Z"
+    },
+    {
+     "title": "La candidature de Teddy Riner peut-elle transformer sa popularité en réponses concrètes pour les Français ?",
+     "url": "https://www.parlons-politique.fr/elections/la-candidature-de-teddy-riner-peut-elle-transformer-sa-popularite-en-reponses-concretes-pour-les-francais_31240/",
+     "source": "parlons-politique",
+     "excerpt": "Au salon du Made in France, Teddy Riner a tenté de se démarquer d’Emmanuel Macron tout en mettant en avant les enjeux de production et d’emploi. Sa popularité attire les foules, mais ses propositions ...",
+     "image": "https://www.bing.com/th?id=ONUT.3Nj0E5CH7zfhGl3X91jIfg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:50:00.000Z"
+    },
+    {
+     "title": "Teddy Riner en campagne : « Lui ou Macron… » Au salon du Made in France, le judoka fait l’unanimité, le candidat moins",
+     "url": "https://www.20minutes.fr/politique/4262847-20261114-teddy-riner-campagne-macron-salon-made-in-france-judoka-fait-unanimite-candidat-moins",
+     "source": "20 Minutes",
+     "excerpt": "Après une première visite de campagne à l’hôpital de Saint-Denis, Teddy Riner a pris un bain de foule au salon du Made in France. L’occasion pour « 20 Minutes » d’interroger des électeurs, intrigués p ...",
+     "image": "https://www.bing.com/th?id=ONUT.c75VTADnZ564GAr4-fcqRQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:47:00.000Z"
+    },
+    {
+     "title": "\"C'est un positionnement qui correspond à l'espace politique et au courant de pensée dans lequel se situait déjà Emmanuel Macron\", analyse Laurent Joffrin, directeur du ...",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/c-est-un-positionnement-qui-correspond-a-l-espace-politique-et-au-courant-de-pensee-dans-lequel-se-situait-deja-emmanuel-macron-analyse-laurent-joffrin-directeur-du-quotidien-le-libre-journal-au-sujet-de-la-candidature-de-teddy-riner_8282795.html",
      "source": "France Info",
-     "excerpt": "Son positionnement, \"ni de droite ni de gauche\", a conduit une partie de ses concurrents et des commentateurs à le présenter comme un héritier du chef de l'Etat.",
-     "image": "https://www.bing.com/th?id=ONUT.qrR9g7-aw3PnvD2oxcbfRw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T10:19:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : \"Renseignez-vous avant de donner des petites phrases\"... Teddy Riner recadre un journaliste qui fait allusion à ses contentieux avec le fisc",
-     "url": "https://www.ladepeche.fr/2026/11/14/presidentielle-2027-renseignez-vous-avant-de-donner-des-petites-phrases-teddy-riner-recadre-un-journaliste-qui-fait-allusion-a-ses-contentieux-avec-le-13652778.php",
-     "source": "La Dépêche",
-     "excerpt": "Teddy Riner s'est rendu ce samedi 14 novembre au salon Made in France, à Paris. Lors de ce déplacement, le judoka a été interrogé sur ses contentieux avec le fisc et a gentiment recadré un journaliste ...",
-     "image": "https://www.bing.com/th?id=ONUT.jwlTWumVe1LbCzYs4E5AGw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T08:48:00.000Z"
-    },
-    {
-     "title": "Teddy Riner : \"Je ne suis pas un macroniste\"",
-     "url": "https://www.tf1info.fr/politique/videos/video-teddy-riner-je-ne-suis-pas-un-macroniste-83544-2475870.html",
-     "source": "TF1 INFO",
-     "excerpt": "▶️ \"Je ne suis pas un macroniste\", a déclaré le nouveau candidat à la présidentielle Teddy Riner, qualifiant les félicitations d'Emmanuel Macron à sa candidature de \"baiser empoisonné\", lors d'une vis ...",
-     "image": null,
-     "date": "2026-11-14T08:45:00.000Z"
-    },
-    {
-     "title": "«Tintin au Congo» : la comparaison sur Teddy Riner qui fait polémique sur France Inter",
-     "url": "https://www.lejdd.fr/politique/tintin-au-congo-la-comparaison-sur-teddy-riner-qui-fait-polemique-sur-france-inter-188634",
-     "source": "Le Journal du Dimanche",
-     "excerpt": "Invitée de France Inter, l’ancienne collaboratrice de Nicolas Sarkozy, Emmanuelle Mignon, a comparé la première visite de campagne du judoka à Saint-Denis à un album d’Hergé. Elle assure avoir voulu p ...",
-     "image": "https://www.bing.com/th?id=ONUT.fH1g-ySHAAxJaG33hoS-oQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T08:37:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : \"Moi je ne suis pas l'envoyé du président\"... Teddy Riner qualifie les félicitations d'Emmanuel Macron à sa candidature de \"baiser empoisonné\"",
-     "url": "https://www.lindependant.fr/2026/11/14/presidentielle-2027-moi-je-ne-suis-pas-lenvoye-du-president-teddy-riner-qualifie-les-felicitations-demmanuel-macron-a-sa-candidature-de-baiser-13652825.php",
-     "source": "L'Indépendant",
-     "excerpt": "Le néocandidat à la préisentielle était en déplacement au salon Madi in France, où il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".",
-     "image": "https://www.bing.com/th?id=ONUT.r6E5pfhy302C_n7rMQ5JZw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T08:28:00.000Z"
-    },
-    {
-     "title": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
-     "url": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron",
-     "source": "France 24",
-     "excerpt": "Le judoka et désormais candidat à la présidentielle Teddy Riner s'est défendu samedi d'être macroniste, lors de son déplacement au salon du \"Made in France\". Le sportif de haut niveau a, en outre, qua ...",
-     "image": "https://www.bing.com/th?id=ONUT.4PPs1ANhJ3-w-MwBeQClvQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T08:13:00.000Z"
-    },
-    {
-     "title": "Un «baiser empoisonné» : Teddy Riner réagit aux félicitations d'Emmanuel Macron pour sa candidature",
-     "url": "https://www.cnews.fr/france/2026-11-14/un-baiser-empoisonne-teddy-riner-reagit-aux-felicitations-demmanuel-macron-pour",
-     "source": "CNEWS",
-     "excerpt": "Le judoka Teddy Riner a qualifié, ce samedi 14 novembre, de «baiser empoisonner» les félicitations d’Emmanuel Macron à sa candidature.",
-     "image": "https://www.bing.com/th?id=ONUT.t0rv15Jjyb7S7LbX0IHkkQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T08:06:00.000Z"
-    },
-    {
-     "title": "\"Je ne suis pas un macroniste\" : Teddy Riner, candidat aux élections présidentielles, qualifie les félicitations d’Emmanuel Macron de \"baiser empoisonné\"",
-     "url": "https://www.midilibre.fr/2026/11/14/je-ne-suis-pas-un-macroniste-teddy-riner-candidat-aux-elections-presidentielles-qualifie-les-felicitations-demmanuel-macron-de-baiser-empoisonne-13652676.php",
-     "source": "Midi Libre",
-     "excerpt": "À Paris ce samedi 14 novembre lors du Salon du Made in France (MIF), le candidat à la présidentielle 2027, Teddy Riner, a nié être \"un macroniste\" et qualifie le soutien d’Emmanuel Macron de \"baiser e ...",
-     "image": "https://www.bing.com/th?id=ONUT.m3XH82Yj2l_HB3YtvqiNCw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T07:55:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : la campagne de Teddy Riner bat déjà de l'aile, le judoka lâché par un soutien politique de taille",
-     "url": "https://www.lindependant.fr/2026/11/14/presidentielle-2027-la-campagne-de-teddy-riner-bat-deja-de-laile-le-judoka-lache-par-un-soutien-politique-de-taille-13652744.php",
-     "source": "L'Indépendant",
-     "excerpt": "Quelques jours seulement après avoir annoncé sa candidature à la présidentielle de 2027, Teddy Riner voit l'un de ses soutiens politiques de taille, l'ex-ministre de la santé François Braun, se retire ...",
-     "image": "https://www.bing.com/th?id=ONUT.xtt3-uWuI8gyjytpPMUvog&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T07:51:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : \"je ne suis pas un macroniste\", dit Teddy Riner, en campagne au salon du Made in France",
-     "url": "https://www.laprovence.com/article/politique/54877112139248/presidentielle-2027-je-ne-suis-pas-un-macroniste-dit-teddy-riner-en-campagne-au-salon-du-made-in-france",
-     "source": "La Provence",
-     "excerpt": "À quelques mois de l'élection présidentielle en France, le judoka qui veut devenir président de la République cherche à prendre ses distances avec Emmanuel Macron, qui l'a félicité pour sa candidature ...",
-     "image": "https://www.bing.com/th?id=ONUT.LucdxH_6fRm0uUAItjHLQg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T07:48:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : Teddy Riner regrette le \"baiser empoisonné\" d'Emmanuel Macron",
-     "url": "https://www.corsematin.com/article/elections/1130568523029814/presidentielle-2027-teddy-riner-regrette-le-baiser-empoisonne-demmanuel-macron",
-     "source": "Corse Matin",
-     "excerpt": "Le candidat surprise à l'élection présidentielle Teddy Riner a tenu samedi à prendre ses distances avec Emmanuel Macron, qualifiant de \" baiser empoisonné \" les félicitations adressées par le chef de ...",
-     "image": "https://www.bing.com/th?id=ONUT.xUpMQwx0KFEIJvuHE-JzmQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T07:25:00.000Z"
-    },
-    {
-     "title": "« Je ne suis pas un macroniste » : Teddy Riner éloigne le soutien d’Emmanuel Macron qu’il estime être un « baiser empoisonné »",
-     "url": "https://www.lavoixdunord.fr/1754895/article/2026-11-14/je-ne-suis-pas-un-macroniste-teddy-riner-estime-que-le-soutien-d-emmanuel-macron",
-     "source": "La Voix du Nord",
-     "excerpt": "« Je ne suis pas un macroniste », a déclaré le nouveau candidat à la présidentielle Teddy Riner, qualifiant les félicitations d’Emmanuel Macron à sa candidature de « baiser empoisonné », lors d’une ...",
-     "image": "https://www.bing.com/th?id=ONUT.4FsAUEQFoex606Owf4FxPA&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-14T07:03:00.000Z"
+     "excerpt": "Samedi 14 novembre, Laurent Joffrin, directeur du quotidien Le Libre Journal, et Jean-Sébastien Ferjou, directeur-fondateur du site Atlantico, étaient les invités du \"Duel\" sur franceinfo. Ils ont not ...",
+     "image": "https://www.bing.com/th?id=ONUT.AVlN6EpldqnOj5c3kMFYqg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T11:46:00.000Z"
     }
    ],
    "videos": [],
@@ -12005,7 +12116,7 @@
     "avg": 2,
     "min": 1,
     "max": 3,
-    "n": 61,
+    "n": 67,
     "history": [
      {
       "date": "2023-09-11",
@@ -12331,6 +12442,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 1.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 2
      }
     ],
     "rank": 11
@@ -12597,20 +12713,20 @@
    },
    "news": [
     {
+     "title": "Ségolène Royal complotiste ?",
+     "url": "https://www.agoravox.fr/actualites/politique/article/segolene-royal-complotiste-273648",
+     "source": "AgoraVox",
+     "excerpt": "Décidément, le besoin de paraître, de se répandre dans les médias, même à l'heure du sommeil, à moins qu'elle ne soit victime (...) ...",
+     "image": "https://www.bing.com/th?id=ONUT.sfDW1LW6SU-ZEWagxM5TVw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T03:13:00.000Z"
+    },
+    {
      "title": "Ségolène Royal et François Hollande : à 38 ans, leur fils Julien est prêt à conquérir le monde entier et il le prouve avec cette annonce “coup de poing” !",
      "url": "https://www.gala.fr/politique/segolene-royal-et-francois-hollande-a-38-ans-leur-fils-julien-est-pret-a-conquerir-le-monde-entier-et-il-le-prouve-avec-cette-annonce-coup-de-poing-20261114",
      "source": "Gala",
      "excerpt": "PHOTO - Ce vendredi 13 novembre, Julien Royal a partagé une excellente nouvelle sur son compte Instagram. Le réalisateur français de 38 ans, fils de Ségolène Royal et François Hollande, voit son derni ...",
      "image": "https://www.bing.com/th?id=ONUT.gjVN3WvqZ9GwdrRsd4rWaA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T02:03:00.000Z"
-    },
-    {
-     "title": "Ségolène Royal complotiste ?",
-     "url": "https://www.agoravox.fr/actualites/politique/article/segolene-royal-complotiste-273648",
-     "source": "AgoraVox",
-     "excerpt": "Décidément, le besoin de paraître, de se répandre dans les médias, même à l'heure du sommeil, à moins qu'elle ne soit victime (...) ...",
-     "image": "https://www.bing.com/th?id=ONUT.sfDW1LW6SU-ZEWagxM5TVw&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T16:00:00.000Z"
     },
     {
      "title": "Nucléaire : comment la France a formé ses premiers experts ?",
@@ -12811,10 +12927,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 2,
+    "avg": 2.1,
     "min": 1.5,
     "max": 3,
-    "n": 6,
+    "n": 7,
     "history": [
      {
       "date": "2025-04-30",
@@ -12875,6 +12991,11 @@
       "date": "2026-11-10",
       "pollster": "Cluster17",
       "value": 1.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 3
      }
     ]
    },
@@ -12897,124 +13018,92 @@
    },
    "news": [
     {
-     "title": "François Ruffin invité de la matinale de France Inter",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHJvSjJvdWp3YjFiTEtkLW92dTFoZVFjX3lLYmZqakY5Vlhtd0Y4TWVzdHpUNElNUGxDTm5pUzY1blRKdEMwVnVUREpiejBnTTVrcGVCUFM5SV85UVc2cENsR1YtTkpvYzJBamh0MjhYUy1YRFFvdFRYSG44Ul9lM0QwMmZ6WDQ?oc=5",
-     "source": "François Ruffin",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-13T09:16:38.000Z"
-    },
-    {
-     "title": "France Inter. . François Ruffin est-il toujours candidat à l’élection présidentielle ? \"Sans aucun doute (…) Je sais pour qui je suis là,\" répond-il au micro de France Inter, avec la volonté de représenter les métiers essentiels dans le débat public. ➡️ https://l.franc",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeWNUVDg5LXFnV3RMRjhYWl9KN2Q4bU9NdThFOUR3WGJYYkFXcTVZT0RZWFpiVFFhd0luaFRYWklaMkVBVElBRXgxVmw2ZjhnSzNHTHVqYXRsLUpOdjI0QUZ2aXpmTllIUU9scWM4Qjk0UDlzaHRpSUJNZDQ4RVU0cEpSTjZVNDhjNURoajRVZ2xYa2R4cXI4M250NmwxR3dISFZ1elVOVS05cERnUmh0RkNlTS03OFl0cE1Ca0lUalYxMlh5U3NGQVl6TQ?oc=5",
-     "source": "Facebook",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-13T09:30:11.000Z"
+     "title": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html",
+     "source": "France Info",
+     "excerpt": "Israël a annoncé jeudi l'interdiction d'entrée sur son territoire au dirigeant de la France insoumise, considérant sa formation comme une \"position extrêmement hostile à Israël\".",
+     "image": "https://www.bing.com/th?id=ONUT.4DQaKhnsX0f25LfG8k-rUA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T01:24:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : François Ruffin veut débattre avant de « prendre ses responsabilités » face au risque RN",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOazBGQlg1eml3NTM5cy1EWHB6UXRJYzhYM0lnaGJGbXBVelN5MFhLTTZMZF9iZDNJRHNyWFJuazVtX0cyeW5XYXJ4ZkpGU01PQ0Y1c0JxcGoxYmVXUGI5Z3ZYYXFWem9WSGVJQWstZXNDZUdDRk5CLWg0QkxqaEV2T1A2dWJJUE9qdFZjeXFKclFDWWMzZExXc0pEeUpqRUxvdkNFcmxLLXlkb3BpSXozazZkNnBUUldHSWZ0TGZPREpHX1hvd0xCMS1vQ1VMSEZHUGpsTXBLNDA3Njd2QTlaTUR6RTU4TzRhNUl0TEpTVnF5aXZxUWlDeTNfeVM4SWpPUTVyZUNaRkxRWU9wRGFINnhMT2sxZkhGVHdxT0VIa3BkNkU?oc=5",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-veut-debattre-avant-de-prendre-ses-responsabilites-face-au-risque-rn-13-11-2026-RUDMB6FIQNAODI4D5NIIXJIJBI.php",
      "source": "Le Parisien",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-13T09:19:39.000Z"
-    },
-    {
-     "title": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYWRPbUdPcEZycjF2TFZTVnBNcl9IbkJPR0VKVTZHYXhRc2hjQU9Wd3VucWJiQXFJT080LWVpMkpHUHZpQ2lodW0tQUh1a3NQZi1HaEFPbGVQc21JcUwzT0VaZDVYWFdETDNXR0FyQXBKaHItaVlka0dtZzlWcDFDZDJwZF83Vm55am1FU2oydmxZWFBkeVN1VklMM0k2RXIwN2ZHSVNFb3dkLWhSTmhYSktpeXVkNWVYZWlER2Zxa3RUSGx5TFdsV3FOSXdMUUpFeHZXekpwbHJRUE9MaEtPM1JJcW91aUcxSTlvYTlHQ0JYY2lqa2I4cmZzOEVkSWNEbEtxdDEwM19kc1BXNEZyYUxha0ZhNjZI?oc=5",
-     "source": "BFM",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-06T09:25:41.000Z"
-    },
-    {
-     "title": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM18wWk1tREptNTctTG1UcGdLbUkwZkNibVpUX1JjV0NwbEJSY3FXY3NXMlBDU2JBcHJmaWVpbFg1bnhHVE1zeDdVTUg4NTdOS3hxUDU1blBocEo0dEtQZUpXRTNtbzlmLXY5djJBYl83OGdhT2Q0Y21FUUVXQl9HTW50RzhHell3R05FaGQ2ZUxkUFhGSVV6UENIQlN4NWJRVWtLWlN5ZGp3VmJna25iU05lOWlJWXB0OHhrYlFZVzh5REtQejZjalN3N0hiQlBKTDI5cG0zYVlhSFQ4elgySGdCOWtWQzRuY2RDakdVelNPazYybVh3N19YdkN3SExncjFj?oc=5",
-     "source": "franceinfo",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-13T08:24:40.000Z"
-    },
-    {
-     "title": "Présidentielle : François Ruffin pourrait retirer sa candidature «si une solution se dégage pour battre Marine Le Pen",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQYzd6dmNiZFlPeWN4SUhBd2NsV0VGUjJySHdrZGI2UUtVMXpMUmp3djY1UHd4bGxULWY2NFdPcHlDUkNselc4VWRxLVdfSHhZLTcyUjhxRldJcXdMcUx6U0RWVDhIenVMUDVsY19pd1A1ajNzc21MYVpvdGFqVWtTcFpmM3pyRkxzc1ViaFRLM3NncVJfUVJxT2gyREJ6Y3JBMVBBeTRrV29iV3RNRzNSR2U3RngxNlduNlUxV2ZNQ052VEMzQVlsRG5TQ0k0aUpFcHFnMkVmRGY2Mm1tU2dPY1RhckhnMmplaGJCU21YRTkwMkpCUWZpZUhwRlVJaXAxbFVnQU9UNHRicE5zU1JOSEZRMnF0Zw?oc=5",
-     "source": "Libération",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-06T08:00:00.000Z"
+     "excerpt": "Le député de la Somme poursuit sa campagne atypique, voulant remettre le travail au centre de toutes les discussions. Et s’agace qu’on lui d ...",
+     "image": "https://www.bing.com/th?id=ONUT.rPPEOjrxhfovT71TRrx2Wg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T01:20:00.000Z"
     },
     {
      "title": "François Ruffin en cuisine - C presque le 20h de Bertrand Chameroy 12/11/26",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTU5JQUg1TGhZWFAzREVyTkpTVXBQM3J6Z2VKcjJmS2hSWHhFOENTWTQ0ZnlXTzM2SEVWMmhfS0dncFNDWXV4d0N4LTcxZnlCejNQQ1pjbmpxa2JSTTZ1YzF6VVRpSmVuN3piM2E0RGtnTUtnVzc2UWdvVlNJOWlHaXlmekhDNG1TQUdvQVlvYVNnZ0o0bHZfRFZMZERFV1o2c0p5TTJkcjY3Q2VKa0FVOW1VVnB6YUZlamExc0tGUTNiUnQ2YVpQMmtxVmNMNTYxQWJiWjh6Rld0NEFnOU5ENEY2UEVsb2VUamJST0lacVV5MzlXc0E?oc=5",
-     "source": "France TV",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-12T20:50:49.000Z"
+     "url": "https://tv-programme.com/c-a-vous-la-suite-emission/replay/francois-ruffin-en-cuisine-c-presque-le-20h-de-bertrand-chameroy-12-11-26-R6af62a0b8f55e",
+     "source": "Programme TV",
+     "excerpt": "Au programme : 2027 : autant de candidats que de saisons des Simpson François Ruffin en cuisine Sébastien Lecornu donne de la voix ...",
+     "image": "https://www.bing.com/th?id=ONUT.VnH-fQqvEE-47FSD5lim6w&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-12T12:55:00.000Z"
     },
     {
-     "title": "L'interview d'Amélie Carrouër du lundi 9 novembre 2026 : François Ruffin",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGJYQTY1cGhMZ1luc3RfdWxMelJjVVNVci1uNVlRSzhzYzducnF6UFFvejVHYlJNanJ0dFpobUpqczlHdTNiZUR2Z1N4YW5zS3FUMkozQVhZRy1BeTZ5QWhFZ2JtTFlBZ0pTWTlHd1ZheXM4Vm5CVkMtbXBQRDJtYkpoWlA0Q3dBc2dTNmN3TENENXhjRnFSLUUzY09lLTFPdW8xNzlVMFRQTVNRR05aVlJfcV95T2hCWHNETGpXbnVOeTJTaUFpZmFYekM5Y1NEQTBWZDdfQQ?oc=5",
-     "source": "TF1+",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-09T07:25:57.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : François Ruffin, sa petite entreprise connaît un peu la crise",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeEtmV0xCX0sxemo2TGNYQ2hnZ1BYQ0VvMmVFb05nZXhCb2I2YzQ2RWE5cWJhQXUzTXF0aXV4eDNFbHVYbmF4bHBramZ0UzVvVkNJazgzNUhmWGRxaFdObEthT0prdjdleGZIaDJqV2NGUEQ4WFY5UzlRRl9rN1NObFBVNWp3S1A0R0d3YXdDT1lzekdBTTlJRWgtNzk5dzlRNU91bXNKdGpoX3FTLVlPM245cXMxU3JNWU03bzREVWpEeDFZN1o5RmdOT194Wkh6MkxWTnJJUkhmWFNXZlN3?oc=5",
-     "source": "Le Canard enchaîné",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-10-18T07:00:00.000Z"
-    },
-    {
-     "title": "Suite à l’interdiction d’entrée sur le territoire israélien prononcée à l'encontre de Jean-Luc Mélenchon, François Ruffin remarque que c’est aussi le cas de plusieurs élus de la gauche française. Le candidat à l’élection présidentielle dénonce \"une forme de cen",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORmZRQllQNU9GZzFWMWJScGxwc0RrcHRmMVV1eTJTUkp1LVAyNzF1cWszcnFOdnY5RTU4bEFQNjlnN2VQMVpYbnA1RDBKR1JxcXJMdFRWdHl5bS1vUWRVSVJZdmY3aVkxTVlOOVVLN0Z2S0tMZExhYVp5Y1lxdGYzWWZ6UWhES010c2VNZkRGVVJTUGh2X1gtZ1paQ3dqczNQUWk5bEJKREl4OGxyQklyTkZ1UExUVnNwUl9ISUNEX21yM0h5VU54M19uWUw4T1NTb3NaVnozMUlIZ0k5clRqTXpfVTk2MjdNbVg5MUpVZzJ5QlVHcmdvLVVB?oc=5",
-     "source": "Facebook",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-14T05:42:41.000Z"
-    },
-    {
-     "title": "François Ruffin, candidat \"Debout!\" à l'élection présidentielle, dénonce un \"budget de provocation\"",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSlNjMkE0b0VHajBocFdJNzdRb0VDRm00UWVfb1BZbVNxcENXVzcyX3ZQNWNpcWozZVFHc05jRmRucjNzbEc3YUE4YlY5b2lMN2prOENJdFk2enBlOUZrUGIweTB0VG1NLTA5MFVMMGswZVQ4UmVpZmVXRGNTLWJTT3pGR1RiOE5odFFZSURnREFrMDBVRlp0MWpXNkxtMkdXb3lJZUY5NFd5ZlNwMGdBVTVFcUU1MmNFcjZpdjZZZVNodnRkQkZVYUMtdm9hYWRBX25RLUFKVDhYaHpuTXJONVU5WlprT1BZSE1GcVJZVWtpM2dGZWRJLUNzQm1KbkljRUhPLVRTcw?oc=5",
-     "source": "BFM",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-10-30T07:00:00.000Z"
-    },
-    {
-     "title": "Présidentielle 2027 : François Ruffin se dit prêt à retirer sa candidature… mais pas pour Jean-Luc Mélenchon",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQakY3NmowN00wNXdaNFQ3NUZGVEpGZEk2cEVHTENab3Z6WUU0NXhkQ3R1UmNfd1pieWhUcWZPYzRfM2tPOTU4NUlLa2F0TWx2YkhFWDEtOEVvWmpubVRUZU8xZkR2aF9jLWR0aXZHbnhEU3ZBSkFySHUwaFR6SDBFUEswYkllT2FXWEgzTVNPSW4tY1p3ZFRtZHh1Yy14VFl2ZTNfdEdrdFFyOE9heTFQRzF1ZHJpQkcwVnJWRE92ckpPRDE2aVMzSVlXUnRtelV5RHZRdlc0LVJ4LTAyVHhuYmxQcXhYamQ1WEtIc3ZQMGZxdGJ5OVE3MC13V0RHY09WNHIzRUxrUXdTYjVqNHpwME9FU09STF9WNl8tanlrLWlhVkxz?oc=5",
-     "source": "Le Parisien",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-06T08:00:00.000Z"
-    },
-    {
-     "title": "François Ruffin face aux GG - 10/11",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb21EVTlOejNKNDFvMHdmZlJvMFNlRmQzSDdTV2lISWhCVG5kVlJ0Z1NZZ0U2Q1p2ZWh2N1U1NlpqVVJkeklaVWJyU3RMbkVWa0R1b3lGSFdIVWo2YXNvLUE5T1VmaUxBMV9GX2o1MTQwMzl6XzdERXJwd3lCbk5xZjBsWWt0VkFWN0tNMmowbThaUUpnLXZTVnVxSGtUbFQ5Y2VGa1g1LVpHN0tKZElOXzBWVTY0QVhlSWVB?oc=5",
-     "source": "RMC",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-10T10:32:52.000Z"
-    },
-    {
-     "title": "[Podcasts] François Ruffin face aux GG - 10/11",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWhhcWF2cVpMTE92ckRXMnhadWNKbnNtWml5dDR1c2dick40OVB6V1pkY0Fkd3h1NEJoVENQZzVkOEtGdXpsNXVWV2xiczA0c21jMXIyYnh3dTQtZXhIZEVRS3YwdXBlQVR3amdvU1JaMHBsQVR6N2VqY01HR191YlhKYUdOYmtPbTFpZThON3dkUFR6Rm1yTDJkZHV1b2JYRDN1b25XNG12bHg0ZUJ4QkxmVQ?oc=5",
-     "source": "RMC",
-     "excerpt": null,
-     "image": null,
-     "date": "2026-11-10T10:25:42.000Z"
+     "title": "« Triste », « candidat de poids », « bonne chose »... De David Lisnard à François Ruffin, les réactions politiques à l’annonce de la candidature de Teddy Riner à ...",
+     "url": "https://www.nicematin.com/societe/politique/triste-candidat-de-poids-bonne-chose-de-david-lisnard-a-francois-ruffin-les-reactions-politiques-a-l-annonce-de-la-candidature-de-teddy-riner-a-la-presidentielle-2027-10757419",
+     "source": "Nice-Matin",
+     "excerpt": "Dans une vidéo publiée sur les réseaux sociaux lundi 9 novembre 2026, le quintuple champion olympique Teddy Riner a annoncé sa candidature à l'élection présidentielle de 2027. Une illustration d'une p ...",
+     "image": "https://www.bing.com/th?id=ONUT.bPbZBrwZAyprcvkZe3-dJw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T06:36:00.000Z"
     },
     {
      "title": "\"C'est Macron avec beaucoup plus de muscles\": Teddy Riner trop \"pro-business\" pour François Ruffin",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZTJUTm1ENlktdUJOel9kZFBhVFgxMzV5ZGUxempnNVd1eFJQTG8yb0dsbm5uc0RSMkxRUV8zWXYwc1k1ZzVSai1mMGo4c1JndzlhSjh1MEhxMkxidjBVTmp6R3oyYmVyZ2ZtZFVIM1Z3N1lVdG51ZVo5REFvNmJrNlR5UnlUaEo2WEdpQUw0UmNiT1BBTGlQOFFEVUt0WjkzTWVqWm9EbDFBVzYzODU1ZlNHMmVrV3R5N3NmUWxLVHlfZGJOcUJ1TzZGSFFSYW5tUEFYeE9QTGdkMy0zSnFkSHQ0Ul9YUmJNY1JWWVFR?oc=5",
+     "url": "https://rmc.bfmtv.com/actualites/politique/c-est-macron-avec-beaucoup-plus-de-muscles-teddy-riner-trop-pro-business-pour-francois-ruffin_AV-202611100537.html",
      "source": "RMC",
-     "excerpt": null,
+     "excerpt": "Invité des Grandes Gueules, le député de la Somme et candidat à la présidentielle 2027 François Ruffin a réagi à l'arrivée d'un nouveau concurrent dans la course à l'Élysée avec la candidature du judo ...",
+     "image": "https://www.bing.com/th?id=ONUT.TSBztTTIOJnMwHrEu2AikQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T04:49:00.000Z"
+    },
+    {
+     "title": "«Moi non plus je n'ai pas du tout envie de me retrouver face à face avec Teddy Riner» : François Ruffin réagit à la candidature du judoka",
+     "url": "https://video.lefigaro.fr/figaro/politique/moi-non-plus-je-n-ai-pas-du-tout-envie-de-me-retrouver-face-a-face-avec-teddy-riner-francois-ruffin-reagit-a-la-candidature-du-judoka-20261110",
+     "source": "Figaro Live",
+     "excerpt": "Le député François Ruffin, candidat à l'élection présidentielle, a réagi ce mardi 10 novembre à l'annonce de candidature du judoka Teddy Riner.",
+     "image": "https://www.bing.com/th?id=ONUT.XiBJOP7xSJVC3FAOzJdjOQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T02:50:00.000Z"
+    },
+    {
+     "title": "François Ruffin face aux GG - 10/11",
+     "url": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/francois-ruffin-face-aux-gg-10-11_EN-202611100445.html",
+     "source": "RMC",
+     "excerpt": "Aujourd'hui, c'est au tour de François Ruffin, candidat \"Debout !\" à la présidentielle, de faire face aux GG. - L’émission de libre expression sans filtre et sans masque social… Dans les Grandes Gueul ...",
+     "image": "https://www.bing.com/th?id=ONUT.o0Vxf6VveD9cCAtlt9_H8A&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-10T02:25:00.000Z"
+    },
+    {
+     "title": "François Ruffin \"payé au SMIC\" et délesté de ses indemnités de parlementaire : ce qu'il lui resterait en poche après avoir versé ses dons à des associations caritatives",
+     "url": "https://www.melty.fr/people/francois-ruffin-paye-au-smic-et-deleste-de-ses-indemnites-de-parlementaire-ce-quil-lui-resterait-en-poche-apres-avoir-verse-ses-dons-a-des-associations-caritatives-2360795.html",
+     "source": "Melty",
+     "excerpt": "Le SMIC va bientôt franchir le cap des 1 500 euros net. L'occasion de revenir sur le choix financier assez particulier de François Ruffin, qui avait décidé de redistribuer une grande partie de ses ind ...",
+     "image": "https://www.bing.com/th?id=ONUT.iIBkfGKbL1emlcs2FInYfg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "« Je viens tester un discours », François Ruffin précise son programme lors d’une escale à Lille",
+     "url": "https://www.peperenews.fr/je-viens-tester-un-discours-francois-ruffin-precise-son-programme-lors-dune-escale-a-lille/",
+     "source": "Pépère News",
+     "excerpt": "Pépère News - Ce mercredi 4 novembre, pour la sortie de son livre Au Boulot ! 40 chantiers pour remettre le pays debout, François Ruffin, président du parti ...",
      "image": null,
-     "date": "2026-11-10T12:50:18.000Z"
+     "date": "2026-11-09T06:17:00.000Z"
+    },
+    {
+     "title": "L'interview d'Amélie Carrouër du lundi 9 novembre 2026 : François Ruffin",
+     "url": "https://www.tf1.fr/fr-be/lci/linterview-damelie-carrouer/videos/linterview-damelie-carrouer-du-lundi-9-novembre-2026-francois-ruffin-73114050.html",
+     "source": "TF1",
+     "excerpt": "[VIDÉO] replay en streaming sur TF1+ Belgique 🇧🇪 ▶️ 1509 - Amélie Carrouër reçoit, ce lundi matin, François Ruffin, député de la Somme, président de Debout !, candidat à l'élection présidentielle. I ...",
+     "image": "https://www.bing.com/th?id=ONUT.iD1-FVLILHdqGj1js39Iag&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-09T00:50:00.000Z"
+    },
+    {
+     "title": "L'interview d'Amélie Carrouër : François Ruffin",
+     "url": "https://www.linternaute.com/television/interview-l-interview-d-amelie-carrouer-p7082157/francois-ruffin-e7128971/",
+     "source": "Linternaute.com",
+     "excerpt": "Les experts en psychologie sont formels : ceux qui ne font pas leur lit le matin ne sont pas désorganisés mais ont plutôt une approche pragmatique et d'autres priorités au quotidien ...",
+     "image": "https://www.bing.com/th?id=ONUT.x109bfyqggs7KgSeY_f7Gg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-08T09:31:00.000Z"
     }
    ],
    "videos": [
@@ -13200,10 +13289,10 @@
    "status": "declare",
    "primary": null,
    "poll": {
-    "avg": 2.7,
+    "avg": 2.8,
     "min": 1,
     "max": 6,
-    "n": 60,
+    "n": 64,
     "history": [
      {
       "date": "2023-09-11",
@@ -13514,6 +13603,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 3
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 3.1
      }
     ],
     "rank": 9
@@ -13607,6 +13701,14 @@
      "excerpt": "Le Rassemblement national va poursuivre en justice la cheffe des Écologistes après ses propos liant le parti à l’auteur de l’attaque raciste des Yvelines ...",
      "image": "https://www.bing.com/th?id=ONUT.CUY5mB9DvkN5CoL0grMXsA&pid=News&w=800&h=450&c=14",
      "date": "2026-11-12T13:36:00.000Z"
+    },
+    {
+     "title": "Marine Tondelier, accusée de diffamation par le RN après des propos sur le suspect de l'attentat des Yvelines, se dit \"extrêmement sereine\"",
+     "url": "https://fr.news.yahoo.com/marine-tondelier-accusee-diffamation-rn-212217298.html",
+     "source": "Yahoo Actualités",
+     "excerpt": "La candidate des Écologistes à la présidentielle 2027 a réagi sur BFMTV à la plainte en diffamation que le Rassemblement national souhaite déposer à son encontre, après avoir affirmé que le principal ...",
+     "image": "https://www.bing.com/th?id=ONUT.10oVfc9BVndvez5si9t7PA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-12T13:00:00.000Z"
     }
    ],
    "videos": [],
@@ -13615,7 +13717,7 @@
      "text": "132 morts.\nPlus de 400 blessé·es physiques.\nPrès de 2500 victimes parties civiles au procès.\n\nC'est le bilan officiel des attentats du 13 novembre 2015. Les plus meurtriers de notre histoire.",
      "image": null,
      "date": "2026-11-13T08:21:03.191Z",
-     "likes": 63,
+     "likes": 64,
      "reposts": 14,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n26khy7gvs26"
     },
@@ -13623,23 +13725,23 @@
      "text": "Ce qui se joue en Ukraine, ce n’est pas seulement l’avenir des Ukrainiens. C’est aussi celui de la liberté et de la démocratie en Europe.\n\nFace au courage des Ukrainiens, notre responsabilité est de ne pas les fragiliser et de continuer à les soutenir.",
      "image": null,
      "date": "2026-11-12T23:27:11.123Z",
-     "likes": 498,
-     "reposts": 135,
+     "likes": 505,
+     "reposts": 138,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n25mne27l222"
     },
     {
      "text": "BFM m'a demandé de ramener un objet que j'amènerais avec moi à l'Élysée.\n\nJ'ai choisi quelque chose lié aux Corons, une chanson de Pierre Bachelet qui est si chère à mon cœur.\n\nElle raconte mon territoire et son histoire parfois douloureuse.\n\nEt c'est l'hymne du RC Lens !",
      "image": null,
      "date": "2026-11-12T23:13:53.761Z",
-     "likes": 50,
-     "reposts": 12,
+     "likes": 51,
+     "reposts": 13,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n25lvlmmrc2i"
     },
     {
      "text": "L’IA ne doit pas devenir une machine à piller les artistes !\n\nDerrière les morceaux générés par IA, il y a le travail de créateurs et créatrices qui mérite d’être protégé et rémunéré.\n\nUn combat que nous menons partout, notamment au Parlement européen avec @davidcormand.bsky.social  !",
      "image": null,
      "date": "2026-11-12T22:59:41.143Z",
-     "likes": 103,
+     "likes": 104,
      "reposts": 30,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n25l46isy22d"
     },
@@ -13647,15 +13749,15 @@
      "text": "Et si l’écologie devenait un 13e mois pour toutes et tous ?\n\nAvec notre bouclier environnemental et social, nous voulons alléger les dépenses essentielles : alimentation, transports, logement.\n\nL’écologie, c’est du pouvoir d’achat aujourd’hui et des économies demain !",
      "image": null,
      "date": "2026-11-12T22:56:57.956Z",
-     "likes": 58,
-     "reposts": 20,
+     "likes": 63,
+     "reposts": 21,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n25kxcuops2c"
     },
     {
      "text": "Je n'utiliserai pas tout mon temps de parole pour critiquer les autres candidatures de gauche.\n\nJe réserve mes critiques à mes adversaires politiques : la droite et l'extrême droite.\n\nLe cœur de mon engagement politique, c'est ce combat contre l'extrême droite.",
      "image": null,
      "date": "2026-11-12T22:49:47.172Z",
-     "likes": 239,
+     "likes": 240,
      "reposts": 48,
      "url": "https://bsky.app/profile/marinetondelier.fr/post/3n25kki2a722c"
     }
@@ -13777,10 +13879,10 @@
    "status": "pressenti",
    "primary": null,
    "poll": {
-    "avg": 1.7,
+    "avg": 1.9,
     "min": 1,
     "max": 3,
-    "n": 10,
+    "n": 12,
     "history": [
      {
       "date": "2025-04-04",
@@ -13871,6 +13973,11 @@
       "date": "2026-11-10",
       "pollster": "Cluster17",
       "value": 1
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 2.8
      }
     ]
    },
@@ -13893,6 +14000,14 @@
      "excerpt": "Marie de Villepin, fille de l'ancien Premier ministre Dominique de Villepin, est véritable touche-à-tout artistique. Mannequin, actrice, musicienne et artiste, elle a été une it girl au début des anné ...",
      "image": "https://www.bing.com/th?id=ONUT.EqyFmhbUFl9blKemFAY18w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-14T02:13:21.000Z"
+    },
+    {
+     "title": "Dominique de Villepin: »Europa hängt krankhaft an den USA«",
+     "url": "https://www.zeit.de/politik/ausland/2026-11/dominique-de-villepin-frankreich-praesidentschaftswahl",
+     "source": "ZEIT ONLINE",
+     "excerpt": "Dominique de Villepin tritt als Kandidat bei der Präsidentenwahl an, mit einem dezidiert europäischen Programm. Er findet, dass die EU sich den USA zu stark anbiedert.",
+     "image": "https://www.bing.com/th?id=ONUT.4ixdJmHyE11MRRNBOsjnHQ&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-14T02:05:00.000Z"
     },
     {
      "title": "Dominique de Villepin (73 ans), grand adepte de course à pied : “Plus c’est difficile, plus j’éprouve le besoin de courir. Plus les journées sont longues, plus je cours”",
@@ -13928,7 +14043,7 @@
     },
     {
      "title": "\"Je n’ai rien à voir avec les macronistes\": Dominique de Villepin écarte toute participation à une éventuelle primaire de la droite et du centre",
-     "url": "https://fr.news.yahoo.com/n-rien-%C3%A0-voir-macronistes-100427204.html",
+     "url": "https://fr.news.yahoo.com/n-rien-%25C3%25A0-voir-macronistes-100427204.html",
      "source": "Yahoo Actualités",
      "excerpt": "L'ancien Premier ministre exclut toute alliance avec le camp présidentiel, notamment avec Gabriel Attal et Édouard Philippe, alors que des personnalités de la droite et du centre se mobilisent pour la ...",
      "image": "https://www.bing.com/th?id=ONUT.dgFDuyXGRcGW5AU7NunuKA&pid=News&w=800&h=450&c=14",
@@ -13965,14 +14080,6 @@
      "excerpt": "À l'antenne de Radio Nova, Dominique de Villepin a dit tout le bien qu'il pensait de Theodora et de Shay. À tel point qu'on commence à se demander si l'ancien Premier ministre ne préférerait pas fréqu ...",
      "image": "https://www.bing.com/th?id=ONUT.OMKvHnuNLT_ZxV7Xcysiig&pid=News&w=800&h=450&c=14",
      "date": "2026-11-09T16:00:00.000Z"
-    },
-    {
-     "title": "«Un homme d’expérience» : l’ancien Premier ministre Dominique de Villepin salue la candidature de Teddy Riner",
-     "url": "https://www.lefigaro.fr/sports/un-homme-d-experience-l-ancien-premier-ministre-dominique-de-villepin-salue-la-candidature-de-teddy-riner-20261109",
-     "source": "Le Figaro",
-     "excerpt": "Dominique de Villepin s'est félicité ce lundi de la candidature surprise à l'élection présidentielle du champion de judo Teddy Riner, «un homme d'expérience», et a encouragé les personnalités de la ...",
-     "image": "https://www.bing.com/th?id=ONUT.DuKs_2bCH79qb3jhMrHUQg&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-09T10:54:00.000Z"
     }
    ],
    "videos": [],
@@ -14133,20 +14240,12 @@
      "date": "2026-11-13T12:17:00.000Z"
     },
     {
-     "title": "Appels au boycott du 11-Novembre : «J'étais ulcéré, effondré», réagit Philippe de Villiers avec émotion",
-     "url": "https://www.cnews.fr/france/2026-11-13/appels-au-boycott-du-11-novembre-jetais-ulcere-effondre-reagit-philippe-de",
+     "title": "«Merci à tous ceux qui nous sont fidèles tous les vendredis soirs, c'est impressionnant», salue Philippe de Villiers",
+     "url": "https://www.cnews.fr/france/2026-11-13/merci-tous-ceux-qui-nous-sont-fideles-tous-les-vendredis-soirs-cest",
      "source": "CNEWS",
-     "excerpt": "«J'étais ulcéré, effondré», a réagi Philippe de Villiers avec émotion, ce vendredi sur CNEWS, au sujet des appels au boycott du 11-Novembre ...",
+     "excerpt": "«Merci à tous ceux qui nous sont fidèles tous les vendredis soirs, c'est impressionnant», a salué Philippe de Villiers, en ouverture de son émission ...",
      "image": null,
-     "date": "2026-11-13T11:51:00.000Z"
-    },
-    {
-     "title": "Face à Philippe de Villiers (Émission du 13/11/2026)",
-     "url": "https://www.msn.com/fr-fr/divertissement/c%C3%A9l%C3%A9brit%C3%A9s/face-%C3%A0-philippe-de-villiers-%C3%A9mission-du-13-11-2026/vi-AA2hnTRW",
-     "source": "Dailymotion",
-     "excerpt": "Philippe de Villiers passe en revue l'actualité de la semaine dans #FaceAPhilippedeVilliers. Présenté par Eliot Deval ...",
-     "image": "https://www.bing.com/th?id=ONUT.C5HJUD8yiFCBxY4kv7O9uQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T11:22:49.000Z"
+     "date": "2026-11-13T11:12:00.000Z"
     },
     {
      "title": "Philippe de Villiers : « CNEWS entre dans les maisons des Français abandonnés, sacrifiés »",
@@ -14163,6 +14262,14 @@
      "excerpt": "CNews propose un nouveau numéro de Face à Philippe de Villiers ce vendredi 13 novembre 2026. La semaine dernière, Philippe de Villiers a offert un record d'audience à la chaîne.",
      "image": "https://www.bing.com/th?id=ONUT.eLPO5hJBg_33v5j1ok4ufg&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T10:30:00.000Z"
+    },
+    {
+     "title": "« Un mur peut en cacher un autre » : Philippe de Villiers évoque la chute du mur de Berlin",
+     "url": "https://www.msn.com/fr-fr/actualite/other/un-mur-peut-en-cacher-un-autre-philippe-de-villiers-%C3%A9voque-la-chute-du-mur-de-berlin/vi-AA2hnGlz",
+     "source": "Dailymotion",
+     "excerpt": "Présent sur le plateau de CNEWS, l'ancien ministre Philippe de Villiers est revenu sur la chute du mur de Berlin, survenue le 9 novembre 1989, en évoquant les conséquences sur l'Europe et la France.",
+     "image": "https://www.bing.com/th?id=ONUT.JldIOsQy4cK_9vjAS4Q9XA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T10:19:59.000Z"
     },
     {
      "title": "Après l’attentat de Trappes, CNews offre à Philippe de Villiers et Jordan Bardella de dénoncer le grand remplacement",
@@ -14197,12 +14304,12 @@
      "date": "2026-11-10T05:04:00.000Z"
     },
     {
-     "title": "« Dommage d’être aussi péremptoire » : accusé de s’être emmêlé dans ses notes sur CNews, Jordan Bardella se défend",
-     "url": "https://www.leparisien.fr/elections/presidentielle/dommage-detre-aussi-peremptoire-accuse-de-setre-emmele-dans-ses-notes-sur-cnews-jordan-bardella-se-defend-09-11-2026-H5VCWULTJBEXLKCW3TFDB22FQQ.php",
-     "source": "Le Parisien",
-     "excerpt": "Le président du Rassemblement national a été moqué sur les réseaux sociaux après avoir évoqué les « aide-mémoire » de la France lors d’une i ...",
-     "image": "https://www.bing.com/th?id=ONUT.jaYBi2LEE-u_WEfaGkMN4Q&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-09T07:44:00.000Z"
+     "title": "Saint-Etienne Deux campagnes de pub retirées en quinze jours : la Stas explique les raisons de ce revirement",
+     "url": "https://www.leprogres.fr/societe/2026/11/10/deux-campagnes-de-pub-retirees-en-quinze-jours-la-stas-explique-les-raisons-de-ce-revirement",
+     "source": "Le Progrès",
+     "excerpt": "La promotion du livre de Philippe de Villiers et le visuel illustrant la Semaine de la validation ont fait bondir, fin septembre et mi-octobre, la ...",
+     "image": "https://www.bing.com/th?id=ONUT.wcvMEH1JKJ0orzNU6JLDqA&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-09T16:00:00.000Z"
     }
    ],
    "videos": [
@@ -14265,6 +14372,15 @@
    ],
    "posts": [],
    "podcasts": [
+    {
+     "title": "Face à Philippe de Villiers - 14/11/2026",
+     "show": "Face à Philippe de Villiers",
+     "url": "https://podcasts.apple.com/fr/podcast/face-%C3%A0-philippe-de-villiers-14-11-2026/id1726898000?i=1000801903644&uo=4",
+     "audio": "https://audio.audiomeans.fr/file/PcNCvtcnHj/ad753405-fca5-4ace-a8c3-b939b153ffe4.mp3?_=1794650607",
+     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/73/b3/2373b394-7b10-3622-4d94-eabc8d029ef5/mza_2907366270733923318.jpg/600x600bb.jpg",
+     "date": "2026-11-14T09:02:49.000Z",
+     "duration": 43
+    },
     {
      "title": "📣 F­ace à Philippe de Villiers  présente Pascal Praud et vous - Hommage à Thierry Le Luron, 40 ans après sa mort, en compagnie de Patrick Sabatier",
      "show": "Face à Philippe de Villiers",
@@ -14345,15 +14461,6 @@
      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/73/b3/2373b394-7b10-3622-4d94-eabc8d029ef5/mza_2907366270733923318.jpg/600x600bb.jpg",
      "date": "2026-10-17T08:03:08.000Z",
      "duration": 41
-    },
-    {
-     "title": "Face à Philippe de Villiers (Émission du 16/10/2026)",
-     "show": "Face à Philippe de Villiers",
-     "url": "https://podcasts.apple.com/fr/podcast/face-%C3%A0-philippe-de-villiers-%C3%A9mission-du-16-10-2026/id1710379588?i=1000796707906&uo=4",
-     "audio": "https://sphinx.acast.com/p/open/s/64edcb6245b5ac0011588018/e/6ad267f8e53019e890e488d9/media.mp3",
-     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/0f/e5/520fe5be-0d47-1c0f-7260-45d51908b7f8/mza_11466673632730864837.jpeg/600x600bb.jpg",
-     "date": "2026-10-16T18:07:50.000Z",
-     "duration": 62
     }
    ]
   },
@@ -14390,7 +14497,7 @@
     "avg": 3.7,
     "min": 2,
     "max": 6,
-    "n": 63,
+    "n": 69,
     "history": [
      {
       "date": "2023-09-11",
@@ -14711,6 +14818,11 @@
       "date": "2026-11-12",
       "pollster": "OpinionWay",
       "value": 2.5
+     },
+     {
+      "date": "2026-11-13",
+      "pollster": "Elabe",
+      "value": 3.9
      }
     ],
     "rank": 8
@@ -14754,7 +14866,7 @@
      "url": "https://www.cnews.fr/france/2026-11-13/presidentielle-2027-eric-zemmour-espere-participer-une-primaire-de-la-droite-et",
      "source": "CNEWS",
      "excerpt": "Eric Zemmour, tout juste en lice pour le scrutin 2027, a laissé entendre qu'il verrait d'un bon œil une participation à la primaire de droite et du centre.",
-     "image": null,
+     "image": "https://www.bing.com/th?id=ONUT.qbbr1c5ZDddV_MvjvzrJ-w&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T11:37:00.000Z"
     },
     {
@@ -14764,6 +14876,14 @@
      "excerpt": "Éric Zemmour a commencé sa nouvelle campagne ce vendredi, en se rendant au Salon du Made in France de la Porte de Versailles, à Paris. Il enchaînera samedi avec une étape à Beaune, pour les festivités ...",
      "image": "https://www.bing.com/th?id=ONUT.TtG1sgUQVwVRwSyfWMYJ3g&pid=News&w=800&h=450&c=14",
      "date": "2026-11-13T11:30:00.000Z"
+    },
+    {
+     "title": "“Je serai ravi d’être candidat” : Eric Zemmour, candidat à la présidentielle, souhaite rejoindre la primaire de la droite",
+     "url": "https://www.lamontagne.fr/france-monde/actualites/je-serai-ravi-detre-candidat-eric-zemmour-souhaite-rejoindre-la-primaire-de-la-droite_15081904/",
+     "source": "La Montagne",
+     "excerpt": "Au salon du Made in France ce vendredi 13 novembre, Eric Zemmour a ouvert la porte à sa participation à la primaire de la droite. Le candidat Reconquête à l’élection présidentielle souhaite rejoindre ...",
+     "image": "https://www.bing.com/th?id=ONUT.Opnxh1XJH5GkC57TRyXTzw&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T07:55:00.000Z"
     },
     {
      "title": "Présidentielle 2027 : Éric Zemmour appelle David Lisnard à l’inclure dans la primaire de la droite, Edouard Philippe ne veut toujours pas y participer",
@@ -14790,20 +14910,20 @@
      "date": "2026-11-13T05:18:00.000Z"
     },
     {
-     "title": "Présidentielle 2027. Primaire à droite : Eric Zemmour « espère » que David Lisnard fera en sorte de l’intégrer",
-     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-primaire-a-droite-eric-zemmour-espere-que-david-lisnard-fera-en-sorte-de-lintegrer-4ebcd8b0-df61-11f1-9a29-f4bab172af08",
-     "source": "Ouest-France",
-     "excerpt": "[Courrier de l'Ouest] Le candidat d’extrême droite à la présidentielle Éric Zemmour a souhaité vendredi que son concurrent David Lisnard (ex-LR) « résiste à la pression » pour lui permettre de partici ...",
-     "image": "https://www.bing.com/th?id=ONUT.1JbT6oXfsq3YKi8mxtSKzQ&pid=News&w=800&h=450&c=14",
-     "date": "2026-11-13T05:10:00.000Z"
-    },
-    {
      "title": "Présidentielle 2027: Éric Zemmour affirme qu'il serait «ravi d'être candidat» de la primaire de la droite et du centre",
      "url": "https://video.lefigaro.fr/figaro/politique/presidentielle-2027-eric-zemmour-affirme-qu-il-serait-ravi-d-etre-candidat-de-la-primaire-de-la-droite-et-du-centre-20261113",
      "source": "Figaro Live",
      "excerpt": "«Je serai ravi d'être candidat dans cette primaire (de la droite)», a déclaré au salon du Made In France Éric Zemmour, candidat Reconquête à l'élection présidentielle, ce vendredi 13 novembre.",
      "image": null,
      "date": "2026-11-13T03:48:00.000Z"
+    },
+    {
+     "title": "Présidentielle 2027 : Éric Zemmour peut-il participer à la primaire de la droite ? « Pourquoi pas », dit François-Xavier Bellamy",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-eric-zemmour-peut-il-participer-a-la-primaire-de-la-droite-pourquoi-pas-dit-francois-xavier-bellamy-13-11-2026-O77C7FLXXZGODAMVDWO2XI4ISE.php",
+     "source": "Le Parisien",
+     "excerpt": "« Les tenants de la primaire s’enfoncent dans l’absurde : Gabriel Attal voulait y inclure Raphaël Glucksmann, François-Xavier Bellamy y invi ...",
+     "image": "https://www.bing.com/th?id=ONUT.74-AN1CwgOyaQv3_I44Rhg&pid=News&w=800&h=450&c=14",
+     "date": "2026-11-13T02:12:00.000Z"
     }
    ],
    "videos": [
